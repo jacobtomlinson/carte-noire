@@ -1,0 +1,31 @@
+# Site settings
+title: "Carte Noir"
+email: jacob@jacobtomlinson.co.uk
+description: "A dark blog theme for Jekyll."
+baseurl: ""
+url: "http://www.jacobtomlinson.co.uk"
+author_name: "Jacob Tomlinson"
+author_description: A unix system administrator by day and a website and app developer by night. With experience in RHEL and OS X administration, HTML5, CSS3, JavaScript, jQuery, PHP, Python, MySQL, CodeIgniter, Wordpress and much more. When he is not tapping away at his keyboard you can usually find him making music, gaming or spending time with his wonderful fianc&#233;e.
+title_image: "http://2.gravatar.com/avatar/b7c2d49748426791dc98b8214dfac9d1?s=500"
+google_analytics:
+disqus_account: jacobtomlinson
+github_repository: https://github.com/jacobtomlinson/jacobtomlinson.github.io
+addthis_id: ra-513c6fa83da6ec67
+
+# Social usernames/URLs
+twitter_username: _jacobtomlinson
+github_username:  jacobtomlinson
+linkedin_link: http://www.linkedin.com/pub/jacob-tomlinson/34/b67/84
+google_plus_link: https://plus.google.com/+JacobTomlinson0/
+stackoverflow_link: http://stackoverflow.com/users/1003288/jacob-tomlinson
+
+# Footer
+footer_left: "Made with <i class=\"fa fa-heart\"></i> using jekyll"
+footer_right: "Proudly hosted on <a href=\"https://github.com/jacobtomlinson/jacobtomlinson.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+permalink: pretty
+exclude: [vendor]
