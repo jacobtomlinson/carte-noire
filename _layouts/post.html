@@ -17,6 +17,10 @@ layout: default
       <div class="thumb">
         <img itemprop="image" src="{{ site.data.thumbnail[page.thumbnail] }}" alt="Thumbnail: {{ page.thumbnail }}" />
       </div>
+      {% elsif page.thumbnail %}
+      <div class="thumb">
+        <i class="fa fa-{{ page.thumbnail }} fa-4x"></i>
+      </div>
       {% endif %}
 
       <h1 class="header" itemprop="name">{{ page.title }}</h1>

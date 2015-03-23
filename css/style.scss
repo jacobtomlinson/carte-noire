@@ -228,8 +228,9 @@ ul {
 
 	.author-header {
 		font-family: 'Montserrat', sans-serif;
-		color: $light-medium;
+		color: $light-blue;
 		margin-top: 0px;
+		padding-top: 15px;
 		font-size: 30px;
 
 		@media (min-width: $screen-sm-min) {
@@ -270,6 +271,7 @@ ul {
 
 		h2 {
 			margin-bottom: 30px;
+			color: $light-blue;
 		}
 
 		ul {
@@ -688,6 +690,10 @@ ul {
 .footer {
 	width: 100%;
 	margin-left: 0%;
+
+	.fa-heart {
+		color: $red;
+	}
 
 	@media (min-width: $screen-sm-min) {
 		width: 90%;

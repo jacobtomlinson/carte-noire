@@ -1,9 +1,16 @@
 ---
 layout:     post
-title:      Hello, Pixyll
-date:       2014-06-11 15:31:19
-summary:    Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.
-categories: jekyll pixyll
+title:      Welcome to Carte Noir
+date:       2015-03-23 15:31:19
+author:     Jacob Tomlinson
+summary:    Carte Noir is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.
+categories: jekyll
+thumbnail:  heart
+tags:
+ - welcome
+ - to
+ - carte
+ - noir
 ---
 
 Hello.
