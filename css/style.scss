@@ -131,6 +131,7 @@ ul {
 	padding-right: 30px;
 	margin-top: 20px;
 	box-shadow: 0px 0px 0px 0px, 0px 6px 12px rgba(0, 0, 0, 0.2);
+	border-bottom: 5px solid $light-blue;
 }
 
 #my-menu {
@@ -226,6 +227,10 @@ ul {
 		}
 	}
 
+	.content-panel:nth-of-type(1) {
+		border-bottom: 10px solid $light-blue;
+	}
+
 	.author-header {
 		font-family: 'Montserrat', sans-serif;
 		color: $light-blue;
@@ -272,6 +277,7 @@ ul {
 		h2 {
 			margin-bottom: 30px;
 			color: $light-blue;
+			font-size: 26px;
 		}
 
 		ul {
@@ -280,6 +286,27 @@ ul {
 
 			li {
 				margin-bottom: 15px;
+				font-size: 32px;
+
+				a:hover {
+					color: $light-medium;
+				}
+
+				small {
+					font-size: 14px;
+					margin-top: -10px;
+					padding-top: 0px;
+					color: $light-medium;
+				}
+
+			}
+
+			li:nth-last-of-type(1) {
+
+				small {
+					font-size: 16px;
+				}
+
 			}
 		}
 

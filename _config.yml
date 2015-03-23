@@ -10,6 +10,7 @@ google_analytics:
 disqus_account: cartenoir
 github_repository: https://github.com/jacobtomlinson/carte-noire
 addthis_id: ra-513c6fa83da6ec67
+post_limit: 5
 
 # Social usernames/URLs
 twitter_username: _jacobtomlinson
