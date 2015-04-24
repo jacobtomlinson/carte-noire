@@ -1,6 +1,6 @@
 # Carte Noir
 
-A simple Jekyll theme for blogging.
+A simple Jekyll theme for blogging. Not named after the coffee.
 
 ## Contact
 If you wish to contact me regarding this theme please raise an issue on GitHub,
