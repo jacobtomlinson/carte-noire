@@ -1,16 +1,16 @@
 ---
 layout:     post
-title:      Welcome to Carte Noir
+title:      Welcome to Carte Noire
 date:       2015-03-23 15:31:19
 author:     Jacob Tomlinson
-summary:    Carte Noir is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.
+summary:    Carte Noire is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.
 categories: jekyll
 thumbnail:  heart
 tags:
  - welcome
  - to
  - carte
- - noir
+ - noire
 ---
 
 Hello.
