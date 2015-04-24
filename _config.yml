@@ -15,12 +15,12 @@ post_limit: 5
 # Social usernames/URLs
 twitter_username: _jacobtomlinson
 github_username:  jacobtomlinson
-linkedin_link: http://www.linkedin.com/pub/jacob-tomlinson/34/b67/84
-google_plus_link: https://plus.google.com/+JacobTomlinson0/
-stackoverflow_link: http://stackoverflow.com/users/1003288/jacob-tomlinson
+linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
+google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
+stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> using jekyll"
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
