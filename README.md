@@ -2,6 +2,8 @@
 
 A simple Jekyll theme for blogging. Not named after the coffee.
 
+![Screenshot](http://i.imgur.com/xlmHArV.png)
+
 ## Contact
 If you wish to contact me regarding this theme please raise an issue on GitHub,
 tweet me [@_jacobtomlinson](http://www.twitter.com/_jacobtomlinson) or email me
