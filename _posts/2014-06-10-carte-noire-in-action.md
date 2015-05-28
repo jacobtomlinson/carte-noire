@@ -67,14 +67,6 @@ You can use the markdown quote syntax, `>` for simple quotes.
 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis porta mauris.
 
-However, you need to inject html if you'd like a citation footer.
-
-<blockquote>
-  <p>
-    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
-  </p>
-  <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
-</blockquote>
 
 ### There's more being added all the time
 

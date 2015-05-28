@@ -545,6 +545,42 @@ ul {
 				list-style-type: disc;
 			}
 
+			blockquote {
+				position: relative;
+				width: 100%;
+		    margin-left: -15px;
+				padding-right: 45px;
+				background-color: $darker;
+				color: white;
+				box-sizing: content-box;
+				border: none;
+				font-size: 28px;
+
+				@media (min-width: $screen-sm-min) {
+					margin-left: -30px;
+					padding-left: 45px;
+					padding-right: 15px;
+				}
+
+				p {
+			    margin: 0;
+			    padding: 15px;
+					z-index: 0;
+				}
+
+				:before {
+    			font-family: "Times New Roman";
+					color: $light-medium;
+			    content: "“";
+			    position: absolute;
+			    top: 15px;
+			    left: 15px;
+			    font-size: 65px;
+			    font-weight: bold;
+				}
+
+			}
+
 			.alignright {
 				float: right;
 			}
