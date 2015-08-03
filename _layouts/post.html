@@ -92,12 +92,13 @@ layout: default
             <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
           </div>
           <div class="excerpt">
-            {{ post.excerpt | strip_html | truncatewords:30 }}
+             {% if post.summary %}
+              {{ post.summary | strip_html | truncatewords:30 }}
+             {% else %}
+              {{ post.excerpt | strip_html | truncatewords:30 }}
+             {% endif %}
             <a href="{{ site.baseurl }}{{ post.url }}">Continue Reading</a>
           </div>
-        {% endfor %}
-        <hr />
-        <div class="previous previous-next">
           {% if page.previous %}
           <p>
             <a href="{{ site.baseurl }}{{ page.previous.url }}">{{ page.previous.title }}</a>
