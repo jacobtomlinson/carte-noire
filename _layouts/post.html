@@ -99,6 +99,8 @@ layout: default
              {% endif %}
             <a href="{{ site.baseurl }}{{ post.url }}">Continue Reading</a>
           </div>
+        {% endfor %}
+        <hr />
           {% if page.previous %}
           <p>
             <a href="{{ site.baseurl }}{{ page.previous.url }}">{{ page.previous.title }}</a>
