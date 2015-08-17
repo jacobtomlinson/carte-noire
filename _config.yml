@@ -24,8 +24,10 @@ footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitt
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+markdown: kramdown
+highlighter: pygments
+kramdown:
+    input: GFM
+
 permalink: pretty
 exclude: [vendor]
