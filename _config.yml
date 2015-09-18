@@ -13,11 +13,11 @@ addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
 # Social usernames/URLs
-twitter_username: 
+# twitter_username: 
 github_username:  yvoloshin
 linkedin_link: https://www.linkedin.com/in/yvoloshin
-google_plus_link: 
-stackoverflow_link: 
+# google_plus_link: 
+# stackoverflow_link: 
 
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
