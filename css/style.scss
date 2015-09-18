@@ -248,6 +248,25 @@ ul {
 			margin-top: -20px;
 		}
 	}
+	
+	.subtitle {
+		font-family: 'Montserrat', sans-serif;
+		color: $red;
+		margin-top: 0px;
+		padding-top: 15px;
+		font-size: 30px;
+		text-align: center;
+
+		@media (min-width: $screen-sm-min) {
+			font-size: 52px;
+			margin-top: 0px;
+		}
+
+		@media (min-width: $screen-md-min) {
+			font-size: 60px;
+			margin-top: -20px;
+		}
+	}
 
 	.row {
 		height: 100%;
