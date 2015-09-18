@@ -1,23 +1,23 @@
 # Site settings
-title: "Carte Noire"
-email: jacob@jacobtomlinson.co.uk
-description: "A dark blog theme for Jekyll."
+title: "Yury Voloshin"
+email: yvoloshin01@gmail.com
+description: "Yury Voloshin's Personal Site"
 baseurl: ""
-url: "http://carte-noire.jacobtomlinson.co.uk/"
+url: "http://yvoloshin.github.io/"
 title_description: "A dark blog theme for Jekyll focusing on a clear reading experience. Large text and a narrow body makes carte noire a gorgeous read. With excellent code snippet support and integrated tools such as AddThis and Disqus giving your Jekyll blog all the functionality your users expect."
-title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+title_image: "http://i.imgur.com/VSI9h3S.jpg"
 google_analytics: "UA-20365477-4"
 disqus_account: cartenoire
-github_repository: https://github.com/jacobtomlinson/carte-noire
+github_repository: https://github.com/yvoloshin
 addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
 # Social usernames/URLs
-twitter_username: _jacobtomlinson
-github_username:  jacobtomlinson
-linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
-google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
-stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
+# twitter_username: 
+github_username:  yvoloshin
+linkedin_link: https://www.linkedin.com/in/yvoloshin
+# google_plus_link: 
+# stackoverflow_link: 
 
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
