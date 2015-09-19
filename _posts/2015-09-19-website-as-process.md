@@ -3,7 +3,7 @@ layout:     post
 title:      Why is a Web App just like a Chemical Plant?
 date:       2015-09-12 14:32:18
 summary:    This is a reflection on the similarity between web development and chemical engineering.
-categories: web development, Rails
+categories: Rails
 tags:
  - Rails
 ---
