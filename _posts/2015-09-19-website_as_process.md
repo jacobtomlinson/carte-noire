@@ -1,11 +1,4 @@
 ---
-published: false
----
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
----
 layout:     post
 title:      Web Application as a Process: Web Development and Chemical Engineering
 date:       2015-09-12 14:32:18
@@ -15,7 +8,7 @@ tags:
  - Rails
 ---
 
-In the first post on this blog, I'd like to share an observation that occurred to me as I started learning about what goes on under the hood of MVC websites. I will write it from the perspective of a chemical engineer who has graduated from a web development “bootcamp” called The Firehose Project ([http://www.thefirehoseproject.com](http://www.thefirehoseproject.com)/) about six weeks ago. Hopefully, this is an observation that might give an aspiring web developer a new perspective on their work. Here it is, in a nutshell: building a reliable web application is very similar to a chemical manufacturing process. 
+In the first post on this blog, I'd like to share an observation that occurred to me as I started learning about what goes on under the hood of MVC websites. I will write it from the perspective of a chemical engineer who has graduated from a web development “bootcamp” called [The Firehose Project] (http://www.thefirehoseproject.com) about six weeks ago. Hopefully, this is an observation that might give an aspiring web developer a new perspective on their work. Here it is, in a nutshell: building a reliable web application is very similar to a chemical manufacturing process. 
 
 This seems like an obvious analogy... or is it? Let me flesh it out with details. The dictionary definition of a "process" is "a series of actions or steps taken in order to achieve a particular end." This is the reason why the manufacture of any product is usually described as a process, where the steps may be either mechanical or chemical in nature. A manufacturing process has an input (raw materials) and an output (finished product). A website's response to a user's request may also be described as a process. A [series of steps] (https://en.wikibooks.org/wiki/Ruby_on_Rails/Getting_Started/Model-View-Controller) are set into motion by a user's HTTP request that starts with the router, moves on to the appropriate controller, and renders a display in the browser through the view component that may involve interactions with models and databases. This process also has an input (user request) and an output (the requested view). 
 
