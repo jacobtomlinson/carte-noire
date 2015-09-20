@@ -25,5 +25,5 @@ Coming back to web development, we can also point out two main areas where error
 Next, we have the safety and security concerns. In chemical manufacturing, a safe process is designed in such a way as to minimize the chances of injury for the process operators. Security considerations call for restricting access to the manufacturing site using fences, id cards, and security guards. Web development analogies are password protection and validation requirements. Security considerations also call for us to design software in such a way as to minimize attacks, such as [injection attacks and session hijacking] (http://guides.rubyonrails.org/security.html). 
 
 Does all of this imply that a background in chemical engineering can make one a better web developer? At the risk of making this post sound like a shameless self-promotion (which it is of course), I'd like to think so. In the meantime, I'll make a note to my future reincarnated self to become a developer without having first been a chemical engineer. Then, we'll be able to answer this question with certainty.
-
+________________________________________
 *Thank you [Christina McIntyre](http://www.christinamcintyre.com) for the [MVC link](http://betterexplained.com/articles/intermediate-rails-understanding-models-views-and-controllers)!
