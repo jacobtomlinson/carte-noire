@@ -26,4 +26,4 @@ Next, we have the safety and security concerns. In chemical manufacturing, a saf
 
 Does all of this imply that a background in chemical engineering can make one a better web developer? At the risk of making this post sound like a shameless self-promotion (which it is of course), I'd like to think so. In the meantime, I'll make a note to my future reincarnated self to become a developer without having first been a chemical engineer. Then, we'll be able to answer this question with certainty.
 
-* Thank you [Christina McIntyre](http://www.christinamcintyre.com) for the [MVC link](http://betterexplained.com/articles/intermediate-rails-understanding-models-views-and-controllers)!
+*Thank you [Christina McIntyre](http://www.christinamcintyre.com) for the [MVC link](http://betterexplained.com/articles/intermediate-rails-understanding-models-views-and-controllers)!
