@@ -16,7 +16,7 @@ This seems like an obvious analogy... or is it? Let me flesh it out with details
 ![Refinery](http://i.imgur.com/E72A0FX.jpg)
 This is a process...
 ![MVC](http://i.imgur.com/o0J3Lr5.png)
-This is also a process.
+And this is also a process.
 
 If a process doesn't produce the expected output, then its time to troubleshoot. We can consider a chemical process where substance A is mixed with substance B in some kind of a vessel to produce a substance C. If the production rate of substance C is not what we expect, then we need to consider two main areas. First, are we sure that our knowledge of the reaction A + B → C is correct? What are the chances that, under the conditions present in the reactor, this reaction will react at a different rate than what we expect? In technical terms, this refers to “reaction kinetics”. Second, we need to consider the environment in the reactor. Is there any reason why the temperature, pressure, or the flow rate in the reactor may be different than what we expect? Deviations in either one of these areas may explain the unexpected output. 
 
@@ -26,4 +26,4 @@ Next, we have the safety and security concerns. In chemical manufacturing, a saf
 
 Does all of this imply that a background in chemical engineering can make one a better web developer? At the risk of making this post sound like a shameless self-promotion (which it is of course), I'd like to think so. In the meantime, I'll make a note to my future reincarnated self to become a developer without having first been a chemical engineer. Then, we'll be able to answer this question with certainty.
 
-* Thank you [Christina McIntyre](christinamcintyre.com) for the [MVC link](http://betterexplained.com/articles/intermediate-rails-understanding-models-views-and-controllers)!
+* Thank you [Christina McIntyre](http://www.christinamcintyre.com) for the [MVC link](http://betterexplained.com/articles/intermediate-rails-understanding-models-views-and-controllers)!
