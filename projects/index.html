@@ -48,14 +48,15 @@
         box-shadow: 0px 0px 0px 0px, 0px 6px 12px rgba(0, 0, 0, 0.2);
         border-bottom: 5px solid #3CA2A2;
         width: 65%;
-        position:absolute;
-     width:300px;
-     height:200px;
-     z-index:15;
-     top:50%;
-     left:50%;
-     margin:-100px 0 0 -150px;
       }
+      
+     .centered {
+	  position: fixed;
+	  top: 50%;
+	  left: 50%;
+	  /* bring your own prefixes */
+	  transform: translate(-50%, -50%);
+}
 
       body {
         font-family: 'Open Sans', sans-serif;
@@ -107,7 +108,7 @@
 
     
   <body>
-    <div class="content-panel col-xs-10 col-xs-offset-1"> 
+    <div class="content-panel centered col-xs-10 col-xs-offset-1"> 
 
       <h1>Yury Voloshin</h1>
       <h2>Projects</h2>
