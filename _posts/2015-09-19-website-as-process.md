@@ -17,7 +17,7 @@ This seems like an obvious analogy... or is it? Let me flesh it out with details
 This is a process...
 
 ![MVC](http://i.imgur.com/o0J3Lr5.png)
-And this is also a process.
+And so is this.
 
 If a process doesn't produce the expected output, then its time to troubleshoot. We can consider a chemical process where substance A is mixed with substance B in some kind of a vessel to produce a substance C. If the production rate of substance C is not what we expect, then we need to consider two main areas. First, are we sure that our knowledge of the reaction A + B → C is correct? What are the chances that, under the conditions present in the reactor, this reaction will react at a different rate than what we expect? In technical terms, this refers to “reaction kinetics”. Second, we need to consider the environment in the reactor. Is there any reason why the temperature, pressure, or the flow rate in the reactor may be different than what we expect? Deviations in either one of these areas may explain the unexpected output. 
 
