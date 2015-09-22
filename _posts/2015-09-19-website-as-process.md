@@ -15,6 +15,7 @@ This seems like an obvious analogy... or is it? Let me flesh it out with details
 
 ![Refinery](http://i.imgur.com/E72A0FX.jpg)
 This is a process...
+
 ![MVC](http://i.imgur.com/o0J3Lr5.png)
 And this is also a process.
 
