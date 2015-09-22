@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      How is a Web App like a Chemical Plant?
-date:       2015-09-12 14:32:18
+date:       2015-09-21 14:32:18
 author:     Yury Voloshin
 summary:    This is a reflection on the similarity between web development and chemical engineering.
 categories: Rails
