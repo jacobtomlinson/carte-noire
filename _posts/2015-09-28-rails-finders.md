@@ -27,7 +27,7 @@ This seemed to work well. Then the pawn made a move and code that updates its po
 This gave me an error:
 <div class = "highlight">
  <pre>
-  <code class="language-ruby" data-lang="ruby">NoMethodError: undefined method `id' for       <ActiveRecord::AssociationRelation::ActiveRecord_AssociationRelation_Piece:0xbaa546b8></code>
+  <code class="language-ruby" data-lang="ruby">NoMethodError: undefined method `id' for <ActiveRecord::AssociationRelation::ActiveRecord_AssociationRelation_Piece:0xbaa546b8></code>
  </pre>
 </div>
 
@@ -45,15 +45,25 @@ Finder methods are located in the ActiveRecord module of Rails, which contains m
 
 <div class = "highlight">
  <pre>
-  <code class="language-ruby" data-lang="ruby">spiderman = Superheroes.find_by(name: “Peter Parker”)</code>
+  <code class="language-ruby" data-lang="ruby">spiderman = <i>Superheroes</i>.find_by(name: “Peter Parker”)</code>
  </pre>
 </div>
 
 We can also search through more than one database columns at the same time:
-spiderman = Superheroes.find_by(name: “Peter Parker”, weapon: “spiderweb”)
+<div class = "highlight">
+ <pre>
+  <code class="language-ruby" data-lang="ruby">spiderman = <i>Superheroes</i>.find_by(name: “Peter Parker”, weapon: “spiderweb”)</code>
+ </pre>
+</div>
+
 
 Or, for better readability, we can write it like this:
-spiderman = Superheroes.find_by_name_and_weapon(“Peter Parker”, “spiderweb”)
+<div class = "highlight">
+ <pre>
+  <code class="language-ruby" data-lang="ruby">spiderman = <i>Superheroes</i>.find_by_name_and_weapon(“Peter Parker”, “spiderweb”)</code>
+ </pre>
+</div>
+
 
 As often happens in Ruby, the two statements above return exactly the same result and the one you use depends entirely on your personal preference. 
 An alternate search method is <code>where()</code>. As we've seen in the example above, it is tempting to write
