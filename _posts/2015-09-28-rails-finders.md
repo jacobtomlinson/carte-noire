@@ -1,9 +1,4 @@
 ---
-published: false
----
-
-## A New Post
----
 layout:     post
 title:      A Review of Rails Finders
 date:       2015-09-28 12:32:18
