@@ -11,9 +11,11 @@ tags:
 
 I will try to make this the blog post I wish I read before I started working on [StormyKnights](http://stormy-knights.herokuapp.com), one of my most recent apps. It is all about how to write a finder statement in Rails. Finder statements are, as the name implies, commands that help us find the desired rows in a database table. As in many other aspects of Rails, there are several different ways of structuring a finder statement that will return the same result. I'll start with an example. When I was working on the StormyKnight chess game and had only a smattering of knowledge about finder statements, I used the line below to identify a white pawn in the game:
 
-<pre>
-<code class="language-ruby hljs" data-lang="ruby">white_pawn = game.pieces.where(x_coordinates: 1, y_coordinates: 1)</code>
-</pre>
+<div class = "highlight">
+ <pre>
+  <code class="language-ruby" data-lang="ruby">white_pawn = game.pieces.where(x_coordinates: 1, y_coordinates: 1)</code>
+ </pre>
+</div>
 
 This seemed to work well. Then the pawn made a move and I needed to update its position: 
 
@@ -61,11 +63,8 @@ both return a single object, as expected:
 <code>white_pawn = game.pieces.where(x_coordinates: 10, y_coordinates: 1).first</code>
 return nil
 
-<code>white_pawn = game.pieces.where(x_coordinates: 10, y_coordinates: 1)
+<code>white_pawn = game.pieces.where(x_coordinates: 10, y_coordinates: 1)</code>
 returns
-<ActiveRecord::AssociationRelation []>
+<code><ActiveRecord::AssociationRelation []></code>
 
 find() raises an exception when record is not found because we imply that we expect it to exist. On the other hand, find_by() looks for a match. Since we're not sure that the match exists, it does not raise an exception if record is not found. Instead, it returns nil.  
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
