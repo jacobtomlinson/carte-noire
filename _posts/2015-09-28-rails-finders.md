@@ -17,22 +17,37 @@ I will try to make this the blog post I wish I read before I started working on 
  </pre>
 </div>
 
-This seemed to work well. Then the pawn made a move and I needed to update its position: 
+This seemed to work well. Then the pawn made a move and code that updates its position in the database had to be executed: 
+<div class = "highlight">
+ <pre>
+  <code class="language-ruby" data-lang="ruby">put :update, id: white_pawn1.id, x_coordinates: 1, y_coordinates: 3</code>
+ </pre>
+</div>
 
-put :update, id: white_pawn1.id, x_coordinates: 1, y_coordinates: 3
+This gave me an error:
+<div class = "highlight">
+ <pre>
+  <code class="language-ruby" data-lang="ruby">NoMethodError: undefined method `id' for       <ActiveRecord::AssociationRelation::ActiveRecord_AssociationRelation_Piece:0xbaa546b8></code>
+ </pre>
+</div>
 
-When I did this, I got an error:
-<code>NoMethodError: undefined method `id' for #<ActiveRecord::AssociationRelation::ActiveRecord_AssociationRelation_Piece:0xbaa546b8></code>
+Now inevitable questions came up: How can 'id' be an undefined method? And what's an Association Relation? A google search showed a quick solution to my problem: just add <code>.first</code> to the end of the statement, like this:
 
-This brought on inevitable questions: How can 'id' be an undefined method? And what's an Association Relation? A google search showed a quick solution to my problem: just add <code>.first</code> to the end of the statement, like this:
-
-<code>white_pawn = game.pieces.where(x_coordinates: 1, y_coordinates: 1).first</code>
+<div class = "highlight">
+ <pre>
+  <code class="language-ruby" data-lang="ruby">white_pawn = game.pieces.where(x_coordinates: 1, y_coordinates: 1).first</code>
+ </pre>
+</div>
  
-This time, it worked like a charm. This brought up another question: Why is it working now? These questions were my motivation for looking into the details of Rails finders. Here's a summary of what I found in Agile Web Development with Rails (http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564) and in Rails documentation (http://api.rubyonrails.org/classes/ActiveRecord/FinderMethods.html).
+This time, it worked like a charm. But why? These questions were my motivation for looking into the details of Rails finders. Here's a summary of what I found in [Agile Web Development with Rails] (http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564) and in [Rails documentation] (http://api.rubyonrails.org/classes/ActiveRecord/FinderMethods.html).
 
 Finder methods are located in the ActiveRecord module of Rails, which contains methods that make it possible for us to interact with the database without ever having learned a word of SQL. The simplest way of finding a row in a table is to use the <code>find()</code> method. This method takes the id of the object we're searching for as an argument. For example, game.pieces.find(5) will return a piece with id of 5. However, usually we don't know the id of our model objects and instead we need to use their attributes as parameters. Passing search parameters to the  <code>find()</code> method can be done like this:
 
-spiderman = Superheroes.find_by(name: “Peter Parker”)
+<div class = "highlight">
+ <pre>
+  <code class="language-ruby" data-lang="ruby">spiderman = Superheroes.find_by(name: “Peter Parker”)</code>
+ </pre>
+</div>
 
 We can also search through more than one database columns at the same time:
 spiderman = Superheroes.find_by(name: “Peter Parker”, weapon: “spiderweb”)
