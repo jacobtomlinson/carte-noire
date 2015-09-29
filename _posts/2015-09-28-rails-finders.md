@@ -75,7 +75,7 @@ An alternate search method is <code>where()</code>. As we've seen in the example
 When we <code>inspect()</code> the result of this statement, we get 
 <div class = "highlight">
  <pre>
-  <code class="language-ruby" data-lang="ruby"><ActiveRecord::AssociationRelation [#<Pawn id: 584, x_coordinates: 1, y_coordinates: 1, game_id: 19, created_at: "2015-09-27 22:59:10", updated_at: "2015-09-27 22:59:10", type: "Pawn", color: "white", image: "white-pawn.png", status: "active">]></code>
+  <code class="language-ruby" data-lang="ruby">ActiveRecord::AssociationRelation [#<Pawn id: 584, x_coordinates: 1, y_coordinates: 1, game_id: 19, created_at: "2015-09-27 22:59:10", updated_at: "2015-09-27 22:59:10", type: "Pawn", color: "white", image: "white-pawn.png", status: "active">]</code>
  </pre>
 </div>
 
@@ -88,7 +88,9 @@ It returned an array! Since an array can't have an id, this explains the earlier
 and
 <div class = "highlight">
  <pre>
-  <code class="language-ruby" data-lang="ruby">white_pawn = game.pieces.find_by(x_coordinates: 1, y_coordinates: 1)</code>
+  <code class="language-ruby" data-lang="ruby">
+   white_pawn = game.pieces.find_by(x_coordinates: 1, y_coordinates: 1)
+  </code>
  </pre>
 </div>
 
@@ -96,19 +98,39 @@ both return a single object, as expected:
 
 <div class = "highlight">
  <pre>
-  <code class="language-ruby" data-lang="ruby"><Pawn id: 584, x_coordinates: 1, y_coordinates: 1, game_id: 19, created_at: "2015-09-28 05:22:03", updated_at: "2015-09-28 05:22:03", type: "Pawn", color: "white", image: "white-pawn.png", status: "active"></code>
+  <code class="language-ruby" data-lang="ruby">
+   Pawn id: 584, x_coordinates: 1, y_coordinates: 1, game_id: 19, created_at: "2015-09-28 05:22:03", updated_at: "2015-09-28 05:22:03", type: "Pawn", color: "white", image: "white-pawn.png", status: "active"
+  </code>
  </pre>
 </div>
 
+Its worthwhile to look at what happens when a record is not found. Since we know that the tenth column of a chessboard cannot exist, we can <code>inspect</code> the output of the following find_by statement: 
+<div class = "highlight">
+ <pre>
+  <code class="language-ruby" data-lang="ruby">
+   white_pawn = game.pieces.find_by(x_coordinates: 10, y_coordinates: 1)
+  </code>
+ </pre>
+</div>
 
+It returns <code>nil</code>. We get the same result for 
+<div class = "highlight">
+ <pre>
+  <code class="language-ruby" data-lang="ruby">
+   white_pawn = game.pieces.where(x_coordinates: 10, y_coordinates: 1).first
+  </code>
+ </pre>
+</div>
 
+On the other hand, 
+<div class = "highlight">
+ <pre>
+  <code class="language-ruby" data-lang="ruby">
+   white_pawn = game.pieces.where(x_coordinates: 10, y_coordinates: 1)
+  </code>
+ </pre>
+</div>
 
-<code>white_pawn = game.pieces.find_by(x_coordinates: 10, y_coordinates: 1)</code>
-<code>white_pawn = game.pieces.where(x_coordinates: 10, y_coordinates: 1).first</code>
-return nil
-
-<code>white_pawn = game.pieces.where(x_coordinates: 10, y_coordinates: 1)</code>
-returns
-<code><ActiveRecord::AssociationRelation []></code>
+returns an empty array: <code><ActiveRecord::AssociationRelation []></code>
 
 find() raises an exception when record is not found because we imply that we expect it to exist. On the other hand, find_by() looks for a match. Since we're not sure that the match exists, it does not raise an exception if record is not found. Instead, it returns nil.  
