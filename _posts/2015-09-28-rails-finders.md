@@ -45,7 +45,7 @@ Finder methods are located in the ActiveRecord module of Rails, which contains m
 
 <div class = "highlight">
  <pre>
-  <code class="language-ruby" data-lang="ruby">spiderman = <i>Superheroes</i>.find_by(name: “Peter Parker”)</code>
+  <code>spiderman = <i>Superheroes</i>.find_by(name: “Peter Parker”)</code>
  </pre>
 </div>
 
