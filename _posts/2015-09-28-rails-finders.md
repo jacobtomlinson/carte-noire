@@ -52,7 +52,9 @@ Finder methods are located in the ActiveRecord module of Rails, which contains m
 We can also search through more than one database columns at the same time:
 <div class = "highlight">
  <pre>
-  <code class="language-ruby" data-lang="ruby">spiderman = <i>Superheroes</i>.find_by(name: “Peter”, weapon: “spiderweb”)</code>
+  <code class="language-ruby" data-lang="ruby">
+   spiderman = <i>Superheroes</i>.find_by(name: “Peter”, weapon: “spiderweb”)
+  </code>
  </pre>
 </div>
 
@@ -60,7 +62,9 @@ We can also search through more than one database columns at the same time:
 Or, for better readability, we can write it like this:
 <div class = "highlight">
  <pre>
-  <code class="language-ruby" data-lang="ruby">spiderman = <i>Superheroes</i>.find_by_name_and_weapon(“Peter”, “spiderweb”)</code>
+  <code class="language-ruby" data-lang="ruby">
+   spiderman = <i>Superheroes</i>.find_by_name_and_weapon(“Peter”, “spiderweb”)
+  </code>
  </pre>
 </div>
 
@@ -68,21 +72,27 @@ As often happens in Ruby, the two statements above return exactly the same resul
 An alternate search method is <code>where()</code>. As we've seen in the example above, it is tempting to write
 <div class = "highlight">
  <pre>
-  <code class="language-ruby" data-lang="ruby">white_pawn = game.pieces.where(x_coordinates: 1, y_coordinates: 1)</code>
+  <code class="language-ruby" data-lang="ruby">
+   white_pawn = game.pieces.where(x_coordinates: 1, y_coordinates: 1)
+  </code>
  </pre>
 </div>
 
 When we <code>inspect()</code> the result of this statement, we get 
 <div class = "highlight">
  <pre>
-  <code class="language-ruby" data-lang="ruby">ActiveRecord::AssociationRelation [#<Pawn id: 584, x_coordinates: 1, y_coordinates: 1, game_id: 19, created_at: "2015-09-27 22:59:10", updated_at: "2015-09-27 22:59:10", type: "Pawn", color: "white", image: "white-pawn.png", status: "active">]</code>
+  <code class="language-ruby" data-lang="ruby">
+   ActiveRecord::AssociationRelation [Pawn id: 584, x_coordinates: 1, y_coordinates: 1, game_id: 19, created_at: "2015-09-27 22:59:10", updated_at: "2015-09-27 22:59:10", type: "Pawn", color: "white", image: "white-pawn.png", status: "active"]
+  </code>
  </pre>
 </div>
 
-It returned an array! Since an array can't have an id, this explains the earlier error. On the other hand,
+The result is an object belonging to the ActiveRecord::AssociationRelation class, and not an object of our Pieces class, as explained in [this StackOverflow post] (http://stackoverflow.com/questions/6004891/undefined-method-for-activerecordrelation). It is also an array. This explains the earlier error. On the other hand,
 <div class = "highlight">
  <pre>
-  <code class="language-ruby" data-lang="ruby">>white_pawn = game.pieces.where(x_coordinates: 1, y_coordinates: 1).first</code>
+  <code class="language-ruby" data-lang="ruby">
+   white_pawn = game.pieces.where(x_coordinates: 1, y_coordinates: 1).first
+  </code>
  </pre>
 </div>
 and
@@ -94,7 +104,7 @@ and
  </pre>
 </div>
 
-both return a single object, as expected:
+both return a single record, as expected:
 
 <div class = "highlight">
  <pre>
@@ -103,6 +113,11 @@ both return a single object, as expected:
   </code>
  </pre>
 </div>
+
+To look into it a bit deeper, we can look up the documentation for <code>where()</code> and <code>find_by()</code> methods:
+[<code>where()</code>] (http://www.rubydoc.info/docs/rails/4.1.7/ActiveRecord/QueryMethods#where-instance_method): Returns a new relation, which is the result of filtering the current relation according to the conditions in the arguments.
+
+[<code>find_by()</code>] (http://www.rubydoc.info/docs/rails/4.1.7/ActiveRecord/FinderMethods#find_by-instance_method): Finds the first record matching the specified conditions.
 
 Its worthwhile to look at what happens when a record is not found. Since we know that the tenth column of a chessboard cannot exist, we can <code>inspect</code> the output of the following find_by statement: 
 <div class = "highlight">
@@ -131,6 +146,4 @@ On the other hand,
  </pre>
 </div>
 
-returns an empty array: <code><ActiveRecord::AssociationRelation []></code>
-
-find() raises an exception when record is not found because we imply that we expect it to exist. On the other hand, find_by() looks for a match. Since we're not sure that the match exists, it does not raise an exception if record is not found. Instead, it returns nil.  
+returns an empty array: <code>ActiveRecord::AssociationRelation []</code>
