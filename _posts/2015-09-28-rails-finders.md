@@ -44,15 +44,15 @@ This time, it worked like a charm. But why? These questions were my motivation f
 Finder methods are located in the ActiveRecord module of Rails, which contains methods that make it possible for us to interact with the database without ever having learned a word of SQL. The simplest way of finding a row in a table is to use the <code>find()</code> method. This method takes the id of the object we're searching for as an argument. For example, game.pieces.find(5) will return a piece with id of 5. However, usually we don't know the id of our model objects and instead we need to use their attributes as parameters. Passing search parameters to the  <code>find()</code> method can be done like this:
 
 <div class = "highlight">
-
-  <code class="language-ruby" data-lang="ruby">spiderman = <i>Superheroes</i>.find_by(name: “Peter Parker”)</code>
-
+ <pre>
+  <code class="language-ruby" data-lang="ruby">spiderman = <i>Superheroes</i>.find_by(name: “Peter”)</code>
+ </pre>
 </div>
 
 We can also search through more than one database columns at the same time:
 <div class = "highlight">
  <pre>
-  <code class="language-ruby" data-lang="ruby">spiderman = <i>Superheroes</i>.find_by(name: “Peter Parker”, weapon: “spiderweb”)</code>
+  <code class="language-ruby" data-lang="ruby">spiderman = <i>Superheroes</i>.find_by(name: “Peter”, weapon: “spiderweb”)</code>
  </pre>
 </div>
 
@@ -60,27 +60,46 @@ We can also search through more than one database columns at the same time:
 Or, for better readability, we can write it like this:
 <div class = "highlight">
  <pre>
-  <code class="language-ruby" data-lang="ruby">spiderman = <i>Superheroes</i>.find_by_name_and_weapon(“Peter Parker”, “spiderweb”)</code>
+  <code class="language-ruby" data-lang="ruby">spiderman = <i>Superheroes</i>.find_by_name_and_weapon(“Peter”, “spiderweb”)</code>
  </pre>
 </div>
 
-
 As often happens in Ruby, the two statements above return exactly the same result and the one you use depends entirely on your personal preference. 
 An alternate search method is <code>where()</code>. As we've seen in the example above, it is tempting to write
-<code>white_pawn = game.pieces.where(x_coordinates: 1, y_coordinates: 1)</code>
+<div class = "highlight">
+ <pre>
+  <code class="language-ruby" data-lang="ruby">white_pawn = game.pieces.where(x_coordinates: 1, y_coordinates: 1)</code>
+ </pre>
+</div>
 
 When we <code>inspect()</code> the result of this statement, we get 
+<div class = "highlight">
+ <pre>
+  <code class="language-ruby" data-lang="ruby"><ActiveRecord::AssociationRelation [#<Pawn id: 584, x_coordinates: 1, y_coordinates: 1, game_id: 19, created_at: "2015-09-27 22:59:10", updated_at: "2015-09-27 22:59:10", type: "Pawn", color: "white", image: "white-pawn.png", status: "active">]></code>
+ </pre>
+</div>
 
-<ActiveRecord::AssociationRelation [#<Pawn id: 584, x_coordinates: 1, y_coordinates: 1, game_id: 19, created_at: "2015-09-27 22:59:10", updated_at: "2015-09-27 22:59:10", type: "Pawn", color: "white", image: "white-pawn.png", status: "active">]>
-
-It returned an array! Since an array can't have an id, this explains the earlier error. On the other hand, 
-
-<code>white_pawn = game.pieces.where(x_coordinates: 1, y_coordinates: 1).first</code>
+It returned an array! Since an array can't have an id, this explains the earlier error. On the other hand,
+<div class = "highlight">
+ <pre>
+  <code class="language-ruby" data-lang="ruby">>white_pawn = game.pieces.where(x_coordinates: 1, y_coordinates: 1).first</code>
+ </pre>
+</div>
 and
-<code>white_pawn = game.pieces.find_by(x_coordinates: 1, y_coordinates: 1)</code>
+<div class = "highlight">
+ <pre>
+  <code class="language-ruby" data-lang="ruby">white_pawn = game.pieces.find_by(x_coordinates: 1, y_coordinates: 1)</code>
+ </pre>
+</div>
+
 both return a single object, as expected:
 
-<Pawn id: 584, x_coordinates: 1, y_coordinates: 1, game_id: 19, created_at: "2015-09-28 05:22:03", updated_at: "2015-09-28 05:22:03", type: "Pawn", color: "white", image: "white-pawn.png", status: "active">
+<div class = "highlight">
+ <pre>
+  <code class="language-ruby" data-lang="ruby"><Pawn id: 584, x_coordinates: 1, y_coordinates: 1, game_id: 19, created_at: "2015-09-28 05:22:03", updated_at: "2015-09-28 05:22:03", type: "Pawn", color: "white", image: "white-pawn.png", status: "active"></code>
+ </pre>
+</div>
+
 
 
 
