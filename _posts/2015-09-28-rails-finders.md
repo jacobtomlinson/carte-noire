@@ -6,10 +6,10 @@ author:     Yury Voloshin
 summary:    A brief overview of finder methods in Rails
 categories: Rails
 tags:
- - Rails
+ - finders
 ---
 
-I will try to make this the blog post I wish I read before I started working on [StormyKnights](http://stormy-knights.herokuapp.com), one of my most recent apps. It is all about how to write a finder statement in Rails. Finder statements are, as the name implies, commands that help us find the desired rows in a database table. As in many other aspects of Rails, there are several different ways of structuring a finder statement that will return the same result. I'll start with an example. When I was working on the StormyKnight chess game and had only a smattering of knowledge about finder statements, I used the line below to identify a white pawn in the game:
+I will try to make this the blog post I wish I read before I started working on [StormyKnights](http://stormy-knights.herokuapp.com), one of my most recent apps. It is all about how to write a finder statement in Rails. Finder statements are, as the name implies, commands that help us find the desired rows in a database table. As in many other aspects of Rails, there are several different ways of structuring a finder statement that will return the same result. I'll start with an example. When I was working on the StormyKnights chess game and had only a smattering of knowledge about finder statements, I used the line below to identify a white pawn in the game:
 
 <div class = "highlight">
  <pre>
@@ -31,7 +31,7 @@ This gave me an error:
  </pre>
 </div>
 
-Now inevitable questions came up: How can 'id' be an undefined method? And what's an Association Relation? A google search showed a quick solution to my problem: just add <code>.first</code> to the end of the statement, like this:
+Now inevitable questions came up: How can 'id' be an undefined method? And what's an AssociationRelation? A google search showed a quick solution to my problem: just add <code>.first</code> to the end of the statement, like this:
 
 <div class = "highlight">
  <pre>
@@ -41,7 +41,7 @@ Now inevitable questions came up: How can 'id' be an undefined method? And what'
  
 This time, it worked like a charm. But why? These questions were my motivation for looking into the details of Rails finders. Here's a summary of what I found in [Agile Web Development with Rails] (http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564) and in [Rails documentation] (http://api.rubyonrails.org/classes/ActiveRecord/FinderMethods.html).
 
-Finder methods are located in the ActiveRecord module of Rails, which contains methods that make it possible for us to interact with the database without ever having learned a word of SQL. The simplest way of finding a row in a table is to use the <code>find()</code> method. This method takes the id of the object we're searching for as an argument. For example, game.pieces.find(5) will return a piece with id of 5. However, usually we don't know the id of our model objects and instead we need to use their attributes as parameters. Passing search parameters to the  <code>find()</code> method can be done like this:
+Finder methods are located in the ActiveRecord module of Rails, which contains methods that make it possible for us to interact with the database without ever having learned a word of SQL. The simplest way of finding a row in a table is to use the <code>find()</code> method. This method takes the id of the object we're searching for as an argument. For example, game.pieces.find(5) will return a piece with id of 5. However, usually we don't know the id of our model objects and instead we need to use their attributes as parameters. Passing search parameters to the  <code>find()</code> method can be done by replacing <code>find()</code> with <code>find_by()</code> like this:
 
 <div class = "highlight">
  <pre>
@@ -120,7 +120,9 @@ To look into it a bit deeper, we can look up the documentation for <code>where()
 
 [<code>find_by()</code>] (http://www.rubydoc.info/docs/rails/4.1.7/ActiveRecord/FinderMethods#find_by-instance_method): Finds the first record matching the specified conditions.
 
-Its worthwhile to look at what happens when a record is not found. Since we know that the tenth column of a chessboard cannot exist, we can <code>inspect</code> the output of the following find_by statement: 
+Thus, adding <code>.first()</code> to the end of a <code>where()</code> statement transforms a collection into a single record. 
+
+It is also worthwhile to look at what happens when a record is not found. Since we know that the tenth column of a chessboard cannot exist, we can <code>inspect</code> the output of the following find_by statement: 
 <div class = "highlight">
  <pre>
   <code class="language-ruby" data-lang="ruby">
