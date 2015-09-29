@@ -44,9 +44,9 @@ This time, it worked like a charm. But why? These questions were my motivation f
 Finder methods are located in the ActiveRecord module of Rails, which contains methods that make it possible for us to interact with the database without ever having learned a word of SQL. The simplest way of finding a row in a table is to use the <code>find()</code> method. This method takes the id of the object we're searching for as an argument. For example, game.pieces.find(5) will return a piece with id of 5. However, usually we don't know the id of our model objects and instead we need to use their attributes as parameters. Passing search parameters to the  <code>find()</code> method can be done like this:
 
 <div class = "highlight">
- <pre>
-  <code>spiderman = <i>Superheroes</i>.find_by(name: “Peter Parker”)</code>
- </pre>
+
+  <code class="language-ruby" data-lang="ruby">spiderman = <i>Superheroes</i>.find_by(name: “Peter Parker”)</code>
+
 </div>
 
 We can also search through more than one database columns at the same time:
