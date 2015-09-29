@@ -98,7 +98,7 @@ $dark-white:      #DBDBDB;
 
 .hljs {
   display: block;
-  overflow-x: scroll;
+  overflow-x: auto;
   color: $base-white;
   -webkit-text-size-adjust: none;
 }
