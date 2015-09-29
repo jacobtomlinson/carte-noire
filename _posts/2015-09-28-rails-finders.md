@@ -115,6 +115,7 @@ both return a single record, as expected:
 </div>
 
 To look into it a bit deeper, we can look up the documentation for <code>where()</code> and <code>find_by()</code> methods:
+
 [<code>where()</code>] (http://www.rubydoc.info/docs/rails/4.1.7/ActiveRecord/QueryMethods#where-instance_method): Returns a new relation, which is the result of filtering the current relation according to the conditions in the arguments.
 
 [<code>find_by()</code>] (http://www.rubydoc.info/docs/rails/4.1.7/ActiveRecord/FinderMethods#find_by-instance_method): Finds the first record matching the specified conditions.
