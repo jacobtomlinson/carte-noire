@@ -98,14 +98,12 @@ $dark-white:      #DBDBDB;
 
 .hljs {
   display: block;
-  overflow-x: auto;
+  overflow-x: scroll;
   color: $base-white;
   -webkit-text-size-adjust: none;
 }
 
-code {
-  overflow-x:scroll;
-}
+
 
 .coffeescript .javascript,
 .javascript .xml,
