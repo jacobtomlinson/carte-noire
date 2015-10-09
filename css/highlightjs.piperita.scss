@@ -103,6 +103,8 @@ $dark-white:      #DBDBDB;
   -webkit-text-size-adjust: none;
 }
 
+
+
 .coffeescript .javascript,
 .javascript .xml,
 .tex .hljs-formula,
@@ -111,4 +113,5 @@ $dark-white:      #DBDBDB;
 .xml .css,
 .xml .hljs-cdata {
   opacity: 0.5;
+  
 }
