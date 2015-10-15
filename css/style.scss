@@ -34,9 +34,6 @@ $screen-lg-min: 1200px;
 
 /* Globals */
 
-.highlight {
-	overflow-x: scroll;	
-}
 
 html {
 	height: 100%;
@@ -631,7 +628,8 @@ ul {
 			}
 
 			.highlight {
-				width: 100%;
+				width: auto;
+				overflow-x: scroll;
 				margin-left: -15px;
 				padding-right: 45px;
 				box-sizing: content-box;
