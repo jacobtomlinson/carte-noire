@@ -34,6 +34,10 @@ $screen-lg-min: 1200px;
 
 /* Globals */
 
+.highlight {
+	overflow-x: scroll;	
+}
+
 html {
 	height: 100%;
 	overflow-x: hidden;
