@@ -34,9 +34,10 @@ $screen-lg-min: 1200px;
 
 /* Globals */
 
+
 html {
 	height: 100%;
-	overflow-x: hidden;
+	overflow-x: hidden; 
 }
 
 body {
@@ -631,6 +632,7 @@ ul {
 				margin-left: -15px;
 				padding-right: 45px;
 				box-sizing: content-box;
+				white-space: nowrap;
 
 				@media (min-width: $screen-sm-min) {
 					margin-left: -30px;
