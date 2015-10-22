@@ -14,6 +14,7 @@ A few days ago I made my first [open source contribution](https://github.com/NYC
 After I cloned the app on my machine and tried to run it, I got an error message "<code>rbenv: version `2.2.3' is not installed</code>". This was confusing because I didn't know what "rbenv" is, much less anything about a particular version of it. After a google search, I knew this meant that the app I was trying to run required a particular version of Ruby, which I didn't have on my machine. Indeed, a look at the app's repository showed that one of the commits was labeled "updated to Ruby 2.2.3", and a check of the Ruby version on my machine (using "ruby -v") showed version 2.0.0p353. 
 
 But, I still didn't know what "rbenv" is. More searching on rbenv brought me to the [rbenv github page](https://github.com/sstephenson/rbenv). Turns out rbenv is a Ruby version manager that helps to specify Ruby versions in development and in production. Under "Installing Ruby Versions", I found a simple enough command that should take care of my problem: "rbenv install 2.2.3". Upon running it, the result was disappointing: 
+
 {% highlight ruby %}
 ruby-build: definition not found: 2.2.3
 
