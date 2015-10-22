@@ -1,4 +1,3 @@
-
 ---
 layout:     post
 title:      My Adventure with a Ruby Update
