@@ -1,3 +1,15 @@
+
+---
+layout:     post
+title:      My Adventure with a Ruby Update
+date:       2015-10-22 12:32:18
+author:     Yury Voloshin
+summary:    What I learned on a long and winding road to a Ruby version update
+categories: Ruby
+tags:
+ - Ruby versioning
+---
+
 A few days ago I made my first (open source contribution)[https://github.com/NYCrb/cfp-app/pull/7] (yay!). The contribution was for an app used by the organizers of (NYC.rb)[http://www.meetup.com/NYC-rb/] meetup group. The issue was relatively small. I added a button that the organizer can use to delete a talk proposal. It didn't go as smoothly as I would've liked, and here's why. 
 
 After I cloned the app on my machine and tried to run it, I got an error message "<code>rbenv: version `2.2.3' is not installed</code>". This was confusing because I didn't know what "rbenv" is, much less anything about a particular version of it. After a google search, I knew this meant that the app I was trying to run required a particular version of Ruby, which I didn't have on my machine. Indeed, a look at the app's repository showed that one of the commits was labeled "updated to Ruby 2.2.3", and a check of the Ruby version on my machine (using "ruby -v") showed version 2.0.0p353. 
