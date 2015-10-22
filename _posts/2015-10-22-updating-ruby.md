@@ -24,7 +24,7 @@ The following versions contain `2.2.3' in the name:
 See all available versions with `rbenv install --list'.
 {% endhighlight %}
 
-I did what the message suggested and ran `rbenv install –list'. This showed a list of Ruby versions that ended at version 1.9. But what about 2.2.3? Could "rbx-2.2.3" be the version I need? Now I knew that "rbx" stands for [Rubinius](https://en.wikipedia.org/wiki/Rubinius), which is not exactly Ruby, but I figured, it might be close enough, and decided to install it by running " rbenv install rbx-2.2.3". This gave me an encouraging message "Installing Rubinius 2.2.3..." and started an installation process. Then, after about 20 minutes of waiting, I got
+I did what the message suggested and ran `rbenv install –list'. This showed a list of Ruby versions that ended at version 1.9. But what about 2.2.3? Could "rbx-2.2.3" be the version I need? I knew that "rbx" stands for [Rubinius](https://en.wikipedia.org/wiki/Rubinius), which is not exactly Ruby, but I figured, it might be close enough, and decided to install it by running " rbenv install rbx-2.2.3". This gave me an encouraging message "Installing Rubinius 2.2.3..." and started an installation process. Then, after about 20 minutes of waiting, I got
 <code>
 BUILD FAILED (Ubuntu 12.04 using ruby-build 20141225-1-g45b75ed)
 </code>
