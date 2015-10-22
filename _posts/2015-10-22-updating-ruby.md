@@ -15,7 +15,7 @@ After I cloned the app on my machine and tried to run it, I got an error message
 
 But, I still didn't know what "rbenv" is. More searching on rbenv brought me to the [rbenv github page](https://github.com/sstephenson/rbenv). Turns out rbenv is a Ruby version manager that helps to specify Ruby versions in development and in production. Under "Installing Ruby Versions", I found a simple enough command that should take care of my problem: "rbenv install 2.2.3". Upon running it, the result was disappointing: 
 
-{% highlight ruby %}
+{% highlight hljs-comment %}
 ruby-build: definition not found: 2.2.3
 
 The following versions contain `2.2.3' in the name:
@@ -29,7 +29,7 @@ I did what the message suggested and ran `rbenv install –list'. This showed a 
 BUILD FAILED (Ubuntu 12.04 using ruby-build 20141225-1-g45b75ed)
 </code>
 
-This was not good. Clearly, I was doing something wrong. More searching led me to [instructions](https://gorails.com/setup/ubuntu/13.04) on how to install Ruby in three different ways. I could use either rbenv, rvm, or download it from source. I already knew about rbenv. [rvm](https:rvm.io), as it turns out, is a Ruby version manager that an alternative to rbenv. I knew that I already have rbenv on my machine, but could it be that there is a problem with rbenv? Re-instaling rbenv can't hurt, can it?  
+This was not good. Clearly, I was doing something wrong. More searching led me to [instructions](https://gorails.com/setup/ubuntu/13.04) on how to install Ruby in three different ways. I could use either rbenv, rvm, or download it from source. I already knew about rbenv. [rvm](https:rvm.io), as it turns out, is a Ruby version manager that's an alternative to rbenv. I knew that I already have rbenv on my machine, but could it be that there is a problem with rbenv? Re-instaling rbenv can't hurt, can it?  
 
 At this point, I went ahead and followed instructions for installing Ruby 2.2.3 with rbenv. This time, the installation process started with a message "Installing Ruby 2.2.3...", which was even more encouraging. But, after another 20 minutes, I got 
 <code>
