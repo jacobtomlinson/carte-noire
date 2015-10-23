@@ -9,6 +9,7 @@ tags:
  - Ruby versioning
 ---
 > Only a fool learns from his own mistakes. The wise man learns from the mistakes of others.
+
 	-Otto Von Bismarck
 	
 
