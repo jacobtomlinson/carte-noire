@@ -20,6 +20,8 @@ ruby-build: definition not found: 2.2.3
 </code>
 <code>
 The following versions contain `2.2.3' in the name: rbx-2.2.3
+</code>
+<code>
 See all available versions with `rbenv install --list'.
 </code>
 
