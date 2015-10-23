@@ -10,7 +10,7 @@ tags:
 ---
 > Only a fool learns from his own mistakes. The wise man learns from the mistakes of others.
 
-	-Otto Von Bismarck
+* Otto Von Bismarck
 	
 
 A few days ago I made my first [open source contribution](https://github.com/NYCrb/cfp-app/pull/7) (yay!). The contribution was for an app used by the organizers of [NYC.rb](http://www.meetup.com/NYC-rb) meetup group to schedule talks at meetups. The issue was relatively small. I added a button that the organizer can use to delete a talk proposal. It didn't go as smoothly as I would've liked, and here's why. 
