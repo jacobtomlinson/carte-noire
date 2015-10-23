@@ -15,14 +15,12 @@ After I cloned the app on my machine and tried to run it, I got an error message
 
 But, I still didn't know what "rbenv" is. More searching on rbenv brought me to the [rbenv github page](https://github.com/sstephenson/rbenv). Turns out rbenv is a Ruby version manager that helps to specify Ruby versions in development and in production. Under "Installing Ruby Versions", I found a simple enough command that should take care of my problem: "rbenv install 2.2.3". Upon running it, the result was disappointing: 
 
-<div class="highlight">
+<code>
 ruby-build: definition not found: 2.2.3
-
 The following versions contain `2.2.3' in the name:
   rbx-2.2.3
-
 See all available versions with `rbenv install --list'.
-</div>
+</code>
 
 I did what the message suggested and ran `rbenv install –list'. This showed a list of Ruby versions that ended at version 1.9. But what about 2.2.3? Could "rbx-2.2.3" be the version I need? I knew that "rbx" stands for [Rubinius](https://en.wikipedia.org/wiki/Rubinius), which is not exactly Ruby, but I figured, it might be close enough, and decided to install it by running "<code>rbenv install rbx-2.2.3</code>". This gave me an encouraging message "<code>Installing Rubinius 2.2.3...</code>" and started an installation process. Then, after about 20 minutes of waiting, I got
 <code>
