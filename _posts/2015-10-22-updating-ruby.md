@@ -15,7 +15,7 @@ After I cloned the app on my machine and tried to run it, I got an error message
 
 But, I still didn't know what "rbenv" is. More searching on rbenv brought me to the [rbenv github page](https://github.com/sstephenson/rbenv). Turns out rbenv is a Ruby version manager that helps to specify Ruby versions in development and in production. Under "Installing Ruby Versions", I found a simple enough command that should take care of my problem: "rbenv install 2.2.3". Upon running it, the result was disappointing: 
 
-{% highlight %}
+{% highlight plaintext %}
 ruby-build: definition not found: 2.2.3
 
 The following versions contain `2.2.3' in the name:
