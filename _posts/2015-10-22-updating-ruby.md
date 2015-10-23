@@ -15,7 +15,7 @@ tags:
 	
 
 
-A few days ago I made my first [open source contribution](https://github.com/NYCrb/cfp-app/pull/7) (yay!). The contribution was for an app used by the organizers of [NYC.rb](http://www.meetup.com/NYC-rb) meetup group to schedule talks at meetups. The issue was relatively small. I added a button that the organizer can use to delete a talk proposal. It didn't go as smoothly as I would've liked, and here's why. 
+I am writing this post in the hope that those of us who are starting out with Ruby and Rails will follow the [Iron Chancellor's](https://en.wikiquote.org/wiki/Otto_von_Bismarck) advice and learn from my mistakes. A few days ago I made my first [open source contribution](https://github.com/NYCrb/cfp-app/pull/7) (yay!). The contribution was for an app used by the organizers of [NYC.rb](http://www.meetup.com/NYC-rb) meetup group to schedule talks at meetups. The issue was relatively small. I added a button that the organizer can use to delete a talk proposal. It didn't go as smoothly as I would've liked, and here's why. 
 
 After I cloned the app on my machine and tried to run it, I got an error message "<code>rbenv: version `2.2.3' is not installed</code>". This was confusing because I didn't know what "rbenv" is, much less anything about a particular version of it. After a google search, I knew this meant that the app I was trying to run required a particular version of Ruby, which I didn't have on my machine. Indeed, a look at the app's repository showed that one of the commits was labeled "updated to Ruby 2.2.3", and a check of the Ruby version on my machine (using "ruby -v") showed version 2.0.0p353. 
 
