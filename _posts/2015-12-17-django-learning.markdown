@@ -2,7 +2,7 @@
 title:  "Nobody else was around."
 subtitle: "django learning"
 author: "Shadow"
-avatar: "img/authors/wferr.png"
+avatar: "image/IMG_2916.jpg"
 
 date:   2015-04-21 12:12:12
 ---
