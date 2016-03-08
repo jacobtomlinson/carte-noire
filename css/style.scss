@@ -561,7 +561,7 @@ ul {
 			ul {
 				list-style-type: disc;
 			}
-			
+
             		ol {
 				list-style-type: decimal;
 			}
@@ -611,7 +611,7 @@ ul {
 			    margin: 5px auto 5px auto;
 			}
 
-			.highlight {
+			figure.highlight, div.highlighter-rouge {
 				width: 100%;
 				margin-left: -15px;
 				padding-right: 45px;
