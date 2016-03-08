@@ -25,7 +25,10 @@ footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-no
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 permalink: pretty
 exclude: [vendor]
