@@ -21,6 +21,7 @@ layout: default
 
           <li>
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
           </li>
       {% if forloop.last %}
         </ul>
