@@ -20,7 +20,7 @@ google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
 stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
 
 # Footer
-# You may have 1,2,3,4,6 or 12 columns
+# You may have 1,2,3,4,6 or 12 rows
 # Otherwise nothing is being displayed
 footer:
  - "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
