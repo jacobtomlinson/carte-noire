@@ -83,6 +83,14 @@ You can use the markdown quote syntax, `>` for simple quotes.
 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis porta mauris.
 
+### LaTeX support
+
+The default math delimiters are \$\$. Hence `$$ E = m \cdot c^2 $$` yields $$ E = m \cdot c^2 $$
+
+And here's something more fancy:
+
+$$ \zeta(s) = \frac{1}{\Gamma(s)} \int \limits_0^\infty x^{s-1} \sum_{n=1}^\infty e^{-nx} \mathrm{d}x = \frac{1}{\Gamma(s)} \int \limits_0^\infty \frac{x^{s-1}}{e^x - 1} \mathrm{d}x $$
+
 
 ### There's more being added all the time
 
