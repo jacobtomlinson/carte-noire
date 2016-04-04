@@ -7,9 +7,19 @@ layout: default
   <div class="row index all-posts">
 
     <h1 class="header author-header">{{ site.author_name }}</h1>
-    <h2 class="header" itemprop="headline">All posts by Categories</h2>
-    <h2 class="header" itemprop="headline"><small>(sort by <a href="{{ site.baseurl }}/posts/">Years</a>)</small></h2>
+    <h2 class="header" itemprop="headline">All posts</h2>
+    <h2 class="header categories" itemprop="headline"><small>grouped by
 
+      <div class="dropdown btn-group">
+        <button class="btn btn-categories dropdown-toggle btn-xs" type="button" data-toggle="dropdown">Categories
+          <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu">
+          <li><a href="{{ site.baseurl }}/posts/">Years</a></li>
+        </ul>
+      </div>
+
+    </small></h2>
       {% for category in site.categories %}
       <div class="col-md-12 content-panel articles">
         <h2 id="{{ category | first }}-ref">{{ category | first }}</h2>
