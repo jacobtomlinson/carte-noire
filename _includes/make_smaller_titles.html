@@ -1,7 +1,8 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
 <script type="text/javascript">
-  $(document).ready(function(){
+
+  function setFontSize() {
 
     var title, dateOfTitle, fontSizeOfTitle, listOfA, listOfSmall, listOfArticlesDiv, divWidth;
 
@@ -19,14 +20,24 @@
         title = $(listOfA[k]);
         dateOfTitle = $(listOfSmall[k]);
 
-        fontSizeOfTitle = parseInt(title.css("font-size"));
+        fontSizeOfTitle = startingFontSize;
+        title.css("font-size", fontSizeOfTitle);
 
         while (title.width() + dateOfTitle.width() > divWidth)
           title.css("font-size", fontSizeOfTitle -= 0.5);
 
-        title.css("display", "inline");
-
       }
     }
-  });
+  }
+
+  function getStartFontSize() {
+    try {
+      startingFontSize = parseInt($(document.getElementsByClassName("articles")[0].getElementsByTagName("a")[0]).css("font-size"));
+      setFontSize();
+      window.addEventListener('resize', setFontSize, true);
+    } catch (e) {}
+  }
+
+  $(document).ready(getStartFontSize);
+
 </script>
