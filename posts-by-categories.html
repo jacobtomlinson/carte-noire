@@ -8,6 +8,7 @@ layout: default
 
     <h1 class="header author-header">{{ site.author_name }}</h1>
     <h2 class="header" itemprop="headline">All posts by Categories</h2>
+    <h2 class="header" itemprop="headline"><small>(sort by <a href="{{ site.baseurl }}/posts/">Years</a>)</small></h2>
 
       {% for category in site.categories %}
       <div class="col-md-12 content-panel articles">
