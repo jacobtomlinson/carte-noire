@@ -23,7 +23,7 @@
         fontSizeOfTitle = startingFontSize;
         title.css("font-size", fontSizeOfTitle);
 
-        while (title.width() + dateOfTitle.width() > divWidth)
+        while (title.width() + dateOfTitle.width() >= divWidth)
           title.css("font-size", fontSizeOfTitle -= 0.5);
 
       }
