@@ -1,3 +1,4 @@
+{% if site.footer.size > 0 %}
 <div class="footer clearfix">
   {% assign rowModulo = 12 | modulo: site.footer.size %}
   {% if rowModulo == 0 %}
@@ -8,6 +9,7 @@
     {% endfor %}
   {% endif %}
 </div>
+{% endif %}
 
 <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
