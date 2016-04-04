@@ -574,7 +574,7 @@ ul {
 				position: relative;
 				width: 100%;
 		    margin-left: -15px;
-				padding-right: 45px;
+				padding-right: 10px;
 				background-color: $darker;
 				color: white;
 				box-sizing: content-box;
@@ -618,7 +618,7 @@ ul {
 			figure.highlight, div.highlighter-rouge {
 				width: 100%;
 				margin-left: -15px;
-				padding-right: 45px;
+				padding-right: 10px;
 				box-sizing: content-box;
 
 				@media (min-width: $screen-sm-min) {
