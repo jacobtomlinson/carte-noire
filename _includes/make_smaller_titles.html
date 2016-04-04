@@ -1,0 +1,32 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+
+    var title, dateOfTitle, fontSizeOfTitle, listOfA, listOfSmall, listOfArticlesDiv, divWidth;
+
+    listOfArticlesDiv = document.getElementsByClassName("articles");
+
+    for (i = 0; i < listOfArticlesDiv.length; i++) {
+
+      listOfA = document.getElementsByClassName("articles")[i].getElementsByTagName("a");
+      listOfSmall = document.getElementsByClassName("articles")[i].getElementsByTagName("small");
+
+      divWidth = document.getElementsByClassName("articles")[i].offsetWidth;
+
+      for (k = 0; k < listOfSmall.length; k++) {
+
+        title = $(listOfA[k]);
+        dateOfTitle = $(listOfSmall[k]);
+
+        fontSizeOfTitle = parseInt(title.css("font-size"));
+
+        while (title.width() + dateOfTitle.width() > divWidth)
+          title.css("font-size", fontSizeOfTitle -= 0.5);
+
+        title.css("display", "inline");
+
+      }
+    }
+  });
+</script>
