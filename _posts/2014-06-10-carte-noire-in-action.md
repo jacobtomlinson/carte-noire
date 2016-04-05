@@ -91,6 +91,10 @@ And here's something more fancy:
 
 $$ \zeta(s) = \frac{1}{\Gamma(s)} \int \limits_0^\infty x^{s-1} \sum_{n=1}^\infty e^{-nx} \mathrm{d}x = \frac{1}{\Gamma(s)} \int \limits_0^\infty \frac{x^{s-1}}{e^x - 1} \mathrm{d}x $$
 
+### Background images
+
+It is also possible to have custom background images!
+Check the options inside the `_config.yml`.
 
 ### There's more being added all the time
 

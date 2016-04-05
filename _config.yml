@@ -19,6 +19,23 @@ linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
 google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
 stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
 
+# Background image(s)
+# Option 1: No background images (default).
+# Option 2: One background image for all pages.
+# Option 3: Full control. You may set different images for all pages.
+background-option: 1
+# 
+# 'image-hosted-extern' and 'background-image' inside this file are only relevant for option 2.
+# If you chose option 3, put those two variables inside the 'YAML front matter block' of the page where you want to change the background image. If you don't do it, the default background without an image will be loaded.
+#
+# true if the image is hosted on an extern server. E.g. imgur
+# false if the image is inside the /pictures/ folder.
+image-hosted-extern: false
+#
+# If the image is hosted extern, provide the full link to the image. E.g. http://server.com/background.jpg
+# Otherwise just provide the filename with the file extension. E.g. background.jpg
+background-image: leather.jpg
+
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
