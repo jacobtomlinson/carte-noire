@@ -3,7 +3,11 @@
 
     {% include head.html %}
 
+    {% if page.background-image %}
+    <body style='background-image: url("{{ site.baseurl }}/pictures/{{ page.background-image }}");'>
+    {% else %}
     <body>
+    {% endif %}
 
     {% include header.html %}
 
