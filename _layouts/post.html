@@ -104,17 +104,17 @@ layout: default
 
       {% if site.twitter_username and site.disqus_account %}
       <div class="content-panel feedback">
-        I <i class="fa fa-heart"></i> feedback.<br />
-        Let me know what you think of this article on twitter <a href="http://www.twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a> or leave a comment below!
+        I <i class="fa fa-heart"></i> feedback.<br /><br />
+        Hit me up on twitter <a href="http://www.twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a> or leave a comment below!
       </div>
       {% elsif site.twitter_username %}
       <div class="content-panel feedback">
-        I <i class="fa fa-heart"></i> feedback.<br />
+        I <i class="fa fa-heart"></i> feedback.<br /><br />
         Let me know what you think of this article on twitter <a href="http://www.twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a>!
       </div>
       {% elsif site.disqus_account %}
       <div class="content-panel feedback">
-        I <i class="fa fa-heart"></i> feedback.<br />
+        I <i class="fa fa-heart"></i> feedback.<br /><br />
         Let me know what you think of this article in the comment section below!
       </div>
       {% endif %}

@@ -9,7 +9,7 @@ title_image: "https://scontent.fphl2-1.fna.fbcdn.net/t31.0-8/13723976_1015449491
 google_analytics: "UA-82404971-1"
 disqus_account: sathley
 github_repository: https://github.com/sathley/sathley.github.io
-#addthis_id: ra-513c6fa83da6ec67
+addthis_id: ra-57b516cfe9b3e2be
 post_limit: 5
 
 # Social usernames/URLs
@@ -32,3 +32,4 @@ kramdown:
 
 permalink: pretty
 exclude: [vendor]
+
