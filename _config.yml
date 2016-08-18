@@ -4,20 +4,20 @@ email: sathley90@gmail.com
 description: "Personal musings of a Mr. Sushant Athley."
 baseurl: ""
 url: "https://sathley.github.io/"
-title_description: "A dark blog theme for Jekyll focusing on a clear reading experience. Large text and a narrow body makes carte noire a gorgeous read. With excellent code snippet support and integrated tools such as AddThis and Disqus giving your Jekyll blog all the functionality your users expect."
-title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
-google_analytics: "UA-20365477-4"
+title_description: "Personal musings of a Mr. Sushant Athley."
+title_image: "https://scontent.fphl2-1.fna.fbcdn.net/t31.0-8/13723976_10154494917600466_4411114137335328218_o.jpg"
+google_analytics: "UA-82404971-1"
 disqus_account: sathley
 github_repository: https://github.com/sathley/sathley.github.io
-addthis_id: ra-513c6fa83da6ec67
+#addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
 # Social usernames/URLs
 twitter_username: SushantAthley
 github_username:  sathley
-linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
-google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
-stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
+linkedin_link: https://www.linkedin.com/in/sathley
+#google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
+#stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
 
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
