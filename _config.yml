@@ -1,10 +1,10 @@
 # Site settings
 title: "Sushant Athley"
 email: sathley90@gmail.com
-description: "Personal musings of a Mr. Sushant Athley."
+description: "Personal musings of a certain Mr. Sushant Athley."
 baseurl: ""
 url: "https://sathley.github.io/"
-title_description: "Personal musings of a Mr. Sushant Athley."
+title_description: "Personal musings of a certain Mr. Sushant Athley."
 title_image: "https://scontent.fphl2-1.fna.fbcdn.net/t31.0-8/13723976_10154494917600466_4411114137335328218_o.jpg"
 google_analytics: "UA-82404971-1"
 disqus_account: sathley
