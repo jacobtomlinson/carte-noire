@@ -8,6 +8,7 @@ thumbnail: diamond
 tags:
  - sketch
  - design
+published: true
 ---
 
 

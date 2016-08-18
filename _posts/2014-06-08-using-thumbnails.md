@@ -8,7 +8,7 @@ thumbnail: android
 tags:
  - thumbnails
  - carte noire
-published: true
+published: false
 ---
 
 Carte Noire is designed to start each article with an all-white image as a
