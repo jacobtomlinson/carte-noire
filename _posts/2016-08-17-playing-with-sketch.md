@@ -23,4 +23,4 @@ No giant lists of menu bar options. And also not a lot of confusing terminologie
 
 In the first couple of days I was able to come out with a bunch of good looking stuff. Here it is.
 
-![diamon icon]({{ site.url }}assets/sketch/Flat Diamond.png)
+![diamon icon]({{ site.url }}assets/sketch/FlatDiamond.png)
