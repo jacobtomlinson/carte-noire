@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Android Pay
-date:       2014-06-09 12:32:18
+date:       2016-08-22 00:00:00
 summary:    This article briefly describes Android Pay.
 categories: android
 thumbnail: android
