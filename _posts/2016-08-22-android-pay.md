@@ -58,7 +58,7 @@ It keeps track of all your purchases in one place. But in my opinion there are a
 ### In-app purchases
 
 
-This one is more focussed towards app developers. Android Pay makes accepting money in your apps more seamless. User's do not need to add card details in every app. They can simply instruct the app to use Android Pay.
+This one is more focussed towards app developers. Android Pay makes accepting money in your apps more seamless. User's do not need to add card details into every app. They can simply instruct the app to use Android Pay. Read more about it [here](https://developers.google.com/android-pay/get-started).
 
 ![android pay]({{ site.url }}assets/android pay/4.png) 
 
