@@ -34,11 +34,3 @@ kramdown:
 permalink: pretty
 exclude: [vendor]
 
-# SEO
-twitter:
-  username: SushantAthley
-
-# Gems
-gems:
-  - jekyll-seo-tag
-  - jekyll-sitemap
