@@ -3,11 +3,10 @@ layout:     post
 title:      Android Pay
 date:       2014-06-09 12:32:18
 summary:    This article briefly describes Android Pay.
-categories: jekyll
+categories: android
 thumbnail: android
 tags:
- - about
- - jekyll
+ - android
 published: true
 ---
 
@@ -65,7 +64,7 @@ This one is more focussed towards app developers. Android Pay makes accepting mo
 
 ## What's it not so good at?
 
-I've had my card details entered for quite a while and tried it various locations in Baltimore. To my surprise it almost never worked. Sometimes, it would decline the card altogether, and the other times it would make me enter my debit card PIN into the machine and then decline the transaction. For a good 6 months, I treated the feature as a beta and overlooked it. 
+I've had my card details entered for quite a while and tried it various locations in Baltimore. To my surprise it almost never worked. Sometimes, it would decline the card altogether, and at other times it would make me enter my debit card PIN into the machine, and then decline the transaction. For a good 6 months, I treated the feature as a beta and overlooked it. 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/AndroidDev">@AndroidDev</a> Any reason why Android Pay works in D.C. but not in Baltimore? <a href="https://twitter.com/hashtag/Android?src=hash">#Android</a></p>&mdash; Sushant Athley (@SushantAthley) <a href="https://twitter.com/SushantAthley/status/767881315446382592">August 23, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
