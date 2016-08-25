@@ -74,5 +74,9 @@ So in a nutshell, the service is flaky at the moment.
 
 Secondly, on some occasions it makes you enter your PIN number which defeats the purpose of having a fingerprint scanner on the device.
 
-Thirdly, you really can't leave home without your cards. You don't want to be that guy at the restaurant who demands the card accepting terminal be brought before him so that his highness may tap his phone onto it.
+Thirdly, you really can't leave home without your cards. You don't want to be that guy at the restaurant who demands the card-accepting terminal be brought before him so that his highness may tap his phone onto it.
 
+![android app review]({{ site.url }}assets/android pay/review.png) 
+
+*EDIT: I recently recieved a reply on my review of the Android Pay app on the Play Store. It was not very helpful. It basically says, "If your transaction is declined, contact your card-issuing bank for more information." 
+Now that is not very helpful.*
