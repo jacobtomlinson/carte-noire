@@ -2,13 +2,8 @@
 	"name": "Aamir's Blog",
 	"icons": [
 		{
-			"src": "\/android-chrome-192x192.png",
+			"src": "\/android-chrome-192x192.png?v=rM3ByOl23Y",
 			"sizes": "192x192",
-			"type": "image\/png"
-		},
-		{
-			"src": "\/android-chrome-512x512.png",
-			"sizes": "512x512",
 			"type": "image\/png"
 		}
 	],
