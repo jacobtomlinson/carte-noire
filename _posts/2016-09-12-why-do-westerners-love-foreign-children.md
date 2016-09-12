@@ -4,7 +4,7 @@ title:      Why do Westerners love foreign children?
 date:       2016-09-12 12:18:07
 author:     Aamir Azhar
 summary:    We're unaware of how we subconsciously limit, filter, and fun-size the experiences and perspectives we develop abroad.
-categories: society thoughts
+categories: society
 thumbnail:  child
 tags:
   - cultural appropriation

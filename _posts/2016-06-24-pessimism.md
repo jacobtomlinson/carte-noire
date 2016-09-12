@@ -4,7 +4,7 @@ title:      Pessimism
 date:       2016-06-24 01:30:00
 author:     Aamir Azhar
 summary:    It's a hard time to grow up.
-categories: society thoughts
+categories: politics
 thumbnail:  gbp
 tags:
   - europe
