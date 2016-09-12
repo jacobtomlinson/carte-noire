@@ -5,7 +5,7 @@ date:       2016-09-04 23:33:24
 author:     Aamir Azhar
 summary:    Thoughts after week 1 of my study abroad in Jordan.
 categories: life
-thumbnail:  fa-plane
+thumbnail:  plane
 tags:
   - arabic
   - exhaustion
