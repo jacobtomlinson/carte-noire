@@ -4,7 +4,7 @@ title:      Proud to be a (First-Generation) American
 date:       2016-07-05 5:55:46
 author:     Aamir Azhar
 summary:    With all its problems, I am grateful to live in this country.
-categories: personal
+categories: narrative
 thumbnail:  flag-o
 tags:
   - america
