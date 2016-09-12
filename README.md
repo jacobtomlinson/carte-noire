@@ -2,6 +2,8 @@
 
 A simple Jekyll theme for blogging. Not named after the coffee.
 
+Note: This blog was migrated from an old repository to a new one that has forked the official Carte Noire repository. This means that its commits seem to start from nowhere. If you want a better history of when I committed what changes, and when I published/edited posts (for whatever reason), see my old repository here: https://github.com/kupoko/aamirazhar.me-backup
+
 ![Homepage](http://i.imgur.com/xlmHArV.png)
 
 ### Article
