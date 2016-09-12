@@ -5,7 +5,7 @@ date:       2016-09-12 12:18:07
 author:     Aamir Azhar
 summary:    We're unaware of how we subconsciously limit, filter, and fun-size the experiences and perspectives we develop abroad.
 categories: society
-thumbnail:  child
+thumbnail:  fa-child
 tags:
   - cultural appropriation
   - globalization
