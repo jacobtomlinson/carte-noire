@@ -33,15 +33,15 @@ It's been two years since I decided relationships were messy, not worth the stre
 It's been one year since I truly got over her. One year since listening to the music she showed me didn't give me really bad anxiety and immense loneliness. (I still feel that way sometimes, but at least it's independent of her now.) One year since I felt free, independent, and strong again.
 
 <br>
-It's been six months since I met another her. Six months since "her" started representing someone completely different for me, and stopped representing my scarring past relationship. Six months since that random lunch where we clicked, ever so cautiously.
+It's been six months since I met someone else. Six months since "her" started representing someone different for me, and stopped representing my scarring past relationship. Six months since that random lunch where we clicked, ever so cautiously.
 
 It's been four months since we started talking regularly. Four months since we started getting absurdly and abruptly close. Just four months since we were so excited to talk it only took us a few weeks to know all about each other's past hers and hims. But summer was starting, and we had to say bye, despite there being so much more to talk about.
 
-It's been one month since I told her I really liked her. One month since we reunited after summer, as if we knew each other for years. One month since my heart asked me why I'm doing all of this again. But I had to leave again, since I was spending the semester in another country. It's been one month since I last looked in her eyes and felt so much hope.
+It's been one month since I told her I really liked her. One month since we reunited after summer, as if we knew each other for years. One month since my heart asked me why I'm doing all of this again. But I had to leave again, since I was spending the semester away. It's been one month since I last looked in her eyes and felt so much hope.
 
-It's been one week since I decided I want to be with her. Since I decided that no matter how hard it was, it could work out. Since I decided that love does exist, and that she held the key to opening it up.
+It's been one week since I decided I want to be with her. Since I decided that no matter how hard it could be, it'd work out. Since I decided that love does exist, and that she held the key to opening it up.
 
 <br>
-It's been three years since I last believed these things. It's been three years since my last leap of faith. But I know she's special. And I'm a completely different person than who I was three years ago. I'm mature, I'm confident, and I'm ready. This is what I've been looking for, I know it.
+It's been three years since I last believed these things. Three years since my last leap of faith, though it feels like yesterday. But, I know this girl is special. And I'm so much different than I was three years ago. I'm mature, I'm confident, and I'm ready now. This is what I've been looking for, I know it.
 
 This time, for sure.
