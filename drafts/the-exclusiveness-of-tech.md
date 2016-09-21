@@ -1,0 +1,15 @@
+-tech exclusiveness is real
+-a lot of people talk about diversity issues but dont realize how active of a force this is
+-talking to friends (esp women) who feel uninvolved w cs
+--tasnim made friends who she felt could support her but they ended up dropping cs too
+--a lot of these "diverse" people have lots of trouble finding support and community
+--this causes them to drop out
+-as tech people, especially on the inside, we have this idea that yea diversity is a problem, but we don't really know why (cuz we're nice and friendly right!). so we treat it as a passive problem thats getting better with time
+-truth is, its super active. its active even in just the small things, like the programming jokes we make and how we approach our classes.
+-a lot of people only make it through CS when they find other "outsider" communities, whether racial, about sexual orientation, gender, etc
+-its a shame that the majority culture is so strong and repelling that people need to find these smaller communities solely based around feeling repelled, just to stay alive
+-and yes, this is a thing in all industries and capitalism in general
+--but this specifically sucks because techies (esp silicon valley) are aware of diversity issues, and they want to fix it (somewhat for selfish reasons, but i digress).. but we still support the institutions/stuff that causes this disparity. we still weed people out starting freshmen year, such that 95% of people who make it through the weedout process already programmed before (and u weed out all the newer people who are interested in CS but didnt have the background to give them a head start). we still, when hiring, say we're "hiring for engineering", and reject tons of people who seems smart and passionate, but their resume isnt that great (why? cuz they started developing their tech portfolio in sophomore year rather than freshmen year of high school). and we pretend like tech isnt all about making money?
+-what ive learned is that engineering is important but in the workplace, it's much different. in the workplace, everyones working together. in school and when fighting for a job, ur competing. this is why "outsiders" can seem more underwhelming, is because they have to fight against people to pretend like theyre good. but once u get to workplace, ull see they do great because the team can support them. this isnt to mention that esp in software whats more important is learning how ur team works, how ur codebase works, etc, and not how fast u can program or anything.
+
+-not sure what my thesis is, need to make this a bit more focused with a clear point or call to action at the end.
