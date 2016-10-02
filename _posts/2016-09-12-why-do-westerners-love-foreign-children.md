@@ -12,9 +12,9 @@ tags:
   - orientalism
   - voluntourism
 ---
-As some of you may know, I'm studying abroad this semester in Jordan to practice Arabic and explore a project or two. The study abroad program I'm with (Middlebury) is maybe 90% white this semester. And as hinted in my last blog post, sometime I feel disconnected from, or skeptical of some of the white students and their perspectives on study abroad. This is an example of that.
+As some of you may know, I'm studying abroad this semester in Jordan to practice Arabic and explore a project or two. The study abroad program I'm with (Middlebury) is maybe 90% white this semester. And as hinted in my last blog post, sometime I feel disconnected from, or skeptical of some of the other students and their perspectives on study abroad. This is an example of that.
 
-To illustrate this concept, I'll generalize an image a bit. So, we're all familiar with voluntourism, right? If not, it's a loose term used for Westerners (largely white but can be hyphenated Americans too) that go to an exotic 3rd world country to do volunteer work, but also to "explore" the culture and take pictures while they're there as well.
+To illustrate this concept, I'll generalize an image a bit. So, we're all familiar with voluntourism, right? If not, it's a loose term used for Westerners (hyphenated Americans included) that go to an exotic 3rd world country to do volunteer work, but also to "explore" the culture and take pictures while they're there as well.
 
 Do you ever notice that the vast majority of friendly relationships made between these Westerners and the 'natives' are with foreign children? The vast majority of the pictures are with a bunch of goofy kids, those who are missed are mostly the friendly kids, etc.
 
