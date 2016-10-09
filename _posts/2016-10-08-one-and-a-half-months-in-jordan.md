@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Weeks Two to Six in Jordan
+title:      One and a Half Months in Jordan
 date:       2016-10-08 16:16:54
 author:     Aamir Azhar
 summary:    An update on my last month and a half here in Jordan.
