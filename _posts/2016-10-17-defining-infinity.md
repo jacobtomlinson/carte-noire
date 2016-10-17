@@ -3,7 +3,7 @@ layout:     post
 title:      Defining Infinity
 date:       2016-10-17 23:22:09
 author:     Aamir Azhar
-summary:    How do we express the inexpressible?
+summary:    How does one express the inexpressible?
 categories: personal
 thumbnail:  comment-o
 tags:
