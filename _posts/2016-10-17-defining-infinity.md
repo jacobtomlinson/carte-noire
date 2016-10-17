@@ -10,6 +10,7 @@ tags:
   - emotions
   - infinities
   - personal
+  - solitude
 ---
 I sit in my room alone, listening to a special playlist of mine. I name my playlists very intricately, in order to describe the emotion the songs within facilitate in me. It's a triangle of interaction -- The raw emotion which can never be described wholly, the music that describes that feeling, and its name.
 
