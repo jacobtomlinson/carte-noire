@@ -23,7 +23,7 @@ See, being progressive, on an ideological level, should have nothing to do with 
 #### <sup>This article, <a href="http://www.vox.com/2016/4/21/11451378/smug-american-liberalism">The smug style in American liberalism</a>, is a great read for all. Would recommend.</sup>
 
 <br>
-Now, there is a reason liberals can be like this. It is because *being progressive has become more about "knowing" and less about "doing"*. So all you have to do is believe everyone should be equal, believe that Muslims aren't terrorists, and believe that white people are privileged, and congrats, you did your job. You're in the club. You just gotta vote and you're good (or maybe even voting isn't necessary).
+Now, there is a reason liberals can be like this. It is because **being progressive has become more about "knowing" and less about "doing"**. So all you have to do is believe everyone should be equal, believe that Muslims aren't terrorists, and believe that white people are privileged, and congrats, you did your job. You're in the club. You just gotta vote and you're good (or maybe even voting isn't necessary).
 
 This makes liberalism in America very vague, and very pretentious. It is, in other words, not organized. It isn't action-oriented. In this sense, American vague liberalism is similar to many online leftist forums I read. It's just so ideology driven, and many don't recognize the necessity of current action, regardless of its exact associated political ideology. See, the thing about action-oriented movements is that they are much more fluid. Anyone can participate in a rally, an event, or initiative, and as such, it's easier to ease into the movement. With ideology-based groups, it's so explicit, and it seems more closed off to outsiders.
 
