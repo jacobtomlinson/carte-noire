@@ -5,7 +5,7 @@ description: "Just a kid trying to make sense of the world around him."
 baseurl: ""
 url: "https://aamirazhar.me/"
 title_description: "My name is Aamir Azhar. I'm a 20 year old kid who studies Computer Science,
-Arabic, and Documentary Studies at Duke University. This blog is mostly social/political commentary, poetry/creative writing, and maybe the occasional book/film/album review. If you only want to read a certain kind of post, go to http://www.aamirazhar.me/posts-by-categories/. Hope you enjoy, and please feel free to leave a comment or some feedback."
+Arabic, and Documentary Studies at Duke University. This blog is mostly social/political commentary, poetry/creative writing, and maybe the occasional book/film/album review. If you only want to read a certain kind of post, go <a href="http://www.aamirazhar.me/posts-by-categories/">here</a> to see my blog's different categories. Hope you enjoy, and please feel free to leave a comment or some feedback."
 title_image: "https://i.imgur.com/jsKk9b4.jpg"
 google_analytics: "UA-79202944-1"
 disqus_account: aamirazhar
