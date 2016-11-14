@@ -877,3 +877,20 @@ ul {
 		}
 	}
 }
+
+table{
+    margin: 0 auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid $darker;;
+}
+
+th{
+    padding: 2px;
+    border:2px solid $darker;;
+}
+
+td{
+    padding: 2px;
+    border:1px solid $dark-blue;;
+}
