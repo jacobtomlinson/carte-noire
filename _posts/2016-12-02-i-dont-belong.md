@@ -3,7 +3,7 @@ layout:     post
 title:      i dont belong
 date:       2016-12-02 15:19:44
 author:     Aamir Azhar
-summary:    I do not accept this world. To it, I shall always say no.
+summary:    'I do not accept this world. To it, I shall always say no.' Jung Zorndyke, Blue Submarine No.6.
 categories: poetry
 thumbnail:  pencil-square-o
 tags:
