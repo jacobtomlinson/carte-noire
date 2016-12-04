@@ -13,6 +13,7 @@ $facebook:       #365899;
 $github:         #f6c2a4;
 $stack-overflow: #c98b3b;
 $instagram:      #cd486b;
+$reddit:         #cee3f8;
 $rss:            #eea33a;
 
 $darker:         #21211E;
@@ -209,6 +210,10 @@ ul {
 	
 	.fa-instagram:hover {
 		color: $instagram;
+	}
+	
+	.fa-reddit-alien:hover {
+		color: $reddit;
 	}
 	
 	.fa-rss:hover {
