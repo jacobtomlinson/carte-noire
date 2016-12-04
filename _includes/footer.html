@@ -1,11 +1,15 @@
+{% if site.footer.size > 0 %}
 <div class="footer clearfix">
-  <div class="col-md-6">
-    {{ site.footer_left }}
-  </div>
-  <div class="col-md-6">
-    {{ site.footer_right }}
-  </div>
+  {% assign rowModulo = 12 | modulo: site.footer.size %}
+  {% if rowModulo == 0 %}
+    {% for footer in site.footer %}
+    <div class="col-md-{{ 12 | divided_by: site.footer.size }}">
+      {{ footer }}
+    </div>
+    {% endfor %}
+  {% endif %}
 </div>
+{% endif %}
 
 <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
