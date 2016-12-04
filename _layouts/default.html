@@ -3,7 +3,25 @@
 
     {% include head.html %}
 
-    <body>
+    {% if site.background-option == 2 %}
+      {% if site.image-hosted-extern %}
+        <body style='background-image: url("{{ site.background-image }}");'>
+      {% else %}
+        <body style='background-image: url("{{ site.baseurl }}/pictures/{{ site.background-image }}");'>
+      {% endif %}
+    {% elsif site.background-option == 3 %}
+      {% if page.background-image %}
+        {% if page.image-hosted-extern %}
+          <body style='background-image: url("{{ page.background-image }}");'>
+        {% else %}
+          <body style='background-image: url("{{ site.baseurl }}/pictures/{{ page.background-image }}");'>
+        {% endif %}
+      {% else %}
+        <body>
+      {% endif %}  
+    {% else %}
+      <body>
+    {% endif %}
 
     {% include header.html %}
 
