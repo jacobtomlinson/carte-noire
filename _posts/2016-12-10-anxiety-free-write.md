@@ -82,7 +82,7 @@ people are the reason my anxiety is so strong
 
 so how could i believe they can help?
 
-how can i trust again when all it has done is make things work?
+how can i trust again when all it has done is make things worse?
 
 <br>
 i am not sure if i should open up or close off
