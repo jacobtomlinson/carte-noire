@@ -6,7 +6,7 @@ description: "Personal musings of a certain Mr. Sushant Athley"
 baseurl: ""
 url: "https://sathley.github.io/"
 title_description: "Personal musings of a certain Mr. Sushant Athley"
-title_image: "https://scontent.fphl2-1.fna.fbcdn.net/t31.0-8/13723976_10154494917600466_4411114137335328218_o.jpg"
+title_image: "assets/me2.jpg"
 google_analytics: "UA-82404971-1"
 disqus_account: sathley
 github_repository: https://github.com/sathley/sathley.github.io

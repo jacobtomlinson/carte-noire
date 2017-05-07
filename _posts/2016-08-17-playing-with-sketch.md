@@ -3,7 +3,7 @@ layout:     post
 title:      Playing around with Sketch 3
 date:       2016-08-17 12:32:18
 summary:    Transform your plain text into static websites and blogs. Simple, static, and blog-aware.
-categories: jekyll
+categories: design
 thumbnail: diamond
 tags:
  - sketch
