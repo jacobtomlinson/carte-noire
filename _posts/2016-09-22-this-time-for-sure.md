@@ -4,7 +4,7 @@ title:      This time, for sure.
 date:       2016-09-22 02:27:06
 author:     Aamir Azhar
 summary:    A story about love.
-categories: personal
+categories: stories
 thumbnail:  heart-o
 tags:
   - love
