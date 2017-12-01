@@ -7,69 +7,25 @@
   </div>
 </div>
 
-<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-<script src="{{ site.baseurl }}/js/jquery.mmenu.min.all.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.7/highlight.min.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>
+<script src="{{ site.baseurl }}/js/jquery.mmenu.min.all.js"></script>
+<script src="{{ site.baseurl }}/js/site.js"></script>
+
+
 <script type="text/javascript">
-   $(document).ready(function() {
-      $("#my-menu").mmenu().on( "closed.mm", function() {
-            $(".menu-button").show();
-         });
-      $(".menu-button").click(function() {
-        $(".menu-button").hide();
-        $("#my-menu").trigger("open.mm");
-      });
-   });
+   hljs.initHighlightingOnLoad();
+   $(window.legacyInit);
+
+   {% if page.make-smaller-titles %}
+   $(legacygetStartFontSize);
+   {% endif %}
 </script>
 
-{% if page.make-smaller-titles %}
-<script type="text/javascript">
-
-  function setFontSize() {
-
-    var title, dateOfTitle, fontSizeOfTitle, listOfA, listOfSmall, listOfArticlesDiv, divWidth;
-
-    listOfArticlesDiv = document.getElementsByClassName("articles");
-
-    for (i = 0; i < listOfArticlesDiv.length; i++) {
-
-      listOfA = document.getElementsByClassName("articles")[i].getElementsByTagName("a");
-      listOfSmall = document.getElementsByClassName("articles")[i].getElementsByTagName("small");
-
-      divWidth = document.getElementsByClassName("articles")[i].offsetWidth;
-
-      for (k = 0; k < listOfSmall.length; k++) {
-
-        title = $(listOfA[k]);
-        dateOfTitle = $(listOfSmall[k]);
-
-        fontSizeOfTitle = startingFontSize;
-        title.css("font-size", fontSizeOfTitle);
-
-        while (title.width() + dateOfTitle.width() >= divWidth)
-          title.css("font-size", fontSizeOfTitle -= 0.5);
-
-      }
-    }
-  }
-
-  function getStartFontSize() {
-    try {
-      startingFontSize = parseInt($(document.getElementsByClassName("articles")[0].getElementsByTagName("a")[0]).css("font-size"));
-      setFontSize();
-      window.addEventListener('resize', setFontSize, true);
-    } catch (e) {}
-  }
-
-  $(document).ready(getStartFontSize);
-
-</script>
-{% endif %}
 
 {% if site.google_analytics %}
-<script type="text/javascript">
+<script>
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', '{{ site.google_analytics }}']);
           _gaq.push(['_trackPageview']);
