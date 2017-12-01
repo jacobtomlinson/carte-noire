@@ -1,6 +1,6 @@
 <nav id="my-menu">
   <div>
-    <p>{{ site.title }}</p>
+    <p class="slide-menu-item">{{ site.title }}</p>
 
     <ul class="pages">
       <li><a href="{{ site.baseurl }}/"><i class="fa fa-home"></i> Home</a></li>
@@ -8,7 +8,7 @@
       <li><a href="{{ site.baseurl }}/search/"><i class="fa fa-search"></i> Search</a></li>
     </ul>
 
-    {% include social_links.html %}
+    {% include social-links.html %}
   </div>
 </nav>
-<div class="menu-button" href="#menu"><i class="fa fa-bars"></i></div>
+<div class="menu-button slide-menu-item" href="#menu"><i class="fa fa-bars"></i></div>
