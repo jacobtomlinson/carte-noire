@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Performance, Creation, and Analysis
-date:       12/22/2017 02:16:13
+date:       2017-12-22 02:16:13
 author:     Aamir Azhar
 summary:    Methods of interacting with the world and its objects.
 categories: personal
@@ -15,7 +15,7 @@ tags:
 ---
 This blog post may sound very abstract and confusing, but it is the definition of an idea that may help me (and people with similar tendencies as I) decide what to do in life, how to do it, and what kind of themes or objects to work with. Please note that this concept is extremely subjective to how *I* do things, and assumes a few things (which I will present at the end). Also, I didn't really proofread this post, but I'm just putting it out there in case it clicks for someone else.
 
-In layman's terms, I have had trouble understanding what I actually want to do in life. For example, I am unsure whether I want to be an artist (in e.g. video game development) or an academic (in e.g. economics). This is compounded with my confusion on if I like something or not. For example, I'd really like video game development theory and analyzing how video games are made, yet I wouldn't like creating a video game myself. I would think, is the problem that I am just bad at creating games? Or do I just dislike games? I thought about this consistent problem and came across an epiphany.
+In layman's terms, I have had trouble understanding what I actually want to do in life. For example, I am unsure whether I want to be an artist (in e.g. video game development) or an academic (in e.g. economics). This is compounded with my confusion on if I like something or not. For example, I'd really like video game development theory and analyzing how video games are made, yet I wouldn't like creating a video game myself. I would think, is the problem that I am just bad at creating games? Or do I just dislike games? I thought about this consistent problem and came across an epiphany. (This largely came after watching Whiplash on the plane, which is a movie entirely based around the concept of performing)
 
 <br>
 The crux of this concept is that you can interact with an object in three ways. There is performance, creation, and analysis. You can either perform an object using a skill, create an object using a medium, or analyze an object using a framework.
