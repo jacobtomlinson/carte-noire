@@ -28,23 +28,23 @@ The girl. He approached me after I helped a girl find her mother. Now, he's talk
 
 "Exactly. Just the other day, I --"
 
-I zone out again. Almost immediately, I'm at the scene again. It was 2009, and we were coming back from my mother-in-law’s on Thanksgiving. The 2 hour drive down I-95 at night was my idea, even though I knew I was tired. The insurance company believes that the crash was the other car's fault. However, I know I could have avoided it. When the car swerved left to our lane, I was so zoned out that it took me a half second too long to register what was going on. The car was a bright red convertible in my headlights, how could I not have noticed? Why didn't I tell her to put her seatbelt on? Why didn't I let my wife drive?
+I zone out again. Almost immediately, I’m at the scene again. It was 2009, and we were coming back from my mother-in-law’s on Thanksgiving. The 2 hour drive down I-95 at night was my idea, even though I knew I was tired. The insurance company believes that the crash was the other car’s fault, but I know I could have avoided it. When the car swerved left to our lane, I was zoned out. It took me a half second to register what was going on, and by then, it was too late. The car was a bright red convertible in my headlights, how could I not have noticed? Why didn’t I tell her to put her seatbelt on? Why didn’t I let my wife drive?
 
-I remember, so vividly, watching her being carried from my totaled car towards the ambulance, praying for a medical miracle. Seeing my little girl, so young, unconscious on a stretcher, red and blue sirens dancing on her face with the moonlight.. I'll never forget it. I'll never forget the way my tears stretched the colors on the scene, bleeding them to infinity. Never in my life will I forget that sight.
+I remember, so vividly, watching my daughter being carried from my totaled car towards the ambulance, praying for a medical miracle. Seeing my little girl, so young, unconscious on a stretcher, red and blue sirens dancing on her face with the moonlight.. I'll never forget it. I'll never forget the way my tears stretched the colors on the scene, bleeding them to infinity. Never in my life will I forget that sight.
 
-Back then, she had just started 3rd grade. She loved school, because her homeroom teacher had an interest in art and illustration. He would let her stay in the classroom during lunch break so she could around with his watercolors and colored pencils. By God, she was so talented, though all she would draw were trees, grass, and clouds. In heaven, I hope she can draw as many clouds as she wants to. I hope, while she paints, her colors fall from up above, seeping down to this earth.
+Back then, she had just started 3rd grade. She loved school, because her homeroom teacher had an interest in art and illustration. He would let her stay in the classroom during lunch break so she could play around with his watercolors and colored pencils. By God, she was so talented, though all she would draw were trees, grass, and clouds. In heaven, I pray she can draw as many clouds as she wants to. I hope, while she paints, her colors fall from up above, seeping down to this earth.
 
 "--but now, we've finally started to reconcile our parenting styles. You ever think you can reach that point? Where you and your wife just stop the bickering and become a unit?"
 
 Back again. I need to say something.
 
-"Sometimes, you just can't fix it. Having a kid changes you," I add, obviously distracted. I don't think he's even noticed yet.
+"Sometimes, you just can't fix it. Having a kid changes you," I add, obviously distracted. I don't think he's noticed yet.
 
 "Yeah, you might be right. But you at least have to try to--"
 
 I've always believed that eye contact is the most direct way to show trust and affection. I used to measure how intimate a relationship was from how much eye contact we made. After my wife recovered from her neck injury, she refused to make eye contact. Our daughter had my eyes, and she couldn't look me in my eyes without breaking down. We tried to love without it, but love without trust, love without affection.. It’s nothing more than an honored commitment. We knew it was lost. Our love died by the next year, and we divorced the day after the 4th of July. I still miss her, and I still wish she never had to leave.
 
-We've lived alone since then. We're too old to have kids, and our only one is gone. I can't help but wonder how different life would be if our daughter survived that crash. I’ve managed to moved on, as much as one could from death. I'm old, almost 60, but I have a job, and my own humble apartment. But I don't think I’ll be happy again, not without my family. Sometimes, though, I start to feel like she’s with me now, accompanying me on my trips to nowhere. Those fleeting moments, where I forget that she’s gone, and I forget I'm alone.. they're the only thing keeping me alive. After all, I'm still her dad. I have to be. I can't be anything else.
+We've lived alone since then. We're too old to have kids, and our only one is gone. I can't help but wonder how different life would be if our daughter survived that crash. I’ve managed to moved on, as much as one could from death. I'm old, almost 60, but I have a job, and my own humble apartment. But I don't think I’ll be happy again, not without my family.. Sometimes, though, I start to feel like she’s with me now, accompanying me on my trips to nowhere. Those fleeting moments, where I forget that she’s gone, and I forget I'm alone.. they're the only thing keeping me alive. After all, I'm still her dad. I have to be. I can't be anything else.
 
 "--an exhausting responsibility. My wife wants to get a carpool, but I refuse.”
 
