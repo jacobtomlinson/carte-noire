@@ -16,11 +16,11 @@ It's only been 9 years. 9 years since I ruined three lives in the matter of a fe
 
 "--you know how it is. My wife didn't think it was a good idea, but I really thought it would have been good for the kids."
 
-I zone back into reality. As I look around this old Subway car, I wonder why this man is still talking to me. He’s wearing a blue hawaiian shirt with white flowers on it. His jeans are blue too. He, too, must default to the boring, unobtrusive nature of the color. The subway car bleeds more of an ugly yellow than normal, and there’s more graffiti than I remember, but the colors actually go well together. Either way, the city must be short on funds.
+I zone back into reality. As I look around this old Subway car, I wonder why this man is still talking to me. He’s wearing a blue hawaiian shirt with white flowers on it. His jeans are blue too. I see that he, too, must default to the boring, unobtrusive nature of the color. The subway car bleeds more of an ugly yellow than normal, and there’s more graffiti than I remember, but the colors actually go well together. Either way, the city must be short on funds.
 
 "Well anyway, I could tell you were a dad too when I saw you talk to that lost little girl."
 
-Oh yeah, the girl. He approached me after I helped a girl find her mother. Now, he's talking to me about kids and parenting.
+The girl. He approached me after I helped a girl find her mother. Now, he's talking to me about kids and parenting.
 
 "It's just something all parents share, you know?"
 
@@ -28,9 +28,9 @@ Oh yeah, the girl. He approached me after I helped a girl find her mother. Now, 
 
 "Exactly. Just the other day, I --"
 
-I zone out again. Almost immediately, I'm at the scene again. It was 2009. We were coming back from my mother-in-law’s on Thanksgiving, since I lobbied to make the 2 hour drive at night. I remember, so vividly, glancing from my totaled car to the ambulance through my tears, praying for a medical miracle. Seeing my little girl, so young, completely unconscious on a stretcher, red and blue sirens dancing on her face with the moonlight.. I'll never forget it. Never in my life will I forget that sight.
+I zone out again. Almost immediately, I'm at the scene again. It was 2009. We were coming back from my mother-in-law’s on Thanksgiving, since I lobbied to make that 2 hour drive down I-95 at night. I remember, so vividly, watching her being carried from my totaled car towards the ambulance, praying for a medical miracle. Seeing my little girl, so young, completely unconscious on a stretcher, red and blue sirens dancing on her face with the moonlight.. I'll never forget it. I'll never forget the way that my tears stretched the colors on the scene, bleeding them to infinity. Never in my life will I forget that sight.
 
-Back then, she had just started 3rd grade. She loved school, because her homeroom teacher also loved to draw. He would let her stay in the classroom during lunch break and play around with his watercolors and colored pencils. By God, she was so talented, but all she would draw were trees, grass, and clouds. I hope she could draw as many clouds as she wants in heaven.
+Back then, she had just started 3rd grade. She loved school, because her homeroom teacher also loved to draw. He would let her stay in the classroom during lunch break and play around with his watercolors and colored pencils. By God, she was so talented, but all she would draw were trees, grass, and clouds. I hope she could draw as many clouds as she wants in heaven. I hope, while she draws, her colors fall from heaven down to this earth.
 
 "--but now, we've finally started to reconcile our parenting styles. You ever think you can reach that point? Where you and your wife just stop the bickering and become a unit?"
 
