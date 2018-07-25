@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Just the One
+title:      just the one
 date:       2018-07-24 21:09:43
 author:     Aamir Azhar
 summary:    Short story about a father who lost everything.
