@@ -22,11 +22,15 @@ To man, all is the present, and the present is all perceived.
 The past, permanent, the present, passing.
 
 This defective congregation, this broken marriage, bears a child of anxiety and grief.
-..
+As man, ever remorseful of time's past, is furthermore paranoid of the future.
+A future that exists in the mind, but nowhere else. A hallucination, nonexistent but real.
+Haunted by the past and future, but unable to exist outside the present, he lives in fear.
+A fear of time, of the mind, and of himself. A fear born with flawed existence.
 
-For what is the future but a wraith [specter] for [hallucination of / vision of] the present?
-And what is the past but a story imposed upon the present by the gods of our previous selves?
-And what is the present but a half-born mutant, cemented between the two?
+For what is the future but a specter of the present?
+And what is the past but a fable imposed upon us? Controlled by
+* Controlled by people that aren't us - basically our previous selves are still not our present selves, and they control the past.
+And what is the present but a feeble weed cemented between the two?
 
 The past is eternal, the future nonexistent [a figment of our imagination], the present a short whiff of smoke.
 We live a whiff of smoke, commanded by a past and future we could never touch.
