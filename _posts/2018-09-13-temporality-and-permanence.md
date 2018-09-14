@@ -38,7 +38,7 @@ As man, ever remorseful of time's past, is furthermore paranoid of the future.
 
 A future that exists in the mind, but nowhere else. A hallucination, nonexistent but real.
 
-Haunted by the past and future, but unable to exist outside the present, he lives in fear.
+Haunted by the past and future, yet unable to exist outside the present, he lives in fear.
 
 A fear of time, of mind, and of himself. A fear born with flawed existence.
 
