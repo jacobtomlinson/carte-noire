@@ -40,17 +40,17 @@ A future that exists in the mind, but nowhere else. A hallucination, nonexistent
 
 Haunted by the past and future, but unable to exist outside the present, he lives in fear.
 
-A fear of time, of the mind, and of himself. A fear born with flawed existence.
+A fear of time, of mind, and of himself. A fear born with flawed existence.
 
 <br>
 For what is the future but an illusive specter of the present?
 
 And what is the past but a fable enforced upon our present selves?
 
-And what is the present but a dream itself; fleeting, only realized til' after its end?
+And what is the present but a dream itself; fleeting, only realized 'til after its end?
 
 <br>
-Time itself is deception, a siren whose very recognition stirs doubt and woe.
+Time itself is deception, a siren whose recognition stirs doubt and woe.
 
 For the past is eternal, the future hypothetical, the present evanescence in drifting souls.
 
