@@ -55,3 +55,17 @@ Time itself is deception, a siren whose recognition stirs doubt and woe.
 For the past is eternal, the future hypothetical, the present evanescence in drifting souls.
 
 Life is but a meager whiff of smoke, commanded by the gales of an imagined future and the sleet of an everlasting past.
+
+{::comment}
+Why are all the wrong things temporary, and all the right things permanent?
+* Temporary: Life itself, friendships, happiness
+ * For example, whenever I experience something good, I know it will end. The memory lasts, but the happiness doesn't.
+* Permanent: The decisions we have made in the past, our past experiences and how they affect who we are
+
+The past is permanent, but the present is temporary. The future doesn't exist outside of our imagination.
+* The past is too real. It is a constant.
+* The future is in our heads. It is a dream.
+* We are stuck between the past given to us (by our previous selves, who are not us right now, and by God, and history),
+* and the future we dream of, but will never know, control, or touch.
+* The present is all we have, but it is weak, brief, and fleeting.
+{:/comment}
