@@ -1,6 +1,6 @@
 As I open my eyes, the silhouette of my room slowly comes into view. Dawn still hasn’t hit, and it's almost pitch black. The only light source is the hallway light my dad leaves on that seeps through the foot of the door. I’m lying on my right side, but I decide to roll onto my back to relax and stare at the ceiling a bit. As I stare, my mind wanders, my eyes lose focus, and my sight fades to black again. I love that feeling. I drift away, and my mind forgets the difference between having eyes open and eyes closed. It forgets the difference between being awake and asleep. The difference between reality and dreams. Between life and death.
 
-My phone vibrates on my desk. It's 6am, which means I need to get ready. I get out of my bed, and turn on the light. It's still dark outside, but I can tell sunrise will be soon. I change quickly, putting on the same blue jeans I wear every day, the same white socks I wear every day (okay, the same kind. I don't wear the same pair of socks every day), and a random shirt from my closet. This time, the shirt is red and says "Santa Clara County Fair 2014" on it. I remember going with my mom then. I was only 10 then. It was fun, but my dad couldn't go that day. My mom said he was busy, but when we came back, he was just watching TV. I stare at my t-shirt in the mirror and start to feel sad for a second, but I snap out of it and turn towards my door. Thankfully, my dad's room is on the other side of the house, and the kitchen is right next to my room. I walk quietly to the kitchen and pull out some cereal from the cupboard.
+My phone vibrates on my desk. It's 6am, which means I need to get ready. I get out of my bed, and turn on the light. It's still dark outside, but I can tell sunrise will be soon. I change quickly, putting on the same blue jeans I wear every day, the same white socks I wear every day (okay, the same kind. I don't wear the same pair of socks every day), and a random shirt from my closet. This time, the shirt is red and says "Santa Clara County Fair 2014" on it. I remember going with my mom then. I was only 9 then. It was fun, but my dad couldn't go that day. My mom said he was busy, but when we came back, he was just watching TV. I stare at my t-shirt in the mirror and start to feel sad for a second, but I snap out of it and turn towards my door. Thankfully, my dad's room is on the other side of the house, and the kitchen is right next to my room. I walk quietly to the kitchen and pull out some cereal from the cupboard.
 
 On the way to the fridge, I grab the remote and turn on the TV, muted of course. As I get the milk, bowl, and spoon, I keep my eye on the nature documentary rerun the TV was on. Dad must have been watching nature shows last night, or whatever was on this channel in the nighttime. Or he just switched to this before sleeping. Who knows.
 
@@ -12,7 +12,7 @@ My dad doesn't care, of course. Maybe he'd be happy if I got robbed. I think the
 
 The walk is pretty uneventful. There's a Chinese lady with a cart who walks the opposite direction as me every day. We do a little nod of acknowledgement to each other as we passed each other and go on our merry way. I do wonder what her story is, or what would happen if I tried talking to her. I Imagine the scenario in my head as I walk. Would she be friendly? She seems friendly enough, but maybe she wouldn't be in the mood to talk. Should I even assume she speaks English? What if she's this amazing retired celebrity who moved here to get away from living the high life? Suddenly, I arrive at the front of my school. I always forget how close it is, and how easily I lose myself in my thoughts while walking. The school bus doesn't even bother stopping by my neighborhood since all the kids just walk. Not that I would take it if it did.
 
-I check my watch, and it's 6:40. Man, I think, I've gotten pretty good at maintaining this schedule. Probably because if I left any later, I'd risk getting beaten up. The administrators get in around 7 or 7:15, so I relax on the outside in the meantime. There's a faded wooden bench outside the gate facing the street, and I sit there, on the right side, waiting.  Like clockwork, at 6:45, Schellen sits down on the bench next to me, on the left side. I never notice where he comes from, and he manages to show up right when my mind starts drifting too far to pay close attention. This morning, I lost focus looking at this blue stone on the grass in front of me. But honestly, I'd never seen a stone so.. blue before. It shone a strong, smooth azure blue, and even though it was a gloomy day, it felt like the sun was reflecting off of it and the color was channeling straight into my eyes.
+I check my watch, and it's 6:40. Man, I think, I've gotten pretty good at maintaining this schedule. Probably because if I left any later, I'd risk getting beaten up. The administrators get in around 7 or 7:15, so I relax on the outside in the meantime. There's a faded wooden bench outside the gate facing the street, and I sit there, on the right side, waiting.  Like clockwork, at 6:45, Schellen sits down on the bench next to me, on the left side. He's wearing a vest over a v-neck, baggy jeans, and some Reeboks. I never notice where he comes from, and he manages to show up right when my mind starts drifting too far to pay close attention. This morning, I lost focus looking at this blue stone on the grass in front of me. But honestly, I'd never seen a stone so.. blue before. It shone a strong, smooth azure blue, and even though it was a gloomy day, it felt like the sun was reflecting off of it and the color was channeling straight into my eyes.
 
 "Hey." I say
 
@@ -24,7 +24,15 @@ We normally don't say much. You lose stuff to talk about spending every day toge
 
 "It comes from light itself. Light is like a wave and depending on the wavelength and frequency of the wave, your eyes interpret it as a certain color." he responds, sounding like my science teacher. He seems to know everything, though that doesn't mean I understand him all the time.
 
-I don't really respond, or really understand, so I keep staring at this stone.
+I don't really respond, or really understand, so I keep staring at this stone. Time passes inconspicuously again, and it's 7:15 now. Ms. Patel opens the gate and Schellen and I walk in. We make our way between the boring beige walls of the hallway to classroom 8.2. Class starts at 8, and there's 45 minutes, so I walk up to my desk, put my backpack on the floor, sit on my chair, and pull out my DS and start playing.
+
+"You know, you should consider reading before school starts. You get in so early, you could probably get through a whole book a week." Ms. Caldstone says. She's sitting behind her also boring and beige desk. She's wearing a grey blazer of sorts over a white top, her hair tied back as always. She looks sort of different without glasses, but I imagine it's much more convenient to wear contacts instead. "Have you even done your homework?"
+
+"Yes, Ms. Caldstone." I say shyly. I haven't finished everything, but I do all my homework in math class anyway.
+
+I go back to playing my DS. I'm playing the newest (but kinda old) Pokemon game, Pokemon Ultra Moon. I've almost reached the big fight with Necrozma, and I'm trying to get there before school starts.
+
+Unfortunately, I make very little progress before the school bell rings at 7:55. I feel like I've only played for a few minutes, but I chalk it up to video game immersion. Almost all at once, the rest of the class pours in. My desk is near the front, on the left side of the second out of five rows with five desks each. Schellen sits at the back, in the bottom left corner. I feel like people don't even notice he's there, especially since he never talks. The teachers seem to ignore him too, given that no one calls on him to answer questions.
 
 -Wake up at dawn to leave house before 7am to get to school before dad wakes up (abusive dad)
 -While waiting for class at 8am, hang out with "friend" (don't really talk)
@@ -41,3 +49,7 @@ Next day
 -...
 -He convinces me to run away (?)
 -Death (?)
+
+Themes
+-Color. Abnormal things are bright, everything else is beige or boring
+-Time. Time passes oddly, most of the time he loses track of it
