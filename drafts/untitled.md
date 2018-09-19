@@ -34,9 +34,15 @@ I go back to playing my DS. I'm playing the newest (but kinda old) Pokemon game,
 
 Unfortunately, I make very little progress before the school bell rings at 7:55. I feel like I've only played for a few minutes, but I chalk it up to video game immersion. Almost all at once, the rest of the class pours in. My desk is near the front, on the left side of the second out of five rows with five desks each. Schellen sits at the back, in the bottom left corner. I feel like people don't even notice he's there, especially since he never talks. The teachers seem to ignore him too, given that no one calls on him to answer questions.
 
+Class goes by extremely slowly. I find myself resisting the urge to look at the clock, then giving up after 20 minutes, only to find out that just two minutes had past. Somehow, I get through most of my morning classes. English, Math and Social Studies. All that's left is Art, and then I finally get my lunch break. Art is my favorite subject this year. Part of the reason is because it's right before lunch, so it feels less tedious. Another reason is because the teacher, Mr. Garcia, is so chill. He lets us do whatever we want as long as we present our progress to the class every other week. Two people present every day, at the beginning of class, for 5 minutes each, and we get the rest of class to do whatever we want.
+
+Today, I decide to start painting a new art piece. I have this urge to paint a bridge on the outskirts of town. I only went there once, years ago, two weeks before mom died. We rode a canoe together on the river under the bridge. It was hard to get there, since there was only one makeshift dock on the side of the river, and it was only accessible from the ladder that went down one of the bridge's piers. People stopped going there, though. Apparently someone got hurt going down the ladder, and since then, the city closed down all activities on and around the river. I wonder if anyone goes to the bridge's walkway to see the river, even though you can't experience it. It was a beautiful river, and canoeing down it remains one of my fondest memories with mom.
+
 -Wake up at dawn to leave house before 7am to get to school before dad wakes up (abusive dad)
 -While waiting for class at 8am, hang out with "friend" (don't really talk)
 -He sits at back of class in corner
+-Draw bridge
+-Feel urge to draw something at the bottom of the bridge, maybe some colors, or my mom, idk
 -After school, we go to the train tracks and walk on them
 -Come back by 5pm to eat dinner
 -Have fight with dad
@@ -49,6 +55,8 @@ Next day
 -...
 -He convinces me to run away (?)
 -Death (?)
+-Schellen a ghost of mom?
+--Or maybe Schellen just a dark second personality that came after mom left
 
 Themes
 -Color. Abnormal things are bright, everything else is beige or boring
