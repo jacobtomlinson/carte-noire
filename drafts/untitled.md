@@ -36,13 +36,20 @@ Unfortunately, I make very little progress before the school bell rings at 7:55.
 
 Class goes by extremely slowly. I find myself resisting the urge to look at the clock, then giving up after 20 minutes, only to find out that just two minutes had past. Somehow, I get through most of my morning classes. English, Math and Social Studies. All that's left is Art, and then I finally get my lunch break. Art is my favorite subject this year. Part of the reason is because it's right before lunch, so it feels less tedious. Another reason is because the teacher, Mr. Garcia, is so chill. He lets us do whatever we want as long as we present our progress to the class every other week. Two people present every day, at the beginning of class, for 5 minutes each, and we get the rest of class to do whatever we want.
 
-Today, I decide to start painting a new art piece. I have this urge to paint a bridge on the outskirts of town. I only went there once, years ago, two weeks before mom died. We rode a canoe together on the river under the bridge. It was hard to get there, since there was only one makeshift dock on the side of the river, and it was only accessible from the ladder that went down one of the bridge's piers. People stopped going there, though. Apparently someone got hurt going down the ladder, and since then, the city closed down all activities on and around the river. I wonder if anyone goes to the bridge's walkway to see the river, even though you can't experience it. It was a beautiful river, and canoeing down it remains one of my fondest memories with mom.
+Today, I decide to start painting a new art piece. I have this urge to paint a bridge on the outskirts of town. I only went there once, years ago, two weeks before mom died. We rode a canoe together on the river under the bridge. It was hard to get there, since there was only one makeshift dock on the side of the river, and it was only accessible from the ladder that went down one of the bridge's piers. People stopped going there, though. Apparently someone got hurt going down the ladder, and since then, the city remodeled the bridge and closed down all activities on and around the river. I wonder if anyone goes to the bridge's walkway to see the river, even though you can't experience it. It was a beautiful river, and canoeing down it remains one of my fondest memories with mom.
+
+I sit there quietly, painting this bridge, uncovering this itch I have. As always, when I paint, I feel entirely at peace, like the trials of my life are no more. I love painting for this reason: because when I am painting a new universe, it replaces the current one I am experiencing (apparently, two universes cannot exist simultaneously). I would lose myself entirely in trying to understand and discover what this world is, how it feels, for what purpose it exists. Finishing almost feels unscrupulous, as I am immediately transported back to the realm of the disappointing and unjust 'real'. However, while I long for the feeling of excavating an unknown world, I would return to my world with a refreshed desire to explore and unearth the mysteries of this world as well. Our universe remains an inefficient, inequitable, insufferable creation, but it has one unique (even redeeming) quality: it continues to live, and it demands to be experienced.
+
+No matter how hard I try, I have found myself to be entirely unable to return to a universe I have created, to experience the sensation I had when creating it. It seems that the realm of dreams, of fantasy, of art, and the realm of reality, have been built to be separate, and mutually exclusive. Similarly, "the sensation" has been so absent from this universe, that often in the redundancy of daily life, I find myself yearning to find it in this world. To this day, I have not found it. I only see it in worlds other than our own.
+
+This is the first time I draw an object existing in this 'real' realm, the object being this bridge and its surrounding area. Though I've drawn realistic environments before, they would still be fabricated to a point, like a generic landscape of rural America, or a busy city view of a street in Manhattan (where I've never been). Most of my paintings *seem* real, but they're fictional. This painting is real, but it *seems* fictional. The colors are off, almost inverted, the bridge a boring light blue, while the river and sky bleed a tainted, dark orange, almost reminiscent of the bridge's color when I saw it years ago. There is nothing else in the painting besides the sky, bridge, and river, except a rippled circle of black on the river, directly under the railing of the bridge. I don't know what it means, or why it's there, but I felt compelled to put it there.
 
 -Wake up at dawn to leave house before 7am to get to school before dad wakes up (abusive dad)
 -While waiting for class at 8am, hang out with "friend" (don't really talk)
 -He sits at back of class in corner
 -Draw bridge
 -Feel urge to draw something at the bottom of the bridge, maybe some colors, or my mom, idk
+--Spot of black: Happens on accident? Or I don't notice? Or I just do it unconsciously?
 -After school, we go to the train tracks and walk on them
 -Come back by 5pm to eat dinner
 -Have fight with dad
@@ -54,7 +61,7 @@ Next day
 -What was he even wearing tomorrow? Or any day? Everything is a blur
 -...
 -He convinces me to run away (?)
--Death (?)
+-Death (?) (screaming out "mom" while falling? looking towards sky, falling towards river, they seem dark orange)
 -Schellen a ghost of mom?
 --Or maybe Schellen just a dark second personality that came after mom left
 
