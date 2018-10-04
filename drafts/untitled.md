@@ -42,7 +42,20 @@ I sit there quietly, painting this bridge, uncovering this itch I have. As alway
 
 No matter how hard I try, I have found myself to be entirely unable to return to a universe I have created, to experience the sensation I had when creating it. It seems that the realm of dreams, of fantasy, of art, and the realm of reality, have been built to be separate, and mutually exclusive. Similarly, "the sensation" has been so absent from this universe, that often in the redundancy of daily life, I find myself yearning to find it in this world. To this day, I have not found it. I only see it in worlds other than our own.
 
-This is the first time I draw an object existing in this 'real' realm, the object being this bridge and its surrounding area. Though I've drawn realistic environments before, they would still be fabricated to a point, like a generic landscape of rural America, or a busy city view of a street in Manhattan (where I've never been). Most of my paintings *seem* real, but they're fictional. This painting is real, but it *seems* fictional. The colors are off, almost inverted, the bridge a boring light blue, while the river and sky bleed a tainted, dark orange, almost reminiscent of the bridge's color when I saw it years ago. There is nothing else in the painting besides the sky, bridge, and river, except a rippled circle of black on the river, directly under the railing of the bridge. I don't know what it means, or why it's there, but I felt compelled to put it there.
+This is the first time I draw an object existing in this 'real' realm, the object being this bridge and its surrounding area. Though I've drawn realistic environments before, they would still be fabricated to a point, like a generic landscape of rural America, or a busy city view of a street in Manhattan (where I've never been). Most of my paintings *seem* real, but they're fictional. This painting is real, but it *seems* fictional. The colors are off, almost inverted, the bridge a boring light blue, while the river and sky bleed a tainted, dark orange, almost reminiscent of the bridge's color when I saw it years ago. There is nothing else in the painting besides the sky, bridge, and river, except a rippled circle of black on the river, directly under the railing of the bridge. I don't know what it means, or why it's there, but I felt compelled to paint it.
+
+The rest of the day goes by quickly, thank God. Once I finish my painting, I immediately snap out of my dream, and the rest of the day becomes some kind of a simulation. Maybe I haven't returned from the dream entirely, but either way, at least I don't have to experience time like I did this morning. I'm not complaining, but I am upset I'm closer to having to go home.
+
+The school bell rings at 3, signaling the end of what I consider the normal part of the day. Now, I have an hour and a half before I have to be home.
+
+Schellen and I decide to walk down the train tracks again. Maybe this time, we'll actually be able to see a train pass by, if they still run.. As we walk towards the train tracks, we witness the city get more and more rundown. Is there something about train tracks that makee the surrounding area poorer? Or is it a coincidence?
+
+"What do you think, Schellen?" I ask.
+
+"Maybe it has something to do with the accessibility of train tracks back when passenger trains still ran here. Richer people probably had cars, or didn't work at all, so they never found it useful to be there. Poor people probably needed it to get to work every day."
+
+"Oh. Cool." I say again, only slightly understanding. "Wish I paid attention in history."
+
 
 -Wake up at dawn to leave house before 7am to get to school before dad wakes up (abusive dad)
 -While waiting for class at 8am, hang out with "friend" (don't really talk)
@@ -50,7 +63,7 @@ This is the first time I draw an object existing in this 'real' realm, the objec
 -Draw bridge
 -Feel urge to draw something at the bottom of the bridge, maybe some colors, or my mom, idk
 --Spot of black: Happens on accident? Or I don't notice? Or I just do it unconsciously?
--After school, we go to the train tracks and walk on them
+-After school, do something with Schellen, lose track of time, get home late
 -Come back by 5pm to eat dinner
 -Have fight with dad
 
