@@ -48,13 +48,23 @@ The rest of the day goes by quickly, thank God. Once I finish my painting, I imm
 
 The school bell rings at 3, signaling the end of what I consider the normal part of the day. Now, I have an hour and a half before I have to be home.
 
-Schellen and I decide to walk down the train tracks again. Maybe this time, we'll actually be able to see a train pass by, if they still run.. As we walk towards the train tracks, we witness the city get more and more rundown. Is there something about train tracks that makee the surrounding area poorer? Or is it a coincidence?
+Schellen and I decide to walk down the train tracks again. Maybe this time, we'll actually be able to see a train pass by, I thought. That is, if they still run. As we walk towards the train tracks, we witness the city get more and more rundown. Is there something about train tracks that makee the surrounding area poorer? Or is it a coincidence?
 
 "What do you think, Schellen?" I ask.
 
-"Maybe it has something to do with the accessibility of train tracks back when passenger trains still ran here. Richer people probably had cars, or didn't work at all, so they never found it useful to be there. Poor people probably needed it to get to work every day."
+"Maybe it has something to do with the accessibility of train tracks back when passenger trains still ran here. Richer people probably had cars, or didn't work at all, so they never found it useful to be close to the stations. Poor people probably needed it to get to work every day."
 
 "Oh. Cool." I say again, only slightly understanding. "Wish I paid attention in history."
+
+Schellen and I walk down the tracks, strolling further from home each step we take. The surrounding area is not very lively. All I can see around me are abandoned houses, empty warehouses, and broken shacks. Soon enough, the sun starts to drift towards the land, as if it is tired after a long day, wishing to return to its repose under the heavy blanket of the Earth. As we walk further down, I notice more and more of the buildings seem to be painted a faded light blue. I wonder what made everyone in the area paint their places light blue years ago.
+
+"You'd think, in a poorer area like this, people wouldn't have painted their houses. Odd." Schellen remarks.
+
+As we continue down the tracks, I begin to think I've stepped into an alternate world. Schellen and I have walked down these tracks before, but we've never seen any blue houses, nor has it been as quiet as it is now. Or, it's always been quiet here, but now, it's.. *still*. It feels like nothing around me is moving except for me and Schellen. Like everything in the world is stuck in time except for us. Finding this feeling oddly encouraging, I march onto the horizon, towards the dark, burnt orange light of the almost-setting sun.
+
+When the bottom of the sun hits the horizon, I realize it must be getting late. Judging by our proximity to sunset, it may already be past 5. I need to get home, and it seems I'm really far as it is. I look to my right and left, and **all** of the buildings are faded light blue at this point. It's almost unsettling.
+
+I stop, and start to turn towards the opposite direction. Before I finish turning, I hear a sound, the first sound I've heard since stepping on these tracks. It sounds like.. steam of some sort.
 
 
 -Wake up at dawn to leave house before 7am to get to school before dad wakes up (abusive dad)
