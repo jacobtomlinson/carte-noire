@@ -35,4 +35,4 @@ This formidable challenge seemingly has no end, but maybe that’s where its bea
 
 So, no matter what, I will continue moving forward, never ceasing in my quest for the stars. I will continue to reach for infinity despite finiteness, embracing my mortality and fallibility. I will continue to push the boundaries of the limited mediums we use to communicate, and I won’t stop trying to express the inexpressible, through frustrating failure and temporary triumph alike.
 
-And perhaps, every once in a while, we may witness that infinity rise amongst the chaos. Maybe we can catch a glimpse of the divine.
+And perhaps, every once in a while, we may witness the infinity rise amongst the chaos. Maybe we can catch a glimpse of the divine.
