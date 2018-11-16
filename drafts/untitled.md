@@ -48,7 +48,7 @@ The rest of the day goes by quickly, thank God. Once I finish my painting, I imm
 
 The school bell rings at 3, signaling the end of what I consider the normal part of the day. Now, I have an hour and a half before I have to be home.
 
-Schellen and I decide to walk down the train tracks again. Maybe this time, we'll actually be able to see a train pass by, I thought. That is, if they still run. As we walk towards the train tracks, we witness the city get more and more rundown. Is there something about train tracks that makee the surrounding area poorer? Or is it a coincidence?
+Schellen and I decide to walk down the train tracks again. Maybe this time, we'll actually be able to see a train pass by, I thought. That is, if they still run. As we walk towards the train tracks, we witness the city get more and more rundown. Is there something about train tracks that make the surrounding area poorer? Or is it a coincidence?
 
 "What do you think, Schellen?" I ask.
 
@@ -65,6 +65,15 @@ As we continue down the tracks, I begin to think I've stepped into an alternate 
 When the bottom of the sun hits the horizon, I realize it must be getting late. Judging by our proximity to sunset, it may already be past 5. I need to get home, and it seems I'm really far as it is. I look to my right and left, and **all** of the buildings are faded light blue at this point. It's almost unsettling.
 
 I stop, and start to turn towards the opposite direction. Before I finish turning, I hear a sound, the first sound I've heard since stepping on these tracks. It sounds like.. steam of some sort.
+
+The train cruises towards us at a surprisingly swift pace. Its hull shines a golden orange, while the machine releases silver steam with an almost bluish tint. The train seems to shine bright, as if it is reflecting sunlight that has long since left the sky. But when I look closely, I see that the metal is dull and faded at the same time. It feels surreal and real all at once.
+
+Still hypnotized by the mirage, I remain standing unwittingly on the tracks, as time (or just the train, I can't tell) slows down gradually. Each second, as it inches forward, its proximity to me becomes more and more apparent, and my subconscious starts to fire warning signs. I can almost feel the synapses trying to jumpstart my mind into action. Yet I remain still. The train is real, but I have this feeling, this *intuition* that it will do nothing but pass through me. Like its material is not metal, but indiscriminate particles of light that came together to form this illusion of an orange-ish train, only to dissipate into nothingness soon thereafter. This image implants itself into my head, and as the train gets closer, the image becomes clearer, until it's all I can feel. Until the dreaminess, the fantasticality of it all becomes a part of me.
+
+I've felt pain in my life. Emotional pain, of course, but lots and lots of physical pain. But
+[need some philosophy about physical pain, and though it often is more 'real' than emotional pain, it's also actually more of an illusion. it passes through you in a way emotional pain doesn't. ironically, that which is in the mind is that which is real, that which is external, physical is that which is apparition]
+
+"Dude, what the hell? Snap out of it." Schellen pulls me from the train track a second before the train takes my place, despite my readiness to be swallowed up in its image.
 
 
 -Wake up at dawn to leave house before 7am to get to school before dad wakes up (abusive dad)
