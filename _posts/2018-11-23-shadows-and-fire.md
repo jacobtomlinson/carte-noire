@@ -12,13 +12,6 @@ tags:
   - lost
   - love
   - solitude
-categories: poetry
-thumbnail:  pencil-square-o
-tags:
-  - depression
-  - lost
-  - love
-  - solitude
 ---
 cemented shadows in my room, in my soul
 
