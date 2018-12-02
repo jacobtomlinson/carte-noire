@@ -71,13 +71,19 @@ The train cruises towards us at a surprisingly swift pace. Its hull shines a gol
 Still hypnotized by the mirage, I remain standing unwittingly on the tracks, as time (or just the train, I can't tell) slows down gradually. Each second, as it inches forward, its proximity to me becomes more and more apparent, and my subconscious starts to fire warning signs. I can almost feel the synapses trying to jumpstart my mind into action. Yet I remain still. The train is real, but I have this feeling, this *intuition* that it will do nothing but pass through me. Like its material is not metal, but indiscriminate particles of light that came together to form this illusion of an orange-ish train, only to dissipate into nothingness soon thereafter. This image implants itself into my head, and as the train gets closer, the image becomes clearer, until it's all I can feel. Until the dreaminess, the fantasticality of it all becomes a part of me.
 
 [PLEASE fix this next section omg it's so bad (but I think the idea is good, just refine/reword it)]
-I've felt pain in my life. Emotional pain, of course, but lots and lots of physical pain. But after you endure so much, physical pain becomes ethereal. You feel pain, but it passes through you. It's freeing, but confusing, worrying. My father beats me a few times a week, but now it's just doing my time. It's like waking up for school: it exists, it's unpleasant, some days are worse than others, but you get through it.
+I've felt pain. Every week, almost every other day, I feel pain. I feel the sting of my father's palm on my cheek, the dense throbbing of my blood vessels repelling the hard, cylindrical cardboard container, a container which would store the research posters my father used to present at his conferences, conferences which would distract my father for weeks, weeks which would cede me and my mother a peaceful purgatory until he returned.
+
+But the bruises and blood left on the skin are incomparable to the scars and trauma left on the heart. The pain of abuse is not physical. It is emotional. It stings not at the skin, but deeper, in the soul. Physical pain comes from the outside and stops at the skin, at your blood. Emotional pain originates from your heart and spreads outward to your soul, mind, and body.
+
+The pain of abuse is not physical, but emotional. It is
+Emotional pain, of course, but lots and lots of physical pain. But after you endure so much, physical pain becomes ethereal. You feel pain, but it passes through you. It's freeing, but confusing, worrying. My father beats me a few times a week, but now it's just doing my time. It's like waking up for school: it exists, it's unpleasant, some days are worse than others, but you get through it.
 
 But I cannot say the same for emotional pain. Emotional pain is more palpable than physical pain because it comes from inside you. A trojan horse, it swallows you up from the inside. Physical pain stops at your skin, the damage fails to go deeper than your blood, or your organs. I can learn to endure other people's demons. I can get used to the pain they bring, I can retreat into myself, numb to their actions. But when who's hurting you is you, there is no sanctuary. There is no escape.
 
 [need some philosophy about physical pain, and though it often is more 'real' than emotional pain, it's also actually more of an illusion. it passes through you in a way emotional pain doesn't. ironically, that which is in the mind is that which is real, that which is external, physical is that which is apparition]
 
 "Dude, what the hell? Snap out of it." Schellen pulls me from the train track a second before the train takes my place, despite my readiness to be swallowed up in its image.
+
 
 
 -Wake up at dawn to leave house before 7am to get to school before dad wakes up (abusive dad)
