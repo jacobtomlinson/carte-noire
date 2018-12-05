@@ -23,7 +23,7 @@ I didn't get a chance to sync up with him, so I had to continue with my day. I h
 #### <sup>Here's a random pic of one of my cats at home in Durham to keep you interested. This is Sushi, she's super shy but had recently started to warm up to me! Found her lying on my bed when I woke up last week. (Sorry about the rotation, I'm too lazy to debug why Github pages can't display portrait images correctly. You can open the image on a new tab though and it should be upright.)</sup>
 
 <br>
-Despite the productivity of the conversations with Imam Khalid and my therapist, I still felt anxious after it all. After a breakthrough the last few weeks of feeling more comfortable in my own skin, coming out of depression, and starting to love myself again, I was concerned at the sense of feeling unlike myself again.
+Despite the productivity of the conversations with Imam Khalid and my therapist, I still felt anxious after it all. After a breakthrough the last few weeks of feeling more comfortable in my own skin, coming out of depression, and starting to love myself again, I was concerned at the sense of feeling unlike myself, a feeling I've felt too much in summer and fall.
 
 So, as I went out for dinner, I thought about my anxiety. Thought, maybe too much. Tried, maybe a little too hard, to find the cause.
 
