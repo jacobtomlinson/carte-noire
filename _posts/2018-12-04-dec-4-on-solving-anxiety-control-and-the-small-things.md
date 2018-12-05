@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Dec 4: On "Solving" Anxiety, Control, and the Small Things
+title:      Dec 4 | On "Solving" Anxiety, Control, and the Small Things
 date:       2018-12-04 22:46:22
 author:     Aamir Azhar
 summary:    A reflection on learning to work with my anxiety and listen to my heart, on being patient but proactive.
