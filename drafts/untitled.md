@@ -74,9 +74,29 @@ I've felt pain. Every week, almost every other day, I feel pain. I feel the stin
 
 But the bruises and blood left on the skin are incomparable to the scars and trauma left on the heart. The pain of abuse is not physical. It is emotional. It stings not at the skin, but deeper, in the soul. Physical pain comes from the outside and stops at the skin, at your blood. Emotional pain originates from your heart and spreads outward to your soul, mind, and body. It engulfs you.
 
-"Yo, snap out of it." Schellen pulls me from the train track a second before the train takes my place, despite my readiness to be swallowed up in its image.
+"Snap out of it!" Schellen pulls me from the train track a second before the train takes my place, despite my readiness to be swallowed up in its image.
 
+I lay awake in bed, staring at the ceiling. I focus on a dark corner where my eyes can lose focus and the room can go black. The moonlight reaches into my room, supplying a moonlight so subtle that my room glows with a dark sapphire. I turn on my right side, eyeing the nightlight under my desk. It's inefficiently placed, but it allows me to see the underside of my desk and the papers piled on the bottom shelf I rest my foot on. On the top of the pile is a poster my mom and I made a few years ago, titled "My Family Tree". It has a white background a large green tree drawn on it (apparently it never occurred to me that only the leaves of a tree were green). I can't see each branch of the tree from here, but my mom's side of the family is noticeably larger and more detailed than my father's.
 
+I turn to lie on my back again, going back to my favorite ceiling corner. My mind moves slowly as I try to recall the night.
+
+I arrived very late, after 6pm, to find my dad staring at an uneaten plate of salmon and garlic bread. Across him was an identical plate with a glass of apple juice next to it. He wore a facial expression I couldn't decipher. It almost came off as a look of concern.
+
+"Hey dad."
+
+He sprung up and his facial expression mutated into rage (now that's something I could recognize).
+
+"Where the hell were you? I was.. You know that's unacceptable. Its irresponsible and unmanly to be truant."
+
+His voice rang in my ears. I didn't respond. I mean, I knew what was going to happen.
+
+He beat me with a fury I hadn't felt, physically or emotionally, since mom left. Most times, it's like he beats me out of boredom, or like it's a routine he abides by. Tonight was different.
+
+As I lay on my back and endured his swings of rage, my mind wandered back to the train. Its dull, orange hull, the blue abandoned houses in the background.. The image consumed my mind. I dreamt of standing in its wake, and as it makes contact, absorbing it into myself. Diffusion. Like my chest opens up and it funnels itself into my soul. I dreamt of the emptiness in me being fulfilled with urgency. I dreamt of romance, of rancor, of nirvana and of death.
+
+My phone vibrates again. It's 6am, but I'm not asleep. Or at least I feel no more conscious than I did before my alarm rang. I'm still staring at that corner, my mind moving even slower now. I don't remember falling asleep that night. All I remember is staring at the corner as the dark blue moonlight of my room evolved into a bright orange sunlight. I could have been asleep, but I don't feel like I woke up.
+
+It's just another day.
 
 
 -Wake up at dawn to leave house before 7am to get to school before dad wakes up (abusive dad)
