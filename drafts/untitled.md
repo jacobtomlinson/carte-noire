@@ -2,7 +2,7 @@ As I open my eyes, the silhouette of my room slowly comes into view. Dawn still 
 
 My phone vibrates on my desk. It's 6am, which means I need to get ready. I get out of my bed, and turn on the light. It's still dark outside, but I can tell sunrise will be soon. I change quickly, putting on the same blue jeans I wear every day, the same white socks I wear every day (okay, the same kind. I don't wear the same pair of socks every day), and a random shirt from my closet. This time, the shirt is red and says "Santa Clara County Fair 2014" on it. I remember going with my mom then. I was only 9 then. It was fun, but my dad couldn't go that day. My mom said he was busy, but when we came back, he was just watching TV. I stare at my t-shirt in the mirror and start to feel sad for a second, but I snap out of it and turn towards my door. Thankfully, my dad's room is on the other side of the house, and the kitchen is right next to my room. I walk quietly to the kitchen and pull out some cereal from the cupboard.
 
-On the way to the fridge, I grab the remote and turn on the TV, muted of course. As I get the milk, bowl, and spoon, I glance at the nature documentary rerun on TV. Dad must have been watching nature shows last night, or whatever was on this channel in the nighttime. Or he just switched to this before sleeping. Who knows.
+On the way to the fridge, I grab the remote and turn on the TV, muted of course. As I get the milk, bowl, and spoon, I glance at the nature documentary rerun on TV. Dad must have been watching nature shows last night. Or he just switched to this before sleeping. Who knows.
 
 It's almost 6:15 now. I switch to Cartoon Network and leave it on while I pour my cereal and milk. Commercials are playing right now. I eat quickly, but slow enough to time the meal with the end of the episode. Before I know it, it's 6:29, and the show finishes. I turn the TV off, sling my backpack around my shoulder, and head to the garage, where there's a side door I take to leave the house.
 
@@ -12,7 +12,7 @@ My dad doesn't care, of course. Maybe he'd be happy if I got robbed. I think the
 
 The walk is pretty uneventful. There's a Chinese lady with a cart who walks the opposite direction as me every day. We do a little nod of acknowledgement to each other as we passed and go on our merry way. I do wonder what her story is, what would happen if I tried talking to her. I imagine the scenario in my head as I walk. Would she be friendly? She seems friendly enough, but maybe she wouldn't be in the mood to talk. Should I even assume she speaks English? Why does she leave her house at exactly 6:30am every day? Does she even have a house? I realize I think about this every day. Yet my behavior doesn't change. I then arrive at the front of my school. I always forget how close it is, and how easily I lose myself in my thoughts while walking. The same thoughts. The school bus doesn't even bother stopping by my neighborhood since all the kids just walk. Not that I would take it if it did.
 
-I check my watch, and it's 6:40. Man, I think, I've gotten pretty good at maintaining this schedule. Probably because if I left any later, I'd risk an injury. The administrators get in around 7 or 7:15, so I relax on the outside in the meantime. There's a faded wooden bench outside the gate facing the street, and I sit there, on the right side, waiting.  Like clockwork, at 6:45, Schellen sits down on the bench next to me, on the left side. He's wearing a vest over a v-neck, baggy jeans, and some Reeboks. I never notice where he comes from, and he manages to show up right when my mind starts drifting too far to pay close attention. I lose focus looking at this blue stone on the grass in front of me. I'd never seen a stone so blue before. It shone a strong, smooth azure blue, and even though it was a gloomy day, it feels like the sun was reflecting off of it and the color was channeling straight into my eyes.
+I check my watch, and it's 6:40. Man, I think, I've gotten pretty good at maintaining this schedule. Probably because if I left any later, I'd risk an injury. The administrators get in around 7 or 7:15, so I relax on the outside in the meantime. There's a faded wooden bench outside the gate facing the street, and I sit there, on the right side, waiting.  Like clockwork, at 6:45, Schellen sits down on the bench next to me, on the left side. He's wearing a vest over a v-neck, baggy jeans, and some Reeboks. I never notice where he comes from, and he manages to show up right when my mind starts drifting too far to pay close attention. This time, I lost focus looking at this blue stone on the grass in front of me. I'd never seen a stone so blue before. It shone a strong, smooth azure blue. It was sitting in the shade, but it felt like the sun was reflecting off of it and the color was channeling straight into my eyes.
 
 "Hey." I say
 
@@ -94,23 +94,33 @@ I didn't eat dinner that night. He beat me with a fury I hadn't felt, physically
 
 As I lay on my back and endured his swings of rage, my mind wandered back to the train. Its dull, orange hull, the blue abandoned houses in the background.. The image consumed my mind. I dreamt of standing in its wake, and as it makes contact, absorbing it into myself. Diffusion. Like my chest opens up and it funnels itself into my soul. I dreamt of the emptiness in me being fulfilled with urgency. I dreamt of romance, of rancor, of nirvana and of death.
 
-My phone vibrates again. It's 6am, but I'm not asleep. Or at least I feel no more conscious than I did before my alarm rang. I'm still staring at that corner, my mind moving even slower now. I don't remember falling asleep that night. All I remember is staring at the corner as the dark blue moonlight of my room evolved into a bright orange sunlight. I could have been asleep, but I don't feel like I woke up.
+My phone vibrates again. It's 6am, but I'm not asleep. Or at least I feel no more conscious than I did before my alarm rang. I'm still staring at that corner, my mind moving even slower now. I don't remember falling asleep that night. All I remember is staring at the ceiling as the dark blue moonlight of my room evolved into a bright orange sunlight. I could have been asleep, but I don't feel like I ever woke up.
 
 It's just another day.
 
-As much as I want to keep staring at the ceiling, I only allow myself another 10 minutes before I get up. I feel like wearing it again, so I pick the County Fair shirt out of the laundry and wear it with my everyday blue jeans. I skip breakfast and walk straight to school. It's so foggy today, the sky filled with clouds. I can't tell where the sun is, or if it even came out yet. The streets feel empty and abandoned, a concrete desert. I don't see the old lady on my way to school, and arrive there at 6:20. To my surprise, Schellen is there already, staring at the ground on our bench.
+As much as I want to keep staring, I only allow myself another 10 minutes before I get up. I pick the County Fair shirt out of the laundry and wear it with my everyday blue jeans. Skipping breakfast, I leave straight for school. It's so foggy today, the sky filled with clouds. I can't tell where the sun is, or if it even came out yet. The streets feel empty and abandoned, a concrete desert. I don't see the old lady on my way to school, and no one else is on the sidewalk. Normally, a car would drive by occasionally. Today, there was nothing. I arrive at 6:20 to find Schellen waiting there already, staring at the ground on our bench.
 
 I sit beside him.
 
 "You sulking?"
 
-He doesn't take his eyes off the ground. I follow his eyes to where he's looking at and I see a black stone. Somehow, I know it's the same stone as yesterday. The essence of the object is the same. It's still reflecting light of an unknown source. Did someone paint it?
+He doesn't take his eyes off the ground. I follow his eyes to where he's looking at and I see a black stone. I know, somehow, it's the same stone as yesterday. The essence of the object is the same. It's still projecting light somehow, despite the weather. Did someone paint it?
 
 I lean forward to pick it up.
 
 "Don't do that." Schellen commands.
 
-I stop. I lean back into my seat. I ask no questions. Not out of fear, but he said it in a way such that I had no choice. I wasn't to touch it. Period.
+I stop. I lose the urge to touch the stone, and lean back into my seat.
+
+At 7:15, a lady I don't recognize walks up to the gate, which I assume she's going to open. She's wearing a black collared blouse which matches her black skirt and black heels. What stands out is her hair—it radiates a bright orange comparable only to the reddish freckles on her pale face. Schellen and I watch curiously as she attempts to open the gate, trying out one of maybe 10 keys on her key chain at a time. She inserts the keys with a distinct poise, a patience I've never seen a public school teacher wield before. After the 4th key doesn't go through, Schellen turns and mentions to her, in a soft, but confident voice, "It's the one with the green rubber glued onto the head."
+
+"Thank you," she says, eyes never leaving the keychain, not even to acknowledge him.
+
+Schellen and I get up slowly. We walk through the opened gate, find our classroom, and sit in our respective seats. The door was unlocked, but Ms. Caldstone is nowhere to be found. Feeling wary, I pull out my DS and start to play.
+
+Around 7:50, the other students begin to trickle into the classroom. Ms. Caldstone still isn't there. I almost feel guilty playing my DS without her lecturing me to study or read. I miss her still, vigilant presence in the room on this cloudy morning.
+
+At 8:00, right as the bell rings, the door creaks open to reveal the same lady in black. She stands in the doorway for a half second before stepping into the room, like she was surveying the room to make sure it was safe before entering.
 
 -Wake up at dawn to leave house before 7am to get to school before dad wakes up (abusive dad)
 -While waiting for class at 8am, hang out with "friend" (don't really talk)
