@@ -32,7 +32,7 @@ I don't really respond, or really understand, so I keep staring at this stone. T
 
 I go back to playing my DS. I'm playing the newest (but kinda old) Pokemon game, Pokemon Ultra Moon. I've almost reached the big fight with Necrozma, and I'm trying to get there before school starts.
 
-Unfortunately, I make very little progress before the school bell rings at 7:55. I feel like I've only played for a few minutes, which I chalk up to video game immersion. Almost all at once, the rest of the class pours in. My desk is near the front, on the left side of the second out of five rows with five desks each. Schellen sits at the back, in the bottom left corner. People barely notice he's there, especially since he never talks. Even the teachers never ask him questions.
+Unfortunately, I make very little progress before the school bell rings at 7:55. I feel like I've only played for a few minutes, which I chalk up to video game immersion. Almost all at once, the rest of the class pours in. My desk is near the front, on the left side of the third out of five rows with five desks each. Schellen sits at the back, in the bottom left corner. People barely notice he's there, especially since he never talks. Even the teachers never ask him questions.
 
 Class goes by extremely slowly. I find myself resisting the urge to look at the clock, then giving up after 20 minutes, only to find out that just two minutes had passed. Somehow, I get through most of my morning classes. English, Math and Social Studies. All that's left is Art, and then I finally get my lunch break. Art is my favorite subject this year. Part of the reason is because it's right before lunch, so it ends on a nice note. Another reason is because the teacher, Mr. Garcia, is so chill. He lets us do whatever we want as long as we present our progress to the class every other week. Two people present every day, at the beginning of class, for 5 minutes each, and we get the rest of class to do whatever we want.
 
@@ -120,7 +120,23 @@ Schellen and I get up slowly. We walk through the opened gate, find our classroo
 
 Around 7:50, the other students begin to trickle into the classroom. Ms. Caldstone still isn't there. I almost feel guilty playing my DS without her lecturing me to study or read. I miss her still, vigilant presence in the room on this cloudy morning.
 
-At 8:00, right as the bell rings, the door creaks open to reveal the same lady in black. She stands in the doorway for a half second before stepping into the room, like she was surveying the room to make sure it was safe before entering.
+At 8:00, right as the bell rings, the door creaks open to reveal the same lady in black. She stands in the doorway for a half second before stepping into the room, like she was surveying the room to make sure it was safe before entering. Her gait reminds me of when I enter a room and forget why I came—caution with a bit of confusion.
+
+"Ms. Caldstone is unable to come to work today. I will be replacing her."
+
+Motivated primarily by curiosity, I raise my hand.
+
+"What is it?" she asks, her head cocking slightly to her right like a bird would. Come to think of it, she does resemble a bird in many ways. Her nose is long and pointy, eyes sharp with small pupils. Since she's wearing all black, the first image that comes to mind is that of a crow. A very peculiar, alert crow. Waiting for the right moment to pick her prey.
+
+"Is Ms. Patel gone as well? She normally opens the gates in the morning."
+
+"Yes. She is. The teachers are organizing what is called a strike."
+
+I look back towards Schellen, and whisper, "What is a strike?" in the lightest sound I could produce.
+
+"A strike is when teachers stop teaching out of their selfish desire to get more money out of the administrators. Now, no more questions. Pull out your books. We'll be free reading this whole period. Make as much progress as you can.
+
+I bend and reach into my bag to pull out my book. All the time I was wondering how the teacher managed to hear me. I wasn't very sneaky given that I had to look backwards to face Schellen, but there's no way she heard me. Sound definitely does not travel that way.
 
 -Wake up at dawn to leave house before 7am to get to school before dad wakes up (abusive dad)
 -While waiting for class at 8am, hang out with "friend" (don't really talk)
