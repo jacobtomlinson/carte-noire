@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Mar 6 | On Loneliness and Consistency: Turning Dust Into Gold
+title:      Mar 6 | Loneliness, Consistency, and Turning Dust Into Gold
 date:       2019-03-06 21:56:27
 author:     Aamir Azhar
 summary:    When I sit with myself and the world is still and I can feel my heart beating.
