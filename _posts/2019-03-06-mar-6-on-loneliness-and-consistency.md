@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Mar 6 | Loneliness, Consistency, and Turning Dust Into Gold
+title:      Mar 6 | Loneliness, Consistency, and Turning Dust into Gold
 date:       2019-03-06 21:56:27
 author:     Aamir Azhar
 summary:    When I sit with myself and the world is still and I can feel my heart beating.
@@ -62,7 +62,8 @@ For one of the first times in the past year, I begin to gaze into the void not w
 
 I'd like to close this brief and unedited blog post with a quote I came across reading the Daodejing (with commentary) recently. As I'm trying to fully embrace this Early 20s Vibe of Finding Yourself, I found it to be profound and encouraging. I'd love to explain the quote entirely in the context of Daoist philosophy, but that's out of scope of this post, and I'm getting tired :) Feel free to message me about it though!
 
->We all possess something good and noble that we don't have to seek outside ourselves, something that the glory of power or position cannot compare with. People need only start with this and cultivate this without letting up. The ancients said, ‘Two or three years of hardship, ten thousand years of bliss.’
+> We all possess something good and noble that we don't have to seek outside ourselves, something that the glory of power or position cannot compare with. People need only start with this and cultivate this without letting up. The ancients said, ‘Two or three years of hardship, ten thousand years of bliss.’
+
 #### <sup>Huang Yuan-Chi, Daodejing (Red Pine version, commentary)</sup>
 
 Two or three years of hardship, ten thousand years of bliss. I keep my shoes tied, chin up, and my eyes on the road. I cultivate a renowned faith in myself, a trust and endurance that I know will last through the worst hardships of anxiety and loneliness. And whoever's reading this, I hope you nurture that self-trust as well. Remember! Self-love is important, but self-trust.. self-trust is absolutely necessary.
