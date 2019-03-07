@@ -64,6 +64,8 @@ I'd like to close this brief and unedited blog post with a quote I came across r
 
 > We all possess something good and noble that we don't have to seek outside ourselves, something that the glory of power or position cannot compare with. People need only start with this and cultivate this without letting up. The ancients said, ‘Two or three years of hardship, ten thousand years of bliss.’
 
+<br>
 #### <sup>Huang Yuan-Chi, Daodejing (Red Pine version, commentary)</sup>
 
+<br>
 Two or three years of hardship, ten thousand years of bliss. I keep my shoes tied, chin up, and my eyes on the road. I cultivate a renowned faith in myself, a trust and endurance that I know will last through the worst hardships of anxiety and loneliness. And whoever's reading this, I hope you nurture that self-trust as well. Remember! Self-love is important, but self-trust.. self-trust is absolutely necessary.
