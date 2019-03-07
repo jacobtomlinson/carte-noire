@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      Mar 6 | On Loneliness and Consistency: Turning Dust Into Gold
+date:       2019-03-06 21:56:27
+author:     Aamir Azhar
+summary:    When I sit with myself and the world is still and I can feel my heart beating.
+categories: life
+thumbnail:  pencil-square-o
+tags:
+  - adulthood
+  - anxiety
+  - consistency
+  - loneliness
+---
 As you probably know if you actually read my blog, I was in Durham for an oral surgery up until a couple weeks ago. Not gonna lie, it was a nice excuse to be at home with my family (as opposed to being alone in NYC). Home is nice precisely because of its familiarity. You always know, at the end of the day, that your parents will be sitting on the couch with the cat (your dad checking emails on his laptop), your youngest brother will be playing DS in His Spot, your cousin will be studying in the formal dining room, and your middle brother will be playing video games upstairs.
 
 It's like clockwork. And I like clocks. You always know what will happen when. In a half hour, the minute hand will do half a rotation around the clock face. A clock will never sneak up on you after half an hour and send you a long message about what's wrong with your politics. It'll never decide, at 8pm on a weeknight, that it doesn't really want to talk to you and it has its own things going on. It won't seenzone your messages or ask your friends if they think you're a little weird, no? Nope, a clock has one job. It moves its hands the same amount every second, every minute, every day. It neither exceeds nor falls short of your expectations. Isn't it nice?
