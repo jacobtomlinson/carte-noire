@@ -12,11 +12,11 @@ tags:
   - life
   - mortality
 ---
-Death and mortality has been on my mind lately.
+Death and mortality have been on my mind lately.
 
 I recently talked to my grandmother who I visited this New Years (in California). She mentioned that she was happy I came back in January, because if she dies soon, she'd have been able to see me one last time before then. My grandmother is a few weeks from 89 and her health has been declining lately. She helped raise me and I love her a lot, though I admit shamefully I don't talk to her much. What makes things scarier is that I've never experienced the death of anyone close to me, ever. In 22 years, not an uncle, aunt, cousin, grandparent, friend, sibling, or parent. I've been to funerals of extended family, or family friends, people I've met maybe once or twice in my life, but that's it. I don't know how it feels. What is death like?
 
-You know, I've noticed suicide has become more talked about the last few years than it ever was. Famous celebrities and artists lost themselves to suicide and drug abuse, which sent ripples across the world and sparking conversations about mental health (conversations non-celebrities have been trying to have for years). I myself have had an extremely difficult year, and though I've gotten better at dealing with turmoil, I still think about death constantly when life is overwhelming. My mental health is precarious at best.
+I've also noticed recently that suicide has become more talked about the last few years than it ever was. Famous celebrities and artists lost themselves to suicide and drug abuse, which sent ripples across the world and sparking conversations about mental health (conversations non-celebrities have been trying to have for years). I myself have had an extremely difficult year, and though I've gotten better at dealing with turmoil, I still think about death constantly when life is overwhelming. My mental health is precarious at best.
 
 But what does it mean to think about killing yourself in a time where people are mass slaughtered in their schools and places of worship? What does it mean to grieve for lives lost when we are doing so little to fix the causes of these tragedies? What does it mean to be scared of dying when we aren't even leading lives we value in the first place?
 
@@ -39,7 +39,7 @@ But we try. I mean, we try very hard. Humans mourn. We continue to love deeply d
 
 ![My-Plant](/resources/images/03-15-2019/my_plant.jpg)
 
-#### <sup>A smol houseplant I got from Muji recently. Looking at this plant as I write this reflection on death.</sup>
+#### <sup>A smol houseplant I got from Muji recently. Looking at this plant as I write this reflection on death. (again, sorry, my blog has a glitch where portrait photos don't display properly lol)</sup>
 
 <br>
 And the hardest thing to do in the face of death is to accept it. Especially when they happen due to the most unjust of circumstances, due to terrorism, abuse, physical and financial inequity. But to accept death is not to resign ourselves to it. Accepting death does not mean devaluing life.
@@ -50,7 +50,7 @@ And not just our individual lives. We should aim to give everyone the life, as w
 
 No one deserves to die in their homes and safe spaces, be it where they live, their school, their place of worship, or their community center. Consequently, no one deserves to live in fear of these places being unsafe.
 
-No one deserves to die in self-pity, loneliness, and depression. Consequently, no one deserves to live completely alone, with no one to understand them or give them a helping hand. No one deserves to deal with their hardships alone, to go through trauma and abuse with no one to help them process it.
+No one deserves to die in self-pity, loneliness, and depression. Consequently, no one deserves face life completely alone, with no loved ones to understand them or give them a helping hand. No one deserves to have to deal with their hardships by themselves, to go through trauma, bullying, and abuse without knowing how to process it in a healthy way.
 
 ![Chirstchurch-Shooting](/resources/images/03-15-2019/christchurch_shooting.jpg)
 
@@ -61,11 +61,11 @@ We should be just as outraged about unjust living conditions as we are unjust dy
 
 I'm saying: **Let's not just mourn people's deaths, let's give them dignified and fulfilling lives to live.**
 
-We can all do better. We can work towards a world where people have lives worth living, lives worth dying for, deaths worth living for. This manifests in the small things, like supporting your loved ones, checking in with people you haven't seen in a while, giving strangers a smile and a word of support, even in passing. It also manifests in the larger, structural things, in working towards a truly livable future. Giving people consistent health care and sustenance so they don't have to worry about being one accident away from poverty. Supporting policies that protect families and communities together without causing animosity in difference. Resisting hate, oppression, and xenophobia worldwide and fighting institutions and administrations which perpetuate them.
+We can all do better. We can work towards a world where people have lives worth living, lives worth dying for, deaths worth living for. This manifests in the small things, like supporting your loved ones, checking in with people you haven't seen in a while, giving strangers a smile and a word of support, even in passing. It also manifests in the larger, structural things, in working towards a truly livable future. This means giving people consistent health care and sustenance so they don't have to worry about being one accident away from poverty. It means supporting policies that protect families and communities together without causing animosity in difference. And most importantly, it means resisting hate, oppression, and xenophobia worldwide and fighting institutions and administrations which perpetuate them.
 
 In this day and age, death is tragic. It is uncertain, lonely, and unjust. Because of this, life is tragic as well. We deserve better. All of us do.
 
-Death will visit all of us in time. Let's cultivate meaningful and fulfilling lives, illuminating our worlds as well as others'. Let's leave behind legacies that we, and everyone else, can look back on with contentment. Let us all live, love, heal, and die. And let us be proactive, not reactive in doing so.
+Death will visit all of us in time. Let's cultivate meaningful and fulfilling lives, illuminating our worlds as well as others'. Let's leave behind legacies that we, and everyone else, can look back on with gratification. Let us all live, love, heal, and die. And let us be proactive, not reactive in doing so.
 
 With love,
 
