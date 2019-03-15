@@ -70,3 +70,6 @@ Death will visit all of us in time. Let's cultivate meaningful and fulfilling li
 With love,
 
 Aamir
+
+إِنَّا لِلّهِ وَإِنَّـا إِلَيْهِ رَاجِعُونَ
+We belong to God and to Him we shall return.
