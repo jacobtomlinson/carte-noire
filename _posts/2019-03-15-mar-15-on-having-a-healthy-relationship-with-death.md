@@ -31,7 +31,7 @@ It seems to me that people are either entirely afraid of death or they find them
 
 I mean, advances in medicine, technology, and aid increase our life expectancy each year. Bill Gates himself uses decreasing infant mortality rates and increasing life expectancy as arguments for the world getting better. Yet what does this mean if our daily lives don't change? If we are less happy, more insecure, just as depressed? If millions of us are living paycheck to paycheck, struggling every day just to survive? If we have to deal with microaggressions, trauma, and health complications every single day?
 
-I mean, humans have been trying to understand life and death for thousands of years. As someone who loves philosophy, I'll spare you the details. But it seems we still don't have it figured out. Or rather, maybe life and death is not something to be "figured out" in the first place.
+Humans have been trying to understand life and death for thousands of years. As someone who loves philosophy, I'll spare you the details. But it seems we still don't have it figured out. Or rather, maybe life and death is not something to be "figured out" in the first place.
 
 The truth of the matter is that where we come from and where we go is something we'll never completely understand. Yet regardless, it is something we must confront. That's where the confusion comes from. We don't know how to react to death.
 
