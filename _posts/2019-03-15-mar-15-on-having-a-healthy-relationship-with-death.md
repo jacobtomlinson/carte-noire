@@ -3,7 +3,7 @@ layout:     post
 title:      Mar 15 | On Having a Healthy Relationship with Death
 date:       2019-03-15 19:17:17
 author:     Aamir Azhar
-summary:    We must strive to lead a life, and a death, of dignity.
+summary:    We must strive for everyone to have a life, and a death, of dignity.
 categories: life
 thumbnail:  pencil-square-o
 tags:
