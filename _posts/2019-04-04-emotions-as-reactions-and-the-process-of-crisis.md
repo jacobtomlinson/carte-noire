@@ -75,16 +75,3 @@ But again, if we laser focus too much on the big things, it can become very easy
 Through all this, I found one piece of advice especially useful: **You are what you do, not how you feel.** It really is how we respond to our emotions that defines us, not the emotions we get. Because at the end of the day, we can't really control our emotions. They are reactions provided to us from our subconscious, little warning lights like the ones you have in your car's dashboard. It's futile for us to resist the very act of feeling; we should work on how we respond to these warning lights rather than focusing on the lights themselves.
 
 Sometimes the warning light can be ignored, sometimes we just need a quick checkup, other times we may need an oil change. But regardless, it's just a warning light. The car is still running (presumably). And through it all, it will continue to run. So let's keep on keeping on!
-
-{::comment}
-emotions are reactions to things, they don't have value in and of themselves
-emotions aren't there to be reacted to, they're there to spark a response. they're stimuli so your body can tell you something is wrong
-when we feel emotions, we often default to crisis, thinking about our life situation, etc - in reality they're more caused by smaller stimuli (stress at work, tiredness, exhaustion)
--we do this with people too. small things that annoy us, discrepancies in our day can end up making us wholly dissatisfied with someone (we project our stresses onto others sometimes)
-
-the solution is to focus on those small things first, notice your triggers - what are your emotions telling you? why did they come about? contrary to popular belief, it's the small things, not the big things, that trigger our emotions. the big things are "logical" and logistical - an unsure future, career prospects, where to move, etc. they're not emotional
-that doesn't mean ignore the bigger things in your life - in fact, what happens when we do is that our emotional triggers end up causing crises about the bigger things. but that happens only when we ignore the bigger things on a day to day level. so focus on the logical, bigger things when ur not emotional, because they're logical. and that way, when you do get emotional, when things trigger you, you don't get into panic mode and start solving all your problems at once - you can focus on the small things on an ad hoc basis instead of relying on manic episodes to push you into proactivity
-
--you are what you do, not how you feel - it's how you respond to your emotions, not how you react in the first place
--could also be that the crises are nonissues and they're just insecurities you default to when you're unsatisfied
-{:/comment}
