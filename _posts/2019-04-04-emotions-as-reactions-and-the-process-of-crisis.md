@@ -67,7 +67,7 @@ Now, this doesn't mean to avoid the "big" things in life. In fact, what happens 
 
 But again, if we laser focus too much on the big things, it can become very easy to exaggerate them. Some of our crises could be nonissues entirely, instead representing insecurities we default to when we feel anxious or off center on a given day. Only once we find consistency in ourselves, and are able to check in with ourselves on a regular basis, will we able to process things in a healthy manner. This means addressing the big themes in our life, but still remaining mindful and present on a day to day basis as well.
 
-![Chicken-Karahi](/resources/images/04-04-2019/chicken-karahi.jpg)
+![Chicken-Karahi](/resources/images/04-04-2019/chicken_karahi.jpg)
 
 #### <sup>Some amazing Chicken Karahi I had at this classic Pakistani restaurant in DC. It's called Ravi Kabob. Highly recommend.</sup>
 
