@@ -1,0 +1,85 @@
+---
+layout:     post
+title:      Apr 4 | Emotions as Reactions and the Process of Crisis
+date:       2019-04-04 19:17:17
+author:     Aamir Azhar
+summary:    We are what we do, now how we feel.
+categories: life
+thumbnail:  pencil-square-o
+tags:
+  - crisis
+  - emotions
+  - reactions
+  - reflection
+---
+In my early 20s, a new crisis (or two, or three) seems to come by with every new moon. They are so abundant that I've almost resigned myself to them.
+
+"Here comes another episode where I question the validity of my dreams and doubt my capability to fulfill them."
+
+"What's on the menu today? Ah yes, a breakdown about loneliness and the fear that I will never be loved."
+
+"I haven't thought about how I look recently. Why not wish I talked / looked / acted differently and hate myself for a bit?"
+
+I've found, experiencing these Common Crises (CC<sup>2</sup>), it is very easy to approach these crisis questions in a backwards, reactive way. To start with, I'd avoid thinking about them as much as possible, while also letting the insecurities influence every minute decision or experience I have. Then, on occasion, I'm reminded of one of them offhandedly, and the subsequent emotions would trigger a reactionary manic episode where I over-plan (or just fantasize, or melt in despair) until it's over. Then, I'd avoid it again until the next crisis. Rinse and repeat. Great!
+
+![Deathconsciousness-Vinyl](/resources/images/04-04-2019/deathconsciousness.jpg)
+
+#### <sup>A vinyl record of one of my favorite albums I snagged at a concert a few weeks ago.</sup>
+
+<br>
+A couple weeks ago, I had a social crisis. It happened around the time when multiple friends of mine happened to flake on plans in one week. I was generally frustrated because many people I met would want to hang out, but they would also assume I'd take responsibility to plan and reach out (even after flaking), making me feel taken for granted. I felt fairly lonely, and had a couple of bad days. And one day, I crashed. I was tired and exhausted and thoughts were swirling around my head one day after work.
+
+This anxiety led to heavy reflection on the State of my Social Life. Like I always do when I feel manic, I overreacted and thought endlessly about what I was doing wrong, how I could fix everything. Was it that I didn't have enough friends, and needed to go to more random events? Maybe I was investing in the wrong people? I mean, maybe I'm just bad at socializing and don't know how to connect to people. It could be my circumstances too, living in New York mostly alone, far from most of my friends, even those in NYC. Maybe I should just live somewhere else. I'm sure my job is related too, since I don't talk to people in the office very often. So should I find a different job too?
+
+I managed to turn one bad day (or maybe two, or three) into a whole crisis on how I approach my social life, where I'm living, my job, even my personality. Those are big questions. Like questions you don't solve in a night, let alone a month, even a year. So what was I to do? This overwhelmed me even further. If I can't fix my life now, am I just doomed to suffer until something big changes?
+
+It's easy for this kind of thing to happen, especially when you feel a lack of direction in your life. After all, how are you supposed to answer these big questions when you have no idea where your life is going? Like I can't even decide what outfit to wear on a given day. How am I supposed to work through my deep-set anxieties and paralysis about my career? But let's take a step back. Where do these crisis episodes come from? More specifically, **where do the emotions that trigger them originate?**
+
+When I think back to that day, obviously it wasn't like someone came up to me and told me my social life, career, and personality were a mess. Contrary to what movies tell us, the days we have crises tend to be fairly normal. Nothing extraordinary really happened that day. I mean, I slept a bit late, and skipped breakfast. I was kind of tired and irritable throughout the day, and my assignment at work didn't working the way it was supposed to. I had a bit of an awkward text conversation with a friend, but none of that was a big deal. I didn't particularly care about these things (breakfast, the exact timeline of my project, some random social interaction), so I ignored them. But in the evening, before dinner, it all piled up on me.
+
+And once I started thinking about all the ways in which my life was going wrong, asking all the big questions, I was a goner. Is there a better way of doing this?
+
+![Momo-Soup](/resources/images/04-04-2019/momo.jpg)
+
+#### <sup>Momo soup I had at a famous Tibetan place in Jackson Heights.</sup>
+
+<br>
+When we have a bad day, we often default to the big questions as our primary problem-solving outlet. It took me a long time to learn that these emotions and crises aren't actually triggered by them directly. They can be related, sure (I'll expound on this later), but our big questions tend to be logical, or logistical problems. Our emotions don't serve to remind us of these big questions. They're a lot simpler than that.
+
+**In fact, emotions aren't there to be reacted to at all; emotions are the reactions themselves.** Emotions are your body reacting to stimuli, nothing more. They don't have meaning in and of themselves. They're just a way for your body to tell you something is wrong.
+
+When we feel emotions, we often default to crisis, meticulously unpacking our life situation. But in reality, our moods tend to be impacted by smaller stimuli, stimuli that, when overlooked, may lead to us projecting onto these bigger questions without addressing the original situations that caused these crises in the first place.
+
+Small things that set me off—an offhanded comment someone makes, unintentionally skipping a meal or two, a tiring work call after lunch—I don't often give these things much thought (after all, they're menial, even trivial). But it takes one small thing to set us on a direct course to emotional disaster. This applies to how we react to situations as well as how we react to people — small discrepancies in our day to day can end up making us wholly dissatisfied with a situation or relationship at large. We even project stresses from one part of our life (let's say, work or school) onto others (let's say, our insecurities or frustrations in our relationships).
+
+I'm sure, by now, you're saying, "But Aamir, aren't those smaller things caused by the bigger things? Isn't focusing on the small things futile if we ignore their origins?" Or you're not. I can't read your mind. While I agree with you, let's hold on a bit. I'll get to that later.
+
+First and foremost, before we get to the deeper things, we can't do anything until we actually identify our triggers. This requires being mindful and self-aware (which honestly is a lot to ask for already). So what are your triggers? What are your emotions telling you, and why do they come about? Again, the big things (an unsure future, career prospects, where to move) are "logical" and logistical — your emotions aren't necessarily dealing with such complicated matters.
+
+Maybe you feel sad or insecure because someone you trust said something negative about you and it subtly shook your understanding of yourself. Maybe you feel frustrated after dinner because you set a subconscious goal to get your assignment done by the end of the day and it's still not working. Maybe you feel overwhelmed because you didn't eat a good lunch, and your body is in stress mode. We need to stop dramatizing things, stop acting like we're "bigger" than the small things. The small things are real, and they impact us, and they also trigger these larger insecurities about our identity. Let's stop ignoring them.
+
+![Cat-Shop](/resources/images/04-04-2019/cat.jpg)
+
+#### <sup>A cat that lives in the Halal store I go to. Sorry again for the picture orientation, my website has a problem displaying vertical images :x</sup>
+
+<br>
+Now, this doesn't mean to ignore the bigger things in life. In fact, what happens when we do is we only end up confronting them when we are emotionally compromised. Many of these questions are larger logical or logistical questions, so it's better to unpack them over time in the right state of mind. Not to mention, they take a long time to unpack, so it's fairly ill informed to try and sift through it all in the span one emotional breakdown. And that way, when we do get emotional, or have a bad day, it doesn't push us into panic mode, trying to solve all your problems at once — We can focus on the small things on an ad hoc basis instead of relying on manic episodes to push us out of complacency into productivity.
+
+At the same time, if we laser focus on the big things, it's very easy to exaggerate them. In fact, some of our crises can be nonissues entirely, and are instead just insecurities we default to when we feel anxious or off center on a given day. Only once we find consistency in life, and we are able to check in with ourselves on a regular basis, are we able to process things in a healthy manner. This means address the big themes in our life, but remaining mindful and present on a day to day basis as well.
+
+Through all this, I found one piece of advice especially useful: **You are what you do, not how you feel.** It really is how we respond to our emotions that defines us, not the emotions we get. Because at the end of the day, we can't really control our emotions. They are reactions provided to us from our subconscious, little warning lights like the ones you have in your car's dashboard. It's futile for us to resist the very act of feeling; we should work on how we respond to these warning lights rather than the lights themselves.
+
+Sometimes the warning light can be ignored, sometimes we just need a quick checkup, other times we may need an oil change. But regardless, it's just a warning light. The car is still running (presumably). It will continue to run. So let's not worry too much :]
+
+{::comment}
+emotions are reactions to things, they don't have value in and of themselves
+emotions aren't there to be reacted to, they're there to spark a response. they're stimuli so your body can tell you something is wrong
+when we feel emotions, we often default to crisis, thinking about our life situation, etc - in reality they're more caused by smaller stimuli (stress at work, tiredness, exhaustion)
+-we do this with people too. small things that annoy us, discrepancies in our day can end up making us wholly dissatisfied with someone (we project our stresses onto others sometimes)
+
+the solution is to focus on those small things first, notice your triggers - what are your emotions telling you? why did they come about? contrary to popular belief, it's the small things, not the big things, that trigger our emotions. the big things are "logical" and logistical - an unsure future, career prospects, where to move, etc. they're not emotional
+that doesn't mean ignore the bigger things in your life - in fact, what happens when we do is that our emotional triggers end up causing crises about the bigger things. but that happens only when we ignore the bigger things on a day to day level. so focus on the logical, bigger things when ur not emotional, because they're logical. and that way, when you do get emotional, when things trigger you, you don't get into panic mode and start solving all your problems at once - you can focus on the small things on an ad hoc basis instead of relying on manic episodes to push you into proactivity
+
+-you are what you do, not how you feel - it's how you respond to your emotions, not how you react in the first place
+-could also be that the crises are nonissues and they're just insecurities you default to when you're unsatisfied
+{:/comment}
