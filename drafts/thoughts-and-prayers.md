@@ -9,3 +9,5 @@ But this doesn't mean to stay away from direct support entirely. In fact, what m
 
 Direct support: Reactionary, more fulfilling, interpersonal, potentially large change on a smaller scale
 Indirect support: Proactive, more tedious, institutional, small change on a larger scale
+
+Around the time of the Christchurch shooting, I saw a lot of posts from non-Muslim friends and public figures.
