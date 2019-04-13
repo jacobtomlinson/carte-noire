@@ -30,7 +30,7 @@ out was calm green and warm sun
 but i cared none to try
 
 <br>
-now life is loud, and filled with chaos
+now life is loud, filled with chaos
 
 but i look out, i look around
 
@@ -63,7 +63,7 @@ peace is gone from my life
 
 i look out, and i see madness
 
-i look in, i see sorrow and strife
+i look in, see sorrow and strife
 
 <br>
 where is love? where is laughter?
@@ -75,7 +75,7 @@ i long for things i've never had
 i wish for things i cannot choose
 
 <br>
-freedom, security, mirages from afar
+dreams of freedom and security
 
 i yearned for what wasn't enough
 
@@ -90,7 +90,7 @@ or fully out of work
 
 alive with no meaning
 
-awake but inert
+awake but still inert
 
 <br>
 we struggle through this life,
@@ -99,7 +99,7 @@ blind, scarce hope at our chest
 
 but it's a dreary routine
 
-one settled only with death
+settled only with death
 
 <br>
 what's a life we can't cherish?
@@ -108,13 +108,13 @@ one toilsome but compact
 
 life starves us of love and affection
 
-then leaves us to pass
+then leaves us once to pass
 
 <br>
 the sun can't reach my windows
 
-it's dark out and in
+it's dark outside and in
 
-my world is extinguished
+my world is all extinguished
 
-my patience runs thin
+my patience, it runs thin
