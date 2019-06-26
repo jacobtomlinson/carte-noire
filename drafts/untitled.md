@@ -134,9 +134,9 @@ Motivated primarily by curiosity, I raise my hand.
 
 I look back towards Schellen, and whisper, "What is a strike?" in the lightest sound I could produce.
 
-"A strike is when teachers stop teaching out of their selfish desire to get more money out of the administrators. Now, no more questions. Pull out your books. We'll be free reading this whole period. Make as much progress as you can.
+"A strike is when teachers stop teaching out of their selfish desire to get more money out of the administrators. Now, no more questions. Pull out your books. We'll be free reading this whole period. Make as much progress as you can."
 
-I bend and reach into my bag to pull out my book. All the time I was wondering how the teacher managed to hear me. I wasn't very sneaky given that I had to look backwards to face Schellen, but there's no way she heard me. Sound definitely does not travel that way.
+I bend and reach into my bag to pull out my book. How'd she hear me? Sound definitely does not travel that way.
 
 -Wake up at dawn to leave house before 7am to get to school before dad wakes up (abusive dad)
 -While waiting for class at 8am, hang out with "friend" (don't really talk)
