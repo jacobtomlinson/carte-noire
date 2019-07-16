@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Extracting Reports from a Legacy EMR
+title:      Mixing Cucumber and TestCafe
 date:       2019-07-15 16:30:00
 author:     Jon Winsley
-summary:    Mixing Cucumber and TestCafe
+summary:    Exploring the code needed to bind Cucumber and TestCafe into a cohesive unit
 categories: testing
 tags:
  - automation
