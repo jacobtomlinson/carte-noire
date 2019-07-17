@@ -33,28 +33,28 @@ repeatable test script that can be integrated with our build process.
 
 Cucumber scripts can be written with a handful of different languages, including Node.js.
 
- ## TestCafe
+## TestCafe
  
- [TestCafe](https://github.com/DevExpress/testcafe) is an end-to-end web testing tool 
- that runs on Node.js. It provides a non-WebDriver-dependent solution for automating web
- applications and making assertions about application state. The syntax is very slick and
- easy to dive right into (again, borrowing from [the official readme](https://github.com/DevExpress/testcafe#getting-started)):
+[TestCafe](https://github.com/DevExpress/testcafe) is an end-to-end web testing tool 
+that runs on Node.js. It provides a non-WebDriver-dependent solution for automating web
+applications and making assertions about application state. The syntax is very slick and
+easy to dive right into (again, borrowing from [the official readme](https://github.com/DevExpress/testcafe#getting-started)):
  
-     import { Selector } from 'testcafe'; // first import testcafe selectors
+    import { Selector } from 'testcafe'; // first import testcafe selectors
+    
+    fixture `Getting Started`// declare the fixture
+        .page `https://devexpress.github.io/testcafe/example`;  // specify the start page
      
-     fixture `Getting Started`// declare the fixture
-         .page `https://devexpress.github.io/testcafe/example`;  // specify the start page
      
-     
-     //then create a test and place your code there
-     test('My first test', async t => {
-         await t
-             .typeText('#developer-name', 'John Smith')
-             .click('#submit-button')
-     
-             // Use the assertion to check if the actual header text is equal to the expected one
-             .expect(Selector('#article-header').innerText).eql('Thank you, John Smith!');
-     });
+    //then create a test and place your code there
+    test('My first test', async t => {
+        await t
+            .typeText('#developer-name', 'John Smith')
+            .click('#submit-button')
+    
+            // Use the assertion to check if the actual header text is equal to the expected one
+            .expect(Selector('#article-header').innerText).eql('Thank you, John Smith!');
+    });
  
 The power of TestCafe and the readability of Cucumber's Gherkin syntax make these two
 packages a natural match. How difficult is it to combine the two? Not very, as it turns
