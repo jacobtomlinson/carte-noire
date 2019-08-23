@@ -4,10 +4,10 @@ email: jon.winsley@gmail.com
 description: "Technical writeups on development and information security."
 baseurl: ""
 url: "http://jonwinsley.com/"
-title_description: "Hi, I'm Jon. I'm a developer and security enthusiast by skillset, in healthcare IT by trade."
+title_description: "Hi, I'm Jon. I'm a developer and security enthusiast by trade."
 title_image: "/assets/profile_300.jpeg"
 google_analytics: 
-disqus_account: 
+disqus_account: jonwinsley
 github_repository: https://github.com/glitchassassin/jonwinsley.com
 addthis_id: 
 post_limit: 5

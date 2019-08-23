@@ -3,6 +3,7 @@ layout:     post
 title:      Mixing Cucumber and TestCafe
 date:       2019-07-15 16:30:00
 author:     Jon Winsley
+comments:   true
 summary:    Exploring the code needed to bind Cucumber and TestCafe into a cohesive unit
 categories: testing
 tags:

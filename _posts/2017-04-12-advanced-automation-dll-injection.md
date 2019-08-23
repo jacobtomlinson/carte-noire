@@ -3,6 +3,7 @@ layout:     post
 title:      Advanced Automation with DLL Injection
 date:       2017-04-12 15:19:00
 author:     Jon Winsley
+comments:   true
 summary:    Advanced Automation with DLL Injection
 categories: automation
 tags:

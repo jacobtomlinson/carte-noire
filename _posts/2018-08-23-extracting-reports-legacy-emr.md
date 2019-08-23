@@ -3,6 +3,7 @@ layout:     post
 title:      Extracting Reports from a Legacy EMR
 date:       2018-08-23 15:07:00
 author:     Jon Winsley
+comments:   true
 summary:    Extracting Reports from a Legacy EMR
 categories: automation
 tags:

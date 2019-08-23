@@ -3,6 +3,7 @@ layout:     post
 title:      Syncing Pythonista with Dropbox
 date:       2016-09-19 16:22:00
 author:     Jon Winsley
+comments:   true
 summary:    Syncing Pythonista with Dropbox
 categories: python
 tags:

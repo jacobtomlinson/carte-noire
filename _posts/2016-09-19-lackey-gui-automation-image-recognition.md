@@ -3,6 +3,7 @@ layout:     post
 title:      Lackey - GUI Automation with Image Recognition
 date:       2016-09-19 15:42:00
 author:     Jon Winsley
+comments:   true
 summary:    I built a Python library for desktop automation with fuzzy image matching.
 categories: automation python
 tags:

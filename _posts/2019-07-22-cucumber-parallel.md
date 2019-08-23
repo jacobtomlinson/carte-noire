@@ -3,6 +3,7 @@ layout:     post
 title:      Cucumber and TestCafe in Parallel
 date:       2019-07-22 16:00:00
 author:     Jon Winsley
+comments:   true
 summary:    More adventures coercing Cucumber and TestCafe into playing nicely - in parallel this time!
 categories: testing
 tags:
