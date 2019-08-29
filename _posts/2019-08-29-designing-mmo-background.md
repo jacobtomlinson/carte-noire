@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Designing an MMO - Background
-date:       2019-08-29 16:00:00
+date:       2019-08-29 12:15:00
 author:     Jon Winsley
 comments:   true
 summary:    In which we dive into the maddeningly complex endeavor of building an MMO from scratch (kinda).
