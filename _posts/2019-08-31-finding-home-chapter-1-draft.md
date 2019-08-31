@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Finding Home: Chapter 1 [DRAFT]
+title:      Finding Home: Chapter 1 (DRAFT)
 date:       2019-08-31 10:51:40
 author:     Aamir Azhar
 summary:    Chapter 1 of my novel, Finding Home.
