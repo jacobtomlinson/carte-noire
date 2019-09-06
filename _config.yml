@@ -1,11 +1,11 @@
 # Site settings
-title: "Aamir Azhar"
+title: "Aamir's Writing"
 email: aamirazhar@gmail.com
 description: "Just a kid trying to make sense of the world around him."
 baseurl: ""
 url: "https://aamirazhar.me/"
-title_description: "My name is Aamir Azhar. I'm a 22 year old aspiring writer who is currently.. a data engineer. This blog is mostly going to be my hub for writing practice, which includes creative writing, poetry, and social/political commentary (feel free to sort my posts by category under the 'All Posts' tab). Hope you enjoy, and please feel free to leave a comment or message me with thoughts -- I'd love to talk.  Maybe one day my writing career will take off! :)"
-title_image: "https://i.imgur.com/jsKk9b4.jpg"
+title_description: "My name is Aamir. I'm a programmer and an aspiring writer. This blog is mostly going to be my hub for writing practice, which includes creative writing, poetry, and social/political commentary (feel free to sort my posts by category under the 'All Posts' tab). Hope you enjoy, and please feel free to leave a comment or message me with thoughts -- I'd love to talk.  Maybe one day my writing career will take off! :)"
+title_image: "https://i.imgur.com/yMFl8M8.jpg"
 google_analytics: "UA-79202944-1"
 disqus_account: aamirazhar
 github_repository: https://github.com/kupoko/aamirazhar.me
@@ -13,13 +13,13 @@ addthis_id: ra-575cb03f29af3a6d
 post_limit: 5
 
 # Social usernames/URLs
-twitter_username: aamir_ali_azhar
-facebook_username: aamirazhar
-tumblr_username: kupoko
-github_username:  kupoko
-instagram_username: aamir.azhar
-linkedin_username: aamirazhar
-google_plus_userame: AamirAzhar11
+twitter_username:
+facebook_username:
+tumblr_username:
+github_username:
+instagram_username:
+linkedin_username:
+google_plus_userame:
 reddit_username:
 stackoverflow_link:
 xing_link:
