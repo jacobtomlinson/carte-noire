@@ -1,0 +1,34 @@
+I"�<p><img src="/img/prototypes/logo.jpg" alt="" /></p>
+
+<h1 id="description">Description</h1>
+
+<p>This game will comprise of several modes such as free roam or building. Tons
+of features will be added with time such as AIs, Vehicles (car, plane),
+tons of physics effects (explosions), etc… Customization and fancy menus
+will be a big focus for this game too.</p>
+
+<p>Meanwhile, anyone can test existing features in the open beta state the game
+is in. For now, only a character is present and the player can test controls
+in the first/third person modes. Look out for weird bugs, improvements or what
+doesn’t seem to be smooth enough.</p>
+
+<h1 id="changelog">Changelog</h1>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  [Build 1]
+
+  * Addition of First/Third Person cameras
+  * Presence of Animations (idle, walk, run, jump)
+  * Addition of Touch Controls
+  * Addition of Testing Platforms for jumping
+</code></pre></div></div>
+
+<h3 id="technical-information--download">Technical Information / Download</h3>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html">Version Name: 0.1b
+Version Code: 1</code></pre></figure>
+
+<p><a href="https://github.com/KinesisGames/Builds/raw/master/builds/prototypes/base.apk">Download Now!</a></p>
+
+<p>Send us any <a href="mailto:feedback@kinesisgames.net">feedback</a> you have!</p>
+
+<p><img src="/img/prototypes/default-screenshot.jpg" alt="" /></p>
+:ET

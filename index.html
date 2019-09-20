@@ -9,9 +9,9 @@ make-smaller-titles: true
 
         <div class="col-md-12 main content-panel">
 
-            <div class="gravatar">
+            <!--div class="gravatar">
                 <img src="{{ site.title_image }}" class="img-circle about-image" height="150" width="150" alt="{{ site.title }}" />
-            </div>
+            </div-->
 
             <h1 class="header author-header" itemprop="headline">{{ site.title }}</h1>
 
@@ -19,13 +19,13 @@ make-smaller-titles: true
                 {{ site.title_description }}
             </div>
 
-            {% include social_links.html %}
+            <!-- {% include social_links.html %} -->
           </div>
           <div class="col-md-12 main content-panel">
 
             <div class="articles">
 
-              <h2>Latest Articles</h2>
+              <h2>Games and Apps</h2>
 
               <ul>
                   {% for post in site.posts limit: site.post_limit %}
@@ -36,9 +36,9 @@ make-smaller-titles: true
                       </li>
 
                   {% endfor %}
-                  <li>
+                  <!--li>
                       <small><i><a href="{{ site.baseurl }}/posts/">more...</a></i></small>
-                  </li>
+                  </li-->
               </ul>
 
             </div>

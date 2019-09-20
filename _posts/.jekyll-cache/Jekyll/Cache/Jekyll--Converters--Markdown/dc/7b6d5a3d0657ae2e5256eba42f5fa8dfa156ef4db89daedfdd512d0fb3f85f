@@ -1,0 +1,89 @@
+I"�<p><strong>Note</strong> - This article is a derivative of <a href="http://pixyll.com/jekyll/pixyll/2014/06/10/see-pixyll-in-action/">“See pixyll in action”</a>, taken from the lovely jekyll theme <a href="http://pixyll.com/">pixyll</a>.</p>
+
+<p>All links are easy to <a href="#">locate and discern</a>, yet don’t detract from the harmony
+of a paragraph. The <em>same</em> goes for italics and <strong>bold</strong> elements. Even the the strikeout
+works if <del>for some reason you need to update your post</del>. For consistency’s sake,
+<ins>The same goes for insertions</ins>, of course.</p>
+
+<h3 id="code-with-syntax-highlighting">Code, with syntax highlighting</h3>
+
+<p>Code blocks use the <a href="https://noahfrederick.com/log/lion-terminal-theme-peppermint/">peppermint</a> theme.</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">class</span> <span class="nc">Awesome</span> <span class="o">&lt;</span> <span class="no">ActiveRecord</span><span class="o">::</span><span class="no">Base</span>
+  <span class="kp">include</span> <span class="no">EvenMoreAwesome</span>
+
+  <span class="n">validates_presence_of</span> <span class="ss">:something</span>
+  <span class="n">validates</span> <span class="ss">:email</span><span class="p">,</span> <span class="ss">email_format: </span><span class="kp">true</span>
+
+  <span class="k">def</span> <span class="nf">initialize</span><span class="p">(</span><span class="n">email</span><span class="p">,</span> <span class="nb">name</span> <span class="o">=</span> <span class="kp">nil</span><span class="p">)</span>
+    <span class="nb">self</span><span class="p">.</span><span class="nf">email</span> <span class="o">=</span> <span class="n">email</span>
+    <span class="nb">self</span><span class="p">.</span><span class="nf">name</span> <span class="o">=</span> <span class="nb">name</span>
+  <span class="k">end</span>
+<span class="k">end</span></code></pre></figure>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;!DOCTYPE html&gt;</span>
+<span class="nt">&lt;title&gt;</span>Title<span class="nt">&lt;/title&gt;</span>
+
+<span class="nt">&lt;style&gt;body</span> <span class="p">{</span><span class="nl">width</span><span class="p">:</span> <span class="m">500px</span><span class="p">;}</span><span class="nt">&lt;/style&gt;</span>
+
+<span class="nt">&lt;script </span><span class="na">type=</span><span class="s">"application/javascript"</span><span class="nt">&gt;</span>
+  <span class="kd">function</span> <span class="nx">$init</span><span class="p">()</span> <span class="p">{</span><span class="k">return</span> <span class="kc">true</span><span class="p">;}</span>
+<span class="nt">&lt;/script&gt;</span>
+
+<span class="nt">&lt;body&gt;</span>
+  <span class="nt">&lt;p</span> <span class="na">checked</span> <span class="na">class=</span><span class="s">"title"</span> <span class="na">id=</span><span class="s">'title'</span><span class="nt">&gt;</span>Title<span class="nt">&lt;/p&gt;</span>
+  <span class="c">&lt;!-- here goes the rest of the page --&gt;</span>
+<span class="nt">&lt;/body&gt;</span>
+</code></pre></div></div>
+
+<h1 id="headings">Headings!</h1>
+
+<p>They’re responsive, and well-proportioned (in <code class="highlighter-rouge">padding</code>, <code class="highlighter-rouge">line-height</code>, <code class="highlighter-rouge">margin</code>, and <code class="highlighter-rouge">font-size</code>).</p>
+
+<h5 id="they-draw-the-perfect-amount-of-attention">They draw the perfect amount of attention</h5>
+
+<p>This allows your content to have the proper informational and contextual hierarchy. Yay.</p>
+
+<h3 id="there-are-lists-too">There are lists, too</h3>
+
+<ul>
+  <li>Apples</li>
+  <li>Oranges</li>
+  <li>Potatoes</li>
+  <li>Milk</li>
+</ul>
+
+<ol>
+  <li>Mow the lawn</li>
+  <li>Feed the dog</li>
+  <li>Dance</li>
+</ol>
+
+<h3 id="images-look-great-too">Images look great, too</h3>
+
+<p><img src="https://i.imgur.com/DMCHDqF.jpg" alt="Thumper" /></p>
+
+<h3 id="stylish-blockquotes-included">Stylish blockquotes included</h3>
+
+<p>You can use the markdown quote syntax, <code class="highlighter-rouge">&gt;</code> for simple quotes.</p>
+
+<blockquote>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis porta mauris.</p>
+</blockquote>
+
+<h3 id="latex-support">LaTeX support</h3>
+
+<p>The default math delimiters are $$. Hence <code class="highlighter-rouge">$$ E = m \cdot c^2 $$</code> yields <script type="math/tex">E = m \cdot c^2</script></p>
+
+<p>And here’s something more fancy:</p>
+
+<script type="math/tex; mode=display">\zeta(s) = \frac{1}{\Gamma(s)} \int \limits_0^\infty x^{s-1} \sum_{n=1}^\infty e^{-nx} \mathrm{d}x = \frac{1}{\Gamma(s)} \int \limits_0^\infty \frac{x^{s-1}}{e^x - 1} \mathrm{d}x</script>
+
+<h3 id="theres-more-being-added-all-the-time">There’s more being added all the time</h3>
+
+<p>Checkout the <a href="https://github.com/jacobtomlinson/carte-noire">Github repository</a> to request,
+or add, features.</p>
+
+<p>Happy writing.</p>
+
+:ET

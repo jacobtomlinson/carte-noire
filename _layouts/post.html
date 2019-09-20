@@ -2,12 +2,12 @@
 layout: default
 ---
 
-{% if page.minutes %}
+<!--{% if page.minutes %}
   {% assign minutes = page.minutes %}
 {% else %}
   {% assign minutes = content | number_of_words | divided_by: 180 %}
   {% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
-{% endif %}
+{% endif %}-->
 
 <div class="container-fluid single">
   <div class="row">
@@ -41,16 +41,17 @@ layout: default
             {% endif %}
           </span>
           {% endif %}
-          on <span itemprop="datePublished" content="2014-08-28">{{ page.date | date: "%B %-d, %Y" }}</span>
+          last update on <span itemprop="datePublished" content="2014-08-28">{{ page.date | date: "%B %-d, %Y" }}</span>
+          <br>Development Status: <span>{{ page.status }}</span>
           {% if page.categories != empty %} under {% for category in page.categories limit:1 %}{{ category }}{% endfor %}{% endif %}
         </i></small>
       </div>
 
-      <div class="read-time">
+      <!--div class="read-time">
         <small>
           {{ minutes }} minute read
         </small>
-      </div>
+      </div-->
 
       <div class="content-panel content">
 
