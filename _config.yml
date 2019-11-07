@@ -5,7 +5,7 @@ description: "Just a kid trying to make sense of the world around him."
 baseurl: ""
 url: "https://aamirazhar.me/"
 title_description: "My name is Aamir. I'm a programmer and an aspiring writer. This blog is mostly going to be my hub for writing practice, which includes creative writing, poetry, and social/political commentary (feel free to sort my posts by category under the 'All Posts' tab). Hope you enjoy, and please feel free to leave a comment or message me with thoughts -- I'd love to talk.  Maybe one day my writing career will take off! :)"
-title_image: "https://i.imgur.com/yMFl8M8.jpg"
+title_image: "https://i.imgur.com/jsKk9b4.jpg"
 google_analytics: "UA-79202944-1"
 disqus_account: aamirazhar
 github_repository: https://github.com/kupoko/aamirazhar.me
@@ -13,13 +13,13 @@ addthis_id: ra-575cb03f29af3a6d
 post_limit: 5
 
 # Social usernames/URLs
-twitter_username:
-facebook_username:
+twitter_username: aamir_not_amir
+facebook_username: aamirazh
 tumblr_username:
-github_username:
-instagram_username:
-linkedin_username:
-google_plus_userame:
+github_username:  kupoko
+instagram_username: aamirazh
+linkedin_username: aamirazh
+google_plus_userame: AamirAzhar11
 reddit_username:
 stackoverflow_link:
 xing_link:
