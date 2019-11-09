@@ -212,4 +212,4 @@ Indy wasn’t in the mood to take favors, but he was starving. “Ok, thank you 
 
 He took the lamb over rice plate from Uncle Syed, thanked him again, and walked across the street until he couldn’t see him. Once he reached a quiet corner, he sat on the pavement, Halal food in hand. Throughout Indy’s life, he’d been moving. When he was 7 and his family left their village to live with his uncle in Lahore. When he was 13 and they crossed the sea for a better life. When he was 18 and he fled to the other side of the country for college. For most of his life, Indy had been in a temporary state of leaving. But this time, for the first time, he felt he had no destination, no place to leave nor a place to go back to. Indy placed his food on the sidewalk and held his head in his hands. He was lost.
 
-[Full working VERY ROUGH draft](https://docs.google.com/document/d/18bTIchzWAgUlNvNpxmJsbiyYf_5w8ZebF33rJ1i0LPM/edit) — Feel free to leave comments!
+*[Email or DM me if you want to see the novels' full working draft]*
