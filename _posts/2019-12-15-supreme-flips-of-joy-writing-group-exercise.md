@@ -12,7 +12,8 @@ tags:
   - wisconsin
   - writing group
 ---
-**Each writer provides one line**
+#### Each writer provides one line
+
 Supreme flips of joy.
 
 It's easiest to enrobe a pretzel in chocolate when you start with the bottom.
@@ -34,7 +35,7 @@ The chocolate all-encompassed, was it sweet, was it heavy — where was the surf
 It's okay to leave a thing half-eaten.
 
 <br>
-*Faster and more spontaneous iteration*
+#### Faster and more spontaneous iteration
 
 1 2 3 4 5 6 7 8 9 and 10
 
