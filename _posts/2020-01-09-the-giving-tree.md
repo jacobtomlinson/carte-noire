@@ -9,12 +9,11 @@ thumbnail:  pencil-square-o
 tags:
   - book
   - children
-  - goodreads
   - giving
+  - goodreads
 ---
 ![Giving-Tree](/resources/images/01-09-2020/giving_tree.jpg)
 
-<br>
 This book is the only children's book that has come back to me, time and time again, in my life, with different meanings and associations.
 
 I read this book so many times as a kid. I think my mother liked it as well — sometimes I wonder how much of reading it with me was didactic, and how much of it was just reading something we enjoyed. In retrospect, the book had such an explicit foreshadowing for my life and upbringing that I was entirely oblivious to well into my early late teens and early 20s.
