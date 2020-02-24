@@ -12,7 +12,7 @@ tags:
   - love
   - silver
 ---
-**Ten minute free-write - must use all ten words (one word provided from each writer)**
+**Eight minute free-write - must use all eight words (one word provided from each writer)**
 
 *Words to use: silver, dusty, trespass, scent, semblance, desperate, table, peel
 
