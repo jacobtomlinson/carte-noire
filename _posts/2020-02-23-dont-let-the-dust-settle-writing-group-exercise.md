@@ -4,7 +4,7 @@ title:      Don't Let the Dust Settle [Writing Group Exercise]
 date:       2020-02-23 19:42:00
 author:     Aamir Azhar
 summary:    A free-written short story on change using eight provided words at a writing group meetup.
-categories: poetry
+categories: stories
 thumbnail:  pencil-square-o
 tags:
   - change
