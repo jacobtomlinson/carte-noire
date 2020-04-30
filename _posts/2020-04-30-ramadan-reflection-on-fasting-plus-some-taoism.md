@@ -12,7 +12,7 @@ tags:
   - ramadan
   - taoism
 ---
-*Originally a Facebook post*
+(*Originally a Facebook post*)
 
 Salaam all - I am back with some Ramadan Reflections (with some Taoism sprinkled in)!
 
@@ -22,7 +22,7 @@ Recently, I've found myself talking with non-Muslim and Muslim friends on what t
 
 ![Ghazali-Chain-Passion](/resources/images/04-30-2020/ghazali_2.jpg)
 
-This quote, I feel, succinctly captures the essence of fasting, which is a "grounding" of ones desires to reality, a reminder that one's desires are a means to an end (and not something to be pursued blindly) — essentially a separation between the soul and its desires, in an effort to control and remove oneself from its intoxication.
+These excerpts, I feel, succinctly capture the essence of fasting, which is a "grounding" of ones desires to reality, a reminder that one's desires are a means to an end (and not something to be pursued blindly) — essentially a separation between the soul and its desires, in an effort to control and remove oneself from its intoxication.
 
 This is a theme I have noticed is present in Daoism as well — the understanding of spirituality as an attempt to grasp the Nothing, what is not there. This is parallel to Islam's purpose of grasping and worshipping God even if He is invisible (belief in the unseen); I would even argue the purpose of all (or most) spirituality+religion is to grasp Nothing, and in doing so, be able to grasp Everything; to only be able to grapple with Existence through understanding non-Existence (or transcendent existence, what may exist outside of our own existence). To be able to handle Everything once you have experienced Nothing (finding strength in weakness, desire in the undesirable, grasping the Soft, the Indistinct, the Unclear [the Tao]).
 
@@ -36,7 +36,6 @@ See attached images of verses from the Daodejing (43/78/22) which I think explai
 
 ![Daodejing-Incompleteness](/resources/images/04-30-2020/daodejing_2.jpg)
 
---
 Anyway, to return to the topic at hand, Al-Ghazali outlines ten benefits to hunger / fasting which I found to be insightful (this is summarized and does not include the countless Ayat/Hadith Al-Ghazali takes this wisdom from):
 
 1. "Hunger makes the heart pure, conduct fresh and sight sharp. On the other hand, over-eating makes one lazy, heart blind and incurs heat in brain like intoxication, even it attacks the men of thoughts."
