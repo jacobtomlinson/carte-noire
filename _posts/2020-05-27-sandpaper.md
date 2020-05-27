@@ -14,7 +14,9 @@ tags:
   - trauma
 ---
 I dreamt of sandpaper.
+
 Is that what it’s like?
+
 Does it feel like agony and loss,
 
 clutching a hand that is dead—Aamir, it’s dead. It won’t love you back.
