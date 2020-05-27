@@ -4,7 +4,7 @@ title:      Roleplay, Anonymity, and Online Communities
 date:       2016-05-27 06:34:00
 author:     Aamir Azhar
 summary:    There is a special camaraderie that forms within online, anonymous communities.
-categories: society
+categories: reviews
 thumbnail:  heart-o
 tags:
   - anonymity
