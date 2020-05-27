@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      My mother [five minute freewrite]
+title:      My mother
 date:       2020-02-23 19:20:00
 author:     Aamir Azhar
 summary:    A five minute free-write poem about my mom that I wrote in a writing group meeting.
@@ -12,6 +12,8 @@ tags:
   - love
   - mother
 ---
+**Five minute free-write**
+
 My mother.
 
 Who would she be if she was not?

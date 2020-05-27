@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      lost and searching [five minute freewrite]
+title:      lost and searching
 date:       2019-12-15 15:12:33
 author:     Aamir Azhar
 summary:    A five minute free-write poem I wrote in a writing group meeting.
@@ -12,6 +12,8 @@ tags:
   - love
   - solitude
 ---
+**Five minute free-write**
+
 lost and searching
 
 to make mistakes and know
