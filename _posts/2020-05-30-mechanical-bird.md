@@ -12,13 +12,15 @@ tags:
   - intimacy
   - love
 ---
-Touch me and make me whole. Remind me of my body; this world is physical but I forget. Everything I’ve touched I have wanted to touch. This morning, I drank hot tea. For lunch, I touched the stove. Before dinner, I caressed my thighs. At night, I fingered my blankets.
+Touch me and make me whole. Remind me of my body; this world is physical but I forget. Everything I’ve touched I have wanted to touch.
+
+This morning, I drank hot tea. For lunch, I touched the stove. Before dinner, I caressed my thighs. At night, I fingered my blankets.
 
 No. Don’t tell me what I want. Show me.
 
 When was the last time I wrote a love letter to a friend? A love letter, or just a message. A something something, a lovely love thing, a special nothing. I can’t draw hearts. Mine always get too fat and squishy. I’ll draw a star instead.
 
-Love me. Replace the gaps in my life and then I’ll forget you when they’re filled. Be my best friend for a week and I’ll tell you I love you and that you’re great.
+Love me. Replace the gaps in my life and then I’ll forget you when they’re filled. Be my best friend for a week and I’ll tell you I love you and you’re great.
 
 Help me with my family. I can’t choose them. I love my mom, but I do nothing for her.
 

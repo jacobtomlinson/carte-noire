@@ -21,11 +21,15 @@ I feel this tension. Do you feel it too? It’s a slippery kind of tension, like
 
 Everything feels opposed. Everyone stands straight up. They’re armed, and they’re watching me. I am presenting something to them. I am performing, and they are watching me. Everyone is watching me, and they all feel different. They hate each other. They doubt me. They will argue once this is all finished. I will eavesdrop like a child. I will hide like the little boy I am.
 
-They are my parents, no? Everyone, gather round and watch me stumble. Watch me forget my lines and hold the wrong note. I will never be good enough, but the tension will make me better. Yes, yes, it will make me better, and I will use it.
+Everyone, gather round and watch me stumble. Watch me forget my lines and hold the wrong note. I will never be good enough, but the tension will make me better. Yes, yes, it will make me better, and I will use it.
 
-Dialectic or masochistic? Exhausting or exhilarating? Futile or fundamental?
+Dialectic or masochistic?
 
-Follow me, and I will find clarity. Rub against me, like you were sandpaper, and I will find layers. I will evolve and grow, I will yell, I will cry and I will understand.
+Exhausting or exhilarating?
+
+Futile or fundamental?
+
+Follow me, and I will find clarity. Rub against me, like you are sandpaper, and I will find layers. I will evolve and grow, I will yell, I will cry and I will understand.
 
 Give me all of it.
 
