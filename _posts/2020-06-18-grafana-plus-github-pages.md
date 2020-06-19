@@ -31,10 +31,12 @@ I wanted to avoid standing up a web server just to host this image.
 
 We do have a github enterprise server at the ( remote ) shop.
 
-Low and behold, I was able to [activate github pages](3) on a public repo, and host
-the image pain free in minutes.
+![yeah!](https://media.giphy.com/media/RrVzUOXldFe8M/giphy.gif)
 
-I'll be using this one quite a bit I think. The one caveat is that the images
+Less than five minutes later, I was able to create a public repo, [activate github pages](3), and host
+the image with no pain at all..
+
+I'll be using this one quite a bit I think. Be careful though, the images
 are public - so sensitive information needs another solution.
 
 [1]: https://grafana.com/
