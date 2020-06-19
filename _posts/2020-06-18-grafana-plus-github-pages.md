@@ -1,59 +1,39 @@
 ---
 layout:     post
-title:      Using thumbnails
-date:       2014-06-08 12:32:18
-summary:    Using thumbnails in your Carte Noire articles.
-categories: jekyll
-thumbnail: jekyll
+title:      Embed image in grafana dashboard using github pages
+date:       2020-06-18 23:35:25
+summary:    Use Github Pages to host images to embed in Grafana
+categories: grafana
+thumbnail: terminal
 tags:
- - thumbnails
- - carte noire
+ - grafana
+ - devops
+ - github
+ - ImageIt
 ---
 
-Carte Noire is designed to start each article with an all-white image as a
-thumbnail. These are created by adding a `thumbnail` parameter to the article's
-[YAML frontmatter][1]. This thumbnail parameter is processed in one of two ways,
-images specified in `_data/thumbnails.yml` or using [Font Awesome][2].
+After having the plugin installed for a couple of years, I finally used
+[Grafana][1]'s [ImageIt][2] plugin on a dashboard request.
 
-## Images
+ImageIt enables you to overlay information on top of an image map. It's a little
+bit tedious use at the moment, missing a needs a 'duplicate' button in the metric
+mappings.
 
-To use your own custom images as a thumbnail you must upload them to a web available
-location (I use [Imgur][3]) and then you need to add the url to `_data/thumbnail.yml`
-with an associated keyword.
+---
 
-```
-jekyll: "http://i.imgur.com/aRQcGSi.png"
-```
+The point here though - was that I wanted to avoid standing up a web server just
+to embed the image - as [Grafana dashboards are json][3], well behaving panels
+seem to avoid trying to do things like embed an image by converting to base64 or
+some such.
 
-You then add a `thumbnail` option to the article's frontmatter and provide the keyword
-for that thumbnail.
+We do have a github enterprise server at the ( remote ) shop though.
 
-```
-thumbnail: jekyll
-```
+Low and behold, I was able to [activate github pages](https://help.github.com/en/enterprise/2.13/user/articles/configuring-a-publishing-source-for-github-pages) on a public repo, and host
+the image pain free in minutes.
 
-This allows you to re-use thumbnails across multiple articles without having to
-specify the url each time.
+I'll be using this one quite a bit I think. The one caveat is that the images
+are public - so sensitive information needs another solution.
 
-## Font Awesome
-
-If jekyll can't find a corresponding image in your `thumbnail.yml` file then it
-will assume you want to use a Font Awesome icon instead. You can find the full
-list of Font Awesome icons [here][4].
-
-So for example if your article is about android and you want to use the [android icon][5]
-from font awesome you can just specify the following in your frontmatter.
-
-```
-thumbnail: android
-```
-
-Then in the future if you decide you want to use your own android icon you can just
-add it to `_data/thumbnails.yml` which will override it for all articles using
-the android thumbnail.
-
-[1]: http://jekyllrb.com/docs/frontmatter/
-[2]: http://fortawesome.github.io/Font-Awesome/
-[3]: http://imgur.com/
-[4]: http://fortawesome.github.io/Font-Awesome/icons/
-[5]: http://fortawesome.github.io/Font-Awesome/icon/android/
+[1]: https://grafana.com/
+[2]: https://grafana.com/grafana/plugins/pierosavi-imageit-panel
+[3]: https://grafana.com/docs/grafana/latest/reference/dashboard/#:~:text=A%20dashboard%20in%20Grafana%20is,variables%2C%20panel%20queries%2C%20etc.
