@@ -40,13 +40,13 @@ tags:</p>
 <a href="https://grafana.com/">Grafana</a>&apos;s <a href="https://grafana.com/grafana/plugins/pierosavi-imageit-panel">ImageIt</a> plugin on a dashboard request.</p>
 <p>ImageIt enables you to overlay information on top of an image map. It&apos;s a little
 bit tedious use at the moment, notably missing  &apos;duplicate&apos; button in the metric
-mappings. </p>
+mappings.</p>
 <hr>
-<p>The point here though - was that I wanted to avoid standing up a web server just
-to embed the image - as <a href="https://grafana.com/docs/grafana/latest/reference/dashboard/#:~:text=A%20dashboard%20in%20Grafana%20is,variables%2C%20panel%20queries%2C%20etc.">Grafana dashboards are json</a>, well behaving panels
-seem to avoid trying to do things like embed an image by converting to base64 or
-some such.</p>
-<p>We do have a github enterprise server at the ( remote ) shop though.</p>
+<p>My dilemma though - was that the imageit plugin requires you give a url where the
+image you want to embed will be hosted.</p>
+<p>I wanted to avoid standing up a web server just to host this image.</p>
+<p><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/241/thinking-face_1f914.png" alt="thinking"></p>
+<p>We do have a github enterprise server at the ( remote ) shop.</p>
 <p>Low and behold, I was able to <a href="https://help.github.com/en/enterprise/2.13/user/articles/configuring-a-publishing-source-for-github-pages">activate github pages</a> on a public repo, and host
 the image pain free in minutes.</p>
 <p>I&apos;ll be using this one quite a bit I think. The one caveat is that the images

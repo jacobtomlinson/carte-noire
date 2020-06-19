@@ -18,16 +18,18 @@ After having the plugin installed for a couple of years, I finally used
 
 ImageIt enables you to overlay information on top of an image map. It's a little
 bit tedious use at the moment, notably missing  'duplicate' button in the metric
-mappings. 
+mappings.
 
 ---
 
-The point here though - was that I wanted to avoid standing up a web server just
-to embed the image - as [Grafana dashboards are json][3], well behaving panels
-seem to avoid trying to do things like embed an image by converting to base64 or
-some such.
+My dilemma though - was that the imageit plugin requires you give a url where the
+image you want to embed will be hosted.
 
-We do have a github enterprise server at the ( remote ) shop though.
+I wanted to avoid standing up a web server just to host this image.
+
+![thinking](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/241/thinking-face_1f914.png)
+
+We do have a github enterprise server at the ( remote ) shop.
 
 Low and behold, I was able to [activate github pages](https://help.github.com/en/enterprise/2.13/user/articles/configuring-a-publishing-source-for-github-pages) on a public repo, and host
 the image pain free in minutes.
