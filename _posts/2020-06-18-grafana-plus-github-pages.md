@@ -4,13 +4,14 @@ title:      Embed image in grafana dashboard using github pages
 date:       2020-06-18 23:35:25
 summary:    Use Github Pages to host images to embed in Grafana
 categories: grafana
-thumbnail: terminal
+thumbnail: ImageIt
 tags:
  - grafana
  - devops
  - github
  - ImageIt
 ---
+
 
 After having the plugin installed for a couple of years, I finally used
 [Grafana][1]'s [ImageIt][2] plugin on a dashboard request.
