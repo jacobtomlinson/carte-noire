@@ -17,8 +17,8 @@ After having the plugin installed for a couple of years, I finally used
 [Grafana][1]'s [ImageIt][2] plugin on a dashboard request.
 
 ImageIt enables you to overlay information on top of an image map. It's a little
-bit tedious use at the moment, missing a needs a 'duplicate' button in the metric
-mappings.
+bit tedious use at the moment, notably missing  'duplicate' button in the metric
+mappings. 
 
 ---
 
