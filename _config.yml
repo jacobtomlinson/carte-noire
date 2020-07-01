@@ -6,7 +6,7 @@ title_description: "Grafana/InfluxDB Time series data nerd."
 baseurl: ""
 url: "http://lo0.ca/"
 title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
-# google_analytics: ""
+google_analytics: "UA-15919943-2"
 # disqus_account: cartenoire
 github_repository: https://github.com/relishcolouredhat/lo0.ca
 # addthis_id: ra-513c6fa83da6ec67
