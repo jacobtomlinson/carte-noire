@@ -38,7 +38,7 @@ PEView found no interesting imports (only ExitProcess), and PEiD suggested it wa
 
 There were some strings in the executable that looked relevant:
 
-```
+```text
 SOFTWARE\Classes\http\shell\open\commandV
 Software\Microsoft\Active Setup\Installed Components\
 test
@@ -96,7 +96,7 @@ The DLL exports five functions:
 
 There are a lot of strings, but the most relevant seem to be these:
 
-```
+```text
 Y29ubmVjdA==
 practicalmalwareanalysis.com
 serve.html
@@ -161,13 +161,13 @@ uninstall is starting
 
 We'll use rundll32 to execute this DLL. Looking at the exported functions, `Install` seems the most likely candidate, so we'll start there. To set up, we'll fire up Process Monitor, Process Explorer, Regshot (taking an initial snapshot), and ApateDNS. Then:
 
-```
+```text
 rundll32 Lab03-02.dll, Install
 ```
 
 An exception occurred! Let's try installA:
 
-```
+```text
 rundll32 Lab03-02.dll, installA
 ```
 
@@ -233,7 +233,7 @@ PEView showed no immediate signs of packing: section sizes roughly lined up, and
 
 Among the strings, a few stand out:
 
-```
+```text
 NOTHING
 CMD
 DOWNLOAD
@@ -257,7 +257,7 @@ ApateDNS doesn't immediately capture any network traffic, but the previous servi
 
 Scrolling through the logs, I see an invocation of cmd.exe, so I'll add that to the filter. It looks like the malware is trying to delete itself!
 
-```
+```text
 "C:\WINDOWS\System32\cmd.exe" /c del C:\DOCUME~1\ADMINI~1\Desktop\MALWAR~1\PRACTI~1\BINARY~1\CH9F95~1\Lab03-04.exe >> NUL
 ```
 
