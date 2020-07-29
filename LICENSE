@@ -1,18 +1,12 @@
-Copyright (C) 2014  Jacob Tomlinson
+This theme is Open Source under the GPLv3 license as stated below. The theme is intended
+to be used for creating jekyll blogs where the author is expected to retain copyright
+on their content and therefore the following files and directories are not included in
+the GPLv3 license:
 
-The contents of this website, which consists of the files in
  * _config.yml
- * _data
- * _drafts
- * _posts
-
-are copyrighted and sole property of its author Jacob Tomlinson. It may not be
-used, modified, syndicated or distributed without expressed permission from
-the author.
-
-However the website theme built using jekyll is Open Source under the following
-GPLv3 license.
-
+ * _data/
+ * _drafts/
+ * _posts/
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
