@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      PMA Labs Writeup - Chapter 3
+title:      "PMA Labs Writeup: Basic Dynamic Analysis"
 date:       2020-07-29 15:00:00
 author:     Jon Winsley
 comments:   true
