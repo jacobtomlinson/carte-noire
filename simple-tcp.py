@@ -24,7 +24,7 @@ def complex_socket_server(message_response_pairs,port):
         try: 
             conversation.send(message_response_pairs[rx])
         except:
-            print rx
+            print(rx)
             pass
         finally:
             conversation.close()
