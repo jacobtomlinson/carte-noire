@@ -4,6 +4,8 @@
 import socket
 import sys
 
+sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
 def socket_server(message,port):
     sock.listen(port)
     while True:
