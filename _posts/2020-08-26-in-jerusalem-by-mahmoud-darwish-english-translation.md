@@ -107,7 +107,7 @@ spoke formal Arabic. “And what then?”
 
 :ماذا بعد؟ صاحت فجأة جنديّةٌ
 
-What then? A female soldier said suddenly
+What then? A female soldier said suddenly:
 
 هُوَ أَنتَ ثانيةً؟ أَلم أَقتلْكَ؟
 
