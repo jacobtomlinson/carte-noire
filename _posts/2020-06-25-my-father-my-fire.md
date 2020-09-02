@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      My father, and fire [DRAFT]
+title:      My Father, My Fire [DRAFT]
 date:       2020-06-25 21:34:29
 author:     Aamir Azhar
 summary:    A Laotian-American immigrant's recurring dream and their father.
