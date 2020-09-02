@@ -18,15 +18,15 @@ In Jerusalem, I mean, inside the ancient walls
 
 أَسيرُ من زَمَنٍ إلى زَمَنٍ بلا ذكرى
 
-I walk between eons without a memory<sup>1</sup>
+I walk between eons without a memory <sup>1</sup>
 
 تُصوِّبُني. فإن الأنبياءَ هناك يقتسمون
 
-to set my sights. For if the prophets there can share<sup>2</sup>
+to set my sights. For if the prophets there can share <sup>2</sup>
 
 تاريخَ المقدَّس... يصعدون إلى السماء
 
-such history of the divine… soaring to the heavens<sup>3</sup>
+such history of the divine… soaring to the heavens <sup>3</sup>
 
 ويرجعون أَقلَّ إحباطاً وحزناً، فالمحبَّةُ
 
@@ -42,11 +42,11 @@ I was walking downhill, contemplating: how
 
 يختلف الرُّواةُ على كلام الضوء في حَجَرٍ؟
 
-do the storytellers disagree on the light’s word in stone?<sup>4</sup>
+do the storytellers disagree on the light’s word in stone? <sup>4</sup>
 
 أَمِنْ حَجَر ٍشحيحِ الضوء تندلعُ الحروبُ؟
 
-Is it from a meager rock that light erupts in war?<sup>5</sup>
+Is it from a meager rock that light erupts in war? <sup>5</sup>
 
 أسير في نومي. أَحملق في منامي. لا
 
@@ -58,11 +58,12 @@ see anyone behind me. I don’t see anyone before me.
 
 كُلُّ هذا الضوءِ لي. أَمشي. أخفُّ. أطيرُ
 
-All this light is for me. I walk. I am lighter. I fly.<sup>6</sup>
+All this light is for me. I walk. I am lighter. I fly. <sup>6</sup>
 
+<br>
 ثم أَصير غيري في التَّجَلِّي. تنبُتُ
 
-Then I become something other than me, incarnated. Sprout,<sup>7</sup>
+Then I become something other than me, incarnated. Sprout, <sup>7</sup>
 
 الكلماتُ كالأعشاب من فم أشعيا
 
@@ -70,7 +71,7 @@ the words, like grass from Isaiah’s mouth
 
 .النِّبَويِّ: ((إنْ لم تُؤْمنوا لن تَأْمَنُوا))
 
-The Prophet: “If you don’t believe me you are not protected.”<sup>8</sup>
+The Prophet: “If you don’t believe me you are not protected.” <sup>8</sup>
 
 أَمشي كأنِّي واحدٌ غيْري. وجُرْحي وَرْدَةٌ
 
@@ -94,7 +95,7 @@ this incarnation. There is no place or time. So who am I?
 
 أَنا لا أنا في حضرة المعراج. لكنِّي
 
-I am not I in the presence of divine ascension. But I<sup>9</sup>
+I am not I in the presence of divine ascension. But <sup>9</sup>
 
 أُفكِّرُ: وَحْدَهُ، كان النبيّ محمِّدٌ
 
@@ -134,4 +135,4 @@ I said: You killed me… and I forgot, as did you, to die.
 
 <sup>8</sup> تَأْمَنُوا and تُؤْمنوا have the same root; the second word (تَأْمَنُوا) can mean to believe in or to secure something, or to be made safe.
 
-<sup>9</sup> المعراج means ascension, but also specifically can refer to the Prophet Muhammad (S)’s night ascension/journey to heaven: https://en.wikipedia.org/wiki/Isra_and_Mi%27raj.
+<sup>9</sup> I used "I am not I" instead of "I am not myself" because the word أنا is written as a subject, not an object. The grammar is "odd" in the Arabic too, normally you would say "I am not myself" (i.e. myself =  نفسي), but I think Mahmoud Darwish uses "I" to intentionally say that he does not exist, there is no "I" in the presence of divine ascension. Furthermore, المعراج means ascension, but also specifically can refer to the Prophet Muhammad (S)’s night ascension/journey to heaven: https://en.wikipedia.org/wiki/Isra_and_Mi%27raj.
