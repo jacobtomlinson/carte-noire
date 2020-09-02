@@ -12,7 +12,7 @@ tags:
   - palestine
   - translation
 ---
-في القدس، أَعني داخلَ السُّور القديمِ،
+،في القدس، أَعني داخلَ السُّور القديمِ
 
 In Jerusalem, I mean, inside the ancient walls
 
@@ -32,7 +32,7 @@ such history of the divine… soaring to the heavens<sup>3</sup>
 
 and returning less depressed and sorrowful, as love
 
-والسلام مُقَدَّسَان وقادمان إلى المدينة.
+.والسلام مُقَدَّسَان وقادمان إلى المدينة
 
 and peace, so sacred, are coming to this town.
 
@@ -52,7 +52,7 @@ Is it from a meager rock that light erupts in war?<sup>5</sup>
 
 I walk in my sleep. I stare in my dreams. I don’t
 
-أرى أحداً ورائي. لا أرى أَحداً أمامي.
+.أرى أحداً ورائي. لا أرى أَحداً أمامي
 
 see anyone behind me. I don’t see anyone before me.
 
@@ -68,7 +68,7 @@ Then I become something other than me, incarnated. Sprout,<sup>7</sup>
 
 the words, like grass from Isaiah’s mouth
 
-النِّبَويِّ: ((إنْ لم تُؤْمنوا لن تَأْمَنُوا)).
+.النِّبَويِّ: ((إنْ لم تُؤْمنوا لن تَأْمَنُوا))
 
 The Prophet: “If you don’t believe me you are not protected.”<sup>8</sup>
 
@@ -80,7 +80,7 @@ I walk like I was someone besides myself; my wound a rose
 
 white and biblical. And my hands are like two doves
 
-على الصليب تُحلِّقان وتحملان الأرضَ.
+.على الصليب تُحلِّقان وتحملان الأرضَ
 
 on the cross, flying and carrying the earth.
 
@@ -104,7 +104,7 @@ I think: alone, the Prophet Muhammad
 
 spoke formal Arabic. “And what then?”
 
-ماذا بعد؟ صاحت فجأة جنديّةٌ:
+:ماذا بعد؟ صاحت فجأة جنديّةٌ
 
 What then? A female soldier said suddenly
 
@@ -112,7 +112,8 @@ What then? A female soldier said suddenly
 
 Is that you once again? Did I not kill you?
 
-قلت: قَتَلْتني... ونسيتُ، مثلك، أن أَموت.
+.قلت: قَتَلْتني... ونسيتُ، مثلك، أن أَموت
+
 
 I said: You killed me… and I forgot, as did you, to die.
 
