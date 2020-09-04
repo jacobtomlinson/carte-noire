@@ -129,37 +129,37 @@ I said: You killed me… and I forgot, as did you, to die.
 
 <br>
 <a name="f1"></a>
-(1)[#a1]
+[1](#a1)
 أَسيرُ has a double meaning — it also means prisoner. So the line can also mean “A prisoner between eons without a memory”.
 
 <a name="f2"></a>
-(2)[#a2]
+[2](#a2)
 تُصوِّبُني literally means “to aim” or “shoot”, like from the barrel of a gun.
 
 <a name="f3"></a>
-(3)[#a3]
+[3](#a3)
 المقدَّس has the same root as Jerusalem, which is اَلْـقُـدْس which literally means “the holy”. This root shows up again two lines below (sacred). Mahmoud Darwish here is clearly associating this divine history, as well as the sacred love and peace (next line) with Jerusalem itself.
 
 <a name="f4"></a>
-(4)[#a4]
+[4](#a4)
 This was a hard sentence to translate, even literally. By light’s word I believe Mahmoud Darwish is referring to God’s word. At the end, I think here he is employing two meanings: 1) he is saying that (religious) storytellers disagree on stories that are set in stone (set either by them or by God themself), 2) he is referring to the Foundation Stone (https://en.wikipedia.org/wiki/Foundation_Stone) which is a stone in Jerusalem; Jewish and Muslim people have their own corresponding meaning/significance attached to it.
 
 <a name="f5"></a>
-(5)[#a5]
+[5](#a5)
 شحيحِ (translated as meager) is a hard word to translate. It means greedy, or like tight-fisted (maybe stubborn, in this context contested over).. it can even mean “mean” or meager, scarce. Fady Joudah translates it as “dimly lit”, which can make sense — it is insufficient, scarce, and it lacks light, yet it can so quickly “spark” into war.
 
 <a name="f6"></a>
-(6)[#a6]
+[6](#a6)
 أخفُّ has the same root as “frighten” or “fear”.
 
 <a name="f7"></a>
-(7)[#a7]
+[7](#a7)
 Technically this can say “The words sprout like grass…” but the verb comes first in this poem (which is grammatically sound in Arabic but not as much in English) so I decided to keep it for the ~ vibes ~.
 
 <a name="f8"></a>
-(8)[#a8]
+[8](#a8)
 تَأْمَنُوا and تُؤْمنوا have the same root; the second word (تَأْمَنُوا) can mean to believe in or to secure something, or to be made safe.
 
 <a name="f9"></a>
-(9)[#a9]
+[9](#a9)
 I used "I am not I" instead of "I am not myself" because the word أنا is written as a subject, not an object. The grammar is "odd" in the Arabic too, normally you would say "I am not myself" (i.e. myself =  نفسي), but I think Mahmoud Darwish uses "I" to intentionally say that he does not exist, there is no "I" in the presence of divine ascension. Furthermore, المعراج means ascension, but also specifically can refer to the Prophet Muhammad (S)’s night ascension/journey to heaven: https://en.wikipedia.org/wiki/Isra_and_Mi%27raj.
