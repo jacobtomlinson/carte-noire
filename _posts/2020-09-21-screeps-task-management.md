@@ -8,6 +8,8 @@ summary:    The dark arts of task management as implemented for a Screeps AI
 categories: screeps
 ---
 
+![screeps screenshot](/assets/screeps2.png)
+
 The article below describes the AI in its current state: I'm still expanding and refining my codebase. [Here's the GitHub repo](https://github.com/glitchassassin/screeps) if you'd like to follow along.
 
 # Task Management
