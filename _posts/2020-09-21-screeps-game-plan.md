@@ -8,6 +8,8 @@ summary:    Diving into the deep end and building a Screeps AI
 categories: screeps
 ---
 
+![screeps screenshot](/assets/screeps.png)
+
 [Screeps](https://screeps.com) is an MMORTS (massively multiplayer online real-time strategy game) with a unique twist: instead of controlling your units directly, you write code in Javascript to build and manage them. Your available CPU is limited, so you have to write an AI that is both powerful and efficient.
 
 # First Steps
