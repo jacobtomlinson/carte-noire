@@ -42,7 +42,7 @@ layout: default
           </span>
           {% endif %}
           on <span itemprop="datePublished" content="2014-08-28">{{ page.date | date: "%B %-d, %Y" }}</span>
-          {% if page.categories != empty %} under {% for category in page.categories limit:1 %}<a href="/posts-by-categories/#{{ category | first }}-ref">{{ category }}</a>{% endfor %}{% endif %}
+          {% if page.categories != empty %} under {% for category in page.categories limit:1 %}<a href="/posts-by-categories/#{{ category }}-ref">{{ category }}</a>{% endfor %}{% endif %}
         </i></small>
       </div>
 
