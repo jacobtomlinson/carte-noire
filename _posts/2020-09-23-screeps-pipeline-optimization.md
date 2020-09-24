@@ -65,7 +65,7 @@ Now, these low-level minions may not actually be able to max out input. It takes
 // Workers are (by energy cost) 1/2 WORK, 1/4 CARRY, 1/4 MOVE
 // WORK parts cost 100 energy
 // So, max available minion work parts...
-minionWorkParts = Math.floor((1/2) * room.energyCapacityAvailable / 100)
+let minionWorkParts = Math.round((1/2) * room.energyCapacityAvailable / 100)
 
 // Viable work parts per source
 Math.max(5, (adjacentSpaces * minionWorkParts))
@@ -97,3 +97,15 @@ sources.reduce((sum, source) => (sum + Math.max(calculateAdjacentSpaces(source),
 ```
 
 Miners will naturally die off, so we don't need to worry too much about auto-scaling *down* the miners. This gives us a good start at least: let's test it in simulation and see how it goes. If this piece works, we'll look at auto-scaling workers, once we switch to stationary miners.
+
+# Several hours and many bugfixes later...
+
+I have experimentally determined something that perhaps should have been obvious.
+
+Spawning a Pioneer (WORK/CARRY/MOVE) requires 200 energy. Each creep lives for 1500 ticks. The maximum income per tick is 10 energy per source. Assuming maximum efficiency, this means one minion per source every 20 ticks. In a one-source room, with maximum efficiency, you could sustain 75 creeps with a single spawner.
+
+Practically speaking, the efficiency of small creeps is fairly low, especially since they are also engaged in other tasks (such as building infrastructure). In the simulation room, the creeps seemed to peak around 25% of the maximum potential income.
+
+What this means is that all this complex math to spawn minions is pretty much moot, at least at low levels: we can just turn on the faucet and leave it on, at least until we get some basic infrastructure in place. The pipeline will limit itself.
+
+(Don't worry, this work was not in vain: we'll be able to apply the energy pipline better at higher levels!)
