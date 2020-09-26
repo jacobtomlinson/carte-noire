@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Screeps #3: Pipeline Optimization"
+title:      "Screeps #4: Pipeline Optimization"
 date:       2020-09-23 15:00:00
 author:     Jon Winsley
 comments:   true
