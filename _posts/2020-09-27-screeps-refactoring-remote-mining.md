@@ -59,7 +59,7 @@ Right now we have a handful of different kinds of management classes.
 
 ### Architects
 
-We'll need to plan infrastructure not just for the central Office rooms, but also for the exploitable Territories. We'll at least want roads to the Sources, and eventually containers as well, to enable the hauler workflow. These will need to operate on a per-Office basis.
+We'll need to plan infrastructure not just for the central Office rooms, but also for the exploitable Territories. We'll at least want containers at the Sources, and eventually roads as well, to enable the hauler workflow. These will need to operate on a per-Office basis.
 
 ### Analysts
 
