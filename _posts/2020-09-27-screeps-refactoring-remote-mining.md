@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Screeps #5: Refactoring for Remote Mining"
-date:       2020-09-27 15:00:00
+date:       2020-09-27 12:00:00
 author:     Jon Winsley
 comments:   true
 summary:    Preparing to venture outside the walls of our own starting room
