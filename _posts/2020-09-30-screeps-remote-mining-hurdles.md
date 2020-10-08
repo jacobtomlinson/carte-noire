@@ -6,6 +6,7 @@ author:     Jon Winsley
 comments:   true
 summary:    Finding a better way to track and prioritize work as we expand into other rooms
 categories: screeps
+series: screeps
 ---
 
 The article below describes the AI in its current state: I'm still expanding and refining my codebase. [Here's the GitHub repo](https://github.com/glitchassassin/screeps) if you'd like to follow along.

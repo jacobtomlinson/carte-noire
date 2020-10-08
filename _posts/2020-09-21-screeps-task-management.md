@@ -6,6 +6,7 @@ author:     Jon Winsley
 comments:   true
 summary:    The dark arts of task management as implemented for a Screeps AI
 categories: screeps
+series: screeps
 ---
 
 ![screeps screenshot](/assets/screeps2.png)

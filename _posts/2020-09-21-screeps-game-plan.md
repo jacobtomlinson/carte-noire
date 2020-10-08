@@ -6,6 +6,7 @@ author:     Jon Winsley
 comments:   true
 summary:    Diving into the deep end and building a Screeps AI
 categories: screeps
+series: screeps
 ---
 
 ![screeps screenshot](/assets/screeps.png)

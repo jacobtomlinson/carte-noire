@@ -6,6 +6,7 @@ author:     Jon Winsley
 comments:   true
 summary:    Teaching the AI to make strategic decisions with data
 categories: screeps
+series: screeps
 ---
 
 The article below describes the AI in its current state: I'm still expanding and refining my codebase. [Here's the GitHub repo](https://github.com/glitchassassin/screeps) if you'd like to follow along.
