@@ -12,6 +12,9 @@ tags:
   - existence
   - lipogram
 ---
+*This poem was written without the letter E, as part of an exercise. Exercise time: 10mins*
+
+<br>
 fractals and flaking
 
 collapsing; in its own
@@ -46,7 +49,7 @@ i miss our soft and small things
 
 its joy i found in us
 
-its loving that took over
+its loving all-consuming
 
 <br>
 this book is closing until it's flat
