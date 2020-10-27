@@ -25,7 +25,7 @@ sits and listen close
 <br>
 and lovely laughing—oh it
 
-    puts the heart in my chest on wings
+puts the heart in my chest on wings
 
 for when I look at you, even a moment, no speaking
 
@@ -49,6 +49,7 @@ I am and dead—or almost
 
 &nbsp;&nbsp;&nbsp;&nbsp;I seem to me.
 
+<br>
 But all is to be dared, because even a person of poverty
 
 <br>
