@@ -18,12 +18,12 @@ collapsing; in its own
 
 falling in past cracks and sky
 
-flying in past all abstractions
+flying out past abstraction
 
 <br>
 this world until it's flatland
 
-loving until brims full
+loving til brims full
 
 folding into intimacy
 
@@ -37,22 +37,22 @@ if my world falls in a vacuum
 
 what will stand still?
 
-what will i find in turn?
+what do i find in turn?
 
 <br>
 God, i miss your touch
 
 i miss our soft and small things
 
-the joy i found in us
+its joy i found in us
 
-the loving that took over
+its loving that took over
 
 <br>
-the book is closing until it's flat
+this book is closing until it's flat
 
-my wings uplift me to oblivion
+my wings uplift my: oblivion
 
-i find nothing; its annihilation
+i find nothing: annihilation
 
 i crawl into its
