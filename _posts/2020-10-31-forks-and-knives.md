@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      fork and knife
+title:      forks and knives
 date:       2020-10-31 14:15:00
 author:     Aamir Azhar
 summary:    Devour me.
