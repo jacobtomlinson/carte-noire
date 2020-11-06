@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      In Search of Home - Writing Sample [Chapters One and Two]
+title:      In Search of Home — Writing Sample [Chapters One and Two]
 date:       2019-12-29 19:19:50
 author:     Aamir Azhar
 summary:    A two chapter writing sample of my novel, In Search of Home.
