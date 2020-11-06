@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      In Search of Home - Chapter 4 Intro [FIRST DRAFT]
+title:      In Search of Home — Chapter 4 Intro [FIRST DRAFT]
 date:       2019-11-07 02:04:30
 author:     Aamir Azhar
 summary:    The first draft of the beginning of chapter 4 of my novel, In Search of Home.
