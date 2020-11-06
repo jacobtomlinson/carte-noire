@@ -144,6 +144,7 @@ In one day I had lost such integral, special things.
 - My sister: her perfume that eased me when I sat next to her, her hugs that made me feel like a boy, her laugh that crawled into my ears and lit up my cortex—it’s dark now, silent and brooding.
 - My legs: the feeling of crossing and shaking them, my runs which cleared my head and made me feel human; above all, the sensation of blood flowing in and out of it—something I cannot describe that I will never feel again.
 
+<br>
 I killed them. I killed them all, my legs too. I drove them home from a road trip to the mountains, it was almost midnight, they were all asleep—I fell asleep too, my eyes rolling into my head and a warm blanket gracing my face—I crossed the street. My father died on impact. My sister died in the ambulance. My mother died in the hospital the next day. I became paralyzed from the waist down.
 
 I wish I hadn't looked at their bodies as they rolled us out. Disfigured, agape, inhuman. They looked like demons, and they come to me in my dreams. I did that to them. I did that and they never changed back. They never came back.
