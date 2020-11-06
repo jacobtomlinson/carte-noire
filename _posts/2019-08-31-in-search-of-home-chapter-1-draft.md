@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      In Search of Home - Chapter 1 [DRAFT]
+title:      In Search of Home — Chapter 1 [DRAFT]
 date:       2019-08-31 10:51:40
 author:     Aamir Azhar
 summary:    Chapter 1 of my novel, In Search of Home.
