@@ -87,27 +87,6 @@ Up and down, the water bounces my body. Up and down, the waves take me over. Up 
 And the waves return to shore.
 
 ### 3
-I remember your eyes when you told me.
-
-I remember how they looked when we first fell in love.
-
-eyes shut, or blinking slowly, lips curled like your toes were, yes your toes were on that rainy evening after the In-N-Out closed, and we had to run home because we didn’t want to wait for the bus—was it your home or mine?—was it your choice or mine?—yes I remember those toes, you had just put nail polish on them, it was green, or light pink with smileys on them, and I was never a foot man, I found them disgusting did I? but I kissed them and I made my way up your legs until I looked up and your eyes were melting from your skull, and your lips were laden with saliva, and I joined you in your thoughts, and you joined me in my heart, and I looked at those toes as they curled and I thought to myself, how deeply the ugly can love, how deeply I fell in love with you,
-
-and you were not good enough for me, though I knew—did you have anything going for you but me? would your life have fallen apart if I left you?
-
-but I did not leave you, you left me, you left me and I fell apart, my greatest self, thinking of the rain that evening—if it did not rain would we have ran? would we have made love? would we have been together now?
-
-I loved you as I knew I was better. I knew I could do better, I knew it and I know it now as I sit in this—shack?—where am I? sitting, sitting and thinking of you and the hole you left in my ceiling and the boots you left on my shoe rack, thinking of how I could have done better, I could do better and I will do better, you with your ugly toes, your unsymmetrical face, you with your stupid eyes and that lovely dress you wore that I could have torn if it did not come apart so easily, the one with flowers over such grassy green—viridis? is that the word—
-
-maybe you left the dress in my closet, maybe I can get up from where I’ve been and find it, maybe it is upstairs, waiting for me, I will
-
-I will go and I will see it, I will go and I will see it and it will be waiting for me, I will embrace it and it will accommodate my body as it did, yes it will wrap around me as it whispers in my ear, “my love, you have grown so somber, my love, I cannot live without you,”
-
-and I will believe it, I will believe it because you are so ugly, your fucking laugh and your personality and—how many friends did you keep while we were together?—did you even have any hobbies?—fucking ugly, and I know you cannot live without me, so I wait in this basement, but it feels like an attic, because I know you will fall through the hole in my ceiling and your body will summon mine, and I will call the spirits, and they will watch us make love, watch us fuck one last time before you float through the ceiling again, leaving me to rot in this hellhole you created for me:
-
-and maybe, we would still have ran
-
-### 4
 Soft. It was soft and it was small, what we had. It was insignificant; I don’t need to talk about it. It was just a thought; it’s all I had. But it was small, it was precious, and I wonder—would it have grown if we let it?
 
 Why can’t I have you, lovely?
@@ -134,7 +113,26 @@ Why can’t I have you?
 
 It’s been two years and I still think of you. Two years—I don’t know why.
 
-Why can’t I have you, lovely?
+### 4
+I remember your eyes when you told me.
+
+I remember how they looked when we first fell in love.
+
+eyes shut, or blinking slowly, lips curled like your toes were, yes your toes were on that rainy evening after the In-N-Out closed, and we had to run home because we didn’t want to wait for the bus—was it your home or mine?—was it your choice or mine?—yes I remember those toes, you had just put nail polish on them, it was green, or light pink with smileys on them, and I was never a foot man, I found them disgusting did I? but I kissed them and I made my way up your legs until I looked up and your eyes were melting from your skull, and your lips were laden with saliva, and I joined you in your thoughts, and you joined me in my heart, and I looked at those toes as they curled and I thought to myself, how deeply the ugly can love, how deeply I fell in love with you,
+
+and you were not good enough for me, though I knew—did you have anything going for you but me? would your life have fallen apart if I left you?
+
+but I did not leave you, you left me, you left me and I fell apart, my greatest self, thinking of the rain that evening—if it did not rain would we have ran? would we have made love? would we have been together now?
+
+I loved you as I knew I was better. I knew I could do better, I knew it and I know it now as I sit in this—shack?—where am I? sitting, sitting and thinking of you and the hole you left in my ceiling and the boots you left on my shoe rack, thinking of how I could have done better, I could do better and I will do better, you with your ugly toes, your unsymmetrical face, you with your stupid eyes and that lovely dress you wore that I could have torn if it did not come apart so easily, the one with flowers over such grassy green—viridis? is that the word—
+
+maybe you left the dress in my closet, maybe I can get up from where I’ve been and find it, maybe it is upstairs, waiting for me, I will
+
+I will go and I will see it, I will go and I will see it and it will be waiting for me, I will embrace it and it will accommodate my body as it did, yes it will wrap around me as it whispers in my ear, “my love, you have grown so somber, my love, I cannot live without you,”
+
+and I will believe it, I will believe it because you are so ugly, your fucking laugh and your personality and—how many friends did you keep while we were together?—did you even have any hobbies?—fucking ugly, and I know you cannot live without me, so I wait in this basement, but it feels like an attic, because I know you will fall through the hole in my ceiling and your body will summon mine, and I will call the spirits, and they will watch us make love, watch us fuck one last time before you float through the ceiling again, leaving me to rot in this hellhole you created for me:
+
+and maybe, we would still have ran
 
 ### 5
 In one day I had lost such integral, special things.
