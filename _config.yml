@@ -5,7 +5,7 @@ description: "Sebuah Buku Catatan Kecil"
 baseurl: ""
 url: "https://www.oom.web.id/"
 title_description: "Sebuah situs sederhana yang bernuansa gelap untuk menuliskan catatan-catatan kecil"
-title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+title_image: "https://secure.gravatar.com/avatar/fb74bc1d3f28ab6a296ebc13de8b01de?s=500&d=mm"
 google_analytics: "UA-20365477-4"
 disqus_account: aping
 github_repository: https://github.com/apynx/apynx.github.io
