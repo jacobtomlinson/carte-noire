@@ -26,12 +26,12 @@ in cycle, then wane
 
 descending,
 
-like moon
+moonlike,
 
 into black
 
 <br>
-as fall is an evening
+as fall is evening
 
 and spring is dawn
 
