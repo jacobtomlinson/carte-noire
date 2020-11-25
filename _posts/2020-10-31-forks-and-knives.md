@@ -20,4 +20,4 @@ I wonder now, when you started to come back late, when you stopped responding to
 
 The look remained until the end. And every time you gave it, I would be helpless. You gave it until you left. You gave it as you broke my heart. Does that mean you still loved me then? And if we passed on the street, and you gave me that look once more—does that mean you still love me now? If you did, you would. I know it with my heart. I know it with my eyes.
 
-I still long for its hypnosis. Take my heart. Eat it with your fork and knife. Melt it with your eyes. It is yours and I will answer your call. I will answer your eyes, I will bleed in front of you, I will die, and I will die in bliss. Open your eyelids slowly and I will follow. I will find you and give you what’s left of me, as I did before, as I would again.
+I long for its hypnosis. Take my heart. Eat it with your fork and knife. Melt it with your eyes. It is yours and I will answer your call. I will answer your eyes, I will bleed in front of you, I will die, and I will die in bliss. Open your eyelids slowly and I will follow. I will find you and give you what’s left of me, as I did before, as I would again.
