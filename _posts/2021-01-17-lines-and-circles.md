@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Lines and Circles [FIRST DRAFT]
-date:       2020-01-17 10:34:00
+date:       2021-01-17 10:34:00
 author:     Aamir Azhar
 summary:    A story about language and divinity.
 categories: stories
