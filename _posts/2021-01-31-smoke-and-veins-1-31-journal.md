@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      1.31 journal [7min free-write]
+title:      smoke and veins [1.31 journal]
 date:       2021-01-31 15:31:00
 author:     Aamir Azhar
 summary:    Free-write journal entry.
