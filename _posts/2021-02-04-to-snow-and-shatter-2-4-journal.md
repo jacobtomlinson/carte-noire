@@ -16,8 +16,8 @@ The snow is smooth at the top of the roofs. When it fell this morning, it was si
 
 The head is clouded with a thousand and none thoughts. The pathways up and down the mind are frozen; like ice, if it is pressured, it will shatter. The brain desires its beginning, which is its end—to be bathed in warm water and new flesh that pulses with the texture of soil.
 
-More snow. One more inch. Two. The roof will cave in and the conscience will shatter. Then it will melt, fall wordlessly into the soil, and there it can grow with love.
+More snow. One more inch. Two. The roof will cave in and the conscience will shatter. Then it will melt, fall wordlessly into the soil, and from there it can grow with love.
 
-But for now, it is frozen. It waits for its return.
+For now, it is frozen. It waits for its return.
 
 To shatter.
