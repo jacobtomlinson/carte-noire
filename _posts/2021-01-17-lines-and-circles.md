@@ -110,14 +110,14 @@ My mother looked up, coffee cup still in her hand—some coffee splashed onto he
 
 My father never took his eyes off of her. He snatched the coffee cup out of her hand. “Fucking bitch,” he said, with the same deep voice he used before, except it was sharper; it reverberated off the walls and into my ears. “You can’t do anything right.”
 
-He walked back to the chair with the cup. My mother kept standing there, perhaps up to a minute or two, with the same look on her face of apologia and fear. I could not take my eyes off of her. That look she gave him—gave us—I recognized it. She wore it after her miscarriage last spring.
+He walked back to the chair with the cup. My mother kept standing there, perhaps up to a minute or two, with the same look on her face of apologia and fear. I could not take my eyes off of her. That look she gave him—gave us—I recognized it.
 
 <br>
 I always imagined him as a boy. Twelve year old me imagined us sitting together as I read in the living room, imagined him sitting on his high chair as I fed him applesauce and juice. My mother told me he was due in October, and I thought of little him coming home to marvel at our Christmas tree, with little flakes of snow on his nose and cheeks, yawning, first clenched and eyes closed.
 
 Then came April. Winter was receding, the clouds cleared and the sky confessed a pleasant light blue—winter, with its blacks, whites, and greys was giving way to spring’s proud greens and blues. I was finishing up the seventh grade. My mother had to go to the hospital for a few days; my father told me she was just sick, but I knew it had to do with the boy.
 
-She came back with my father on a warm Friday night. Her skin was pale, and I remember thinking she left part of herself in the hospital. I could not tell if it was spiritual or physical, but I knew she wasn’t entirely there. She gave me a weak smile and shrugged, then turned away and walked upstairs with my father. Her smile was what told me. It apologized.
+She came back with my father on a warm Friday night. Her skin was pale, and I remember thinking she left part of herself in the hospital. I could not tell if it was spiritual or physical. She gave me a weak smile and shrugged, then turned away and walked upstairs with my father. Her smile was what told me. It apologized.
 
 That following night was short. I woke up at dawn with ease. It was quiet downstairs, and I tiptoed to avoid waking up my parents. I walked to the front door and let the sharp air whoosh past my body into the house, like it was coming home after being away, like it belonged with us inside. I walked outside and greeted the birds. Our farm was small, smaller than the other farms in the area. All we had were cattle, some hogs, and soy, everything surrounded by trees on each side and fences at both ends.
 
@@ -125,9 +125,9 @@ The image of my mother’s face distilled in my mind. It was the same face she g
 
 I wondered if he yelled at her in the car or in the bedroom that night, perhaps about her diet, something she did that he told her not to do, and now it was her fault something had happened to the boy—her undisciplined self who, according to him, could barely take care of herself or her child, let alone help him tend to their house and farm every day.
 
-I walked down the gravel road to the cattle and hogs, and the open skies and endless fields communicated to me a profound sense of nothingness. Emptiness and silence filled me whole. I felt accepted. There was nothing for me to justify, nothing for me to be. The world around me was timeless, undefined, and I felt then a conviction—I remember these exact words ringed in my head—to *let it be*.
+I walked down the gravel road to the cattle and hogs, and the open skies and endless fields communicated to me a profound sense of nothingness. Emptiness and silence filled me whole. I felt accepted. There was nothing for me to justify. The world around me was timeless, undefined, and I felt then a conviction—I remember these exact words ringed in my head—to *let it be*.
 
-The sun peered down at the cattle grazing. The cattle must have noticed me as I walked to them, but they knew I was no threat, and they didn’t care to acknowledge my presence. The cows and bulls were fat and well-fed. I had always been amazed at their size, I had been for years, ever since my father helped me feed them when I was six. I always wondered why they let such frail humans control them and give them work. We owned them. All of them had letters and numbers on their rear, some enclosed with circles, some sideways or upside down, some with legs or wings or little chairs to sit on. I identified the marks on one of the cows—she was my favorite, I called her Betty—fat with a short tail and udders dangling, visible behind its legs.
+The sun peered down at the cattle grazing. The cattle must have noticed me as I walked to them, but they knew I was no threat and they didn’t care to acknowledge my presence. The cows and bulls were fat and well-fed. I had always been amazed at their size, I had been for years, ever since my father helped me feed them when I was six. I always wondered why they let such frail humans control them and give them work. We owned them. All of them had letters and numbers on their rear, some enclosed with circles, some sideways or upside down, some with legs or wings or little chairs to sit on. I identified the marks on one of the cows—she was my favorite, I called her Betty—fat with a short tail and udders dangling, visible behind its legs.
 
 ![Cattle-Branding](/resources/images/01-17-2021/cattle_branding.png)
 
