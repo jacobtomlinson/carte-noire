@@ -12,4 +12,6 @@ tags:
   - earth
   - sky
 ---
-Smoke rises from the ground and I walk alone among the uniform, black sky. I am alone; not even the stars can see me, and all I hear are screams from underground. When I press my heel against the concrete, the earth ripples, splitting out into veins that lead North and South, the formless future and the urgent now. *Demanding*, I say. *Demand from me*, it stutters. And my eyes follow its veins to the places I may belong, but I stand—all I do is stand until my knees buckle and I fall into the empty earth.
+Smoke rises from the ground and I walk alone among the uniform, black sky. I am alone; not even the stars can see me, and all I hear are screams from underground. When I press my heel against the concrete, the earth ripples, splitting out into veins that lead North and South, the formless future and the urgent now.
+
+*Demanding*, I whisper. *Demand from me*, it shouts. And my eyes follow its veins to the places I may belong, but I stand—all I do is stand until my knees buckle and I fall into the empty earth.
