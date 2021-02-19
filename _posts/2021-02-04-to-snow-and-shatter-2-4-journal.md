@@ -21,3 +21,5 @@ More snow. One inch. Two. The roof will cave in; the conscience will shatter. Th
 For now, it is frozen. It waits for its return.
 
 To shatter.
+
+![Roof-Snow](/resources/images/02-04-2021/nyc_roof_snow.jpg)
