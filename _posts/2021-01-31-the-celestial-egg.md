@@ -4,7 +4,7 @@ title:      the celestial egg
 date:       2021-01-31 15:31:00
 author:     Aamir Azhar
 summary:    A free-written piece using nine provided words from a writing group.
-categories: poetry
+categories: prose
 thumbnail:  pencil-square-o
 tags:
   - cosmic
