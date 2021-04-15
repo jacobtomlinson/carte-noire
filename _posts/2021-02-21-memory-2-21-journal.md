@@ -4,7 +4,7 @@ title:      memory [2.21 journal]
 date:       2021-02-21 14:54:00
 author:     Aamir Azhar
 summary:    Free-write journal entry.
-categories: poetry
+categories: prose
 thumbnail:  pencil-square-o
 tags:
   - caterpillar
