@@ -24,4 +24,4 @@ The monster, or phantasm, crystallized in the living room, its skin looked soft 
 Once it finished eating the chocolate, fielding Chris and I's stares, the room illuminated (the sun may have found a good angle), and the monster decided to go home. Had it come for the chocolate, or for me, maybe mom or Chris? Either way, we never saw it again. I never wore overalls again either.
 
 <br>
-<sup>From a ten minute free-write with these words: crystallize, puttering (to move or act aimlessly or idly, to work at random/tinker), honeycomb, lavish, illuminate, dressed, stitching, chocolate, aerate (introduce air into), wool*</sup>
+<sup>*From a ten minute free-write with these words: crystallize, puttering (to move or act aimlessly or idly, to work at random/tinker), honeycomb, lavish, illuminate, dressed, stitching, chocolate, aerate (introduce air into), wool*</sup>
