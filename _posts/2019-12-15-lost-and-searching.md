@@ -12,8 +12,6 @@ tags:
   - love
   - solitude
 ---
-**Five minute free-write**
-
 lost and searching
 
 to make mistakes and know
@@ -39,3 +37,6 @@ and what i wanted then
 or will those needs and wants change
 
 only to change again?
+
+<br>
+<sup>*Five minute free-write*</sup>
