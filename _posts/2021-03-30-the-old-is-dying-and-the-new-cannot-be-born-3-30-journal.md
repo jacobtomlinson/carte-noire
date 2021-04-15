@@ -4,7 +4,7 @@ title:      the old is dying and the new cannot be born [3.30 journal]
 date:       2021-03-30 22:28:00
 author:     Aamir Azhar
 summary:    Free-write journal entry.
-categories: poetry
+categories: prose
 thumbnail:  pencil-square-o
 tags:
   - dystopian
