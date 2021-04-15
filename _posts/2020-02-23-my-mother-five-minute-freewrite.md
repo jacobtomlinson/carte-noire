@@ -12,8 +12,6 @@ tags:
   - love
   - mother
 ---
-**Five minute free-write**
-
 My mother.
 
 Who would she be if she was not?
@@ -48,3 +46,6 @@ Would I admire her more?
 Would her soul flow and her mind be freed
 
 If she had room to soar?
+
+<br>
+<sup>Five minute free-write</sup>
