@@ -4,7 +4,7 @@ title:      to snow and shatter [2.4 journal]
 date:       2021-02-04 20:25:00
 author:     Aamir Azhar
 summary:    Free-write journal entry.
-categories: poetry
+categories: prose
 thumbnail:  pencil-square-o
 tags:
   - block
