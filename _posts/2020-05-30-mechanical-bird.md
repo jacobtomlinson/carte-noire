@@ -4,7 +4,7 @@ title:      mechanical bird
 date:       2020-05-30 03:34:17
 author:     Aamir Azhar
 summary:    Fix me and I'll fly away.
-categories: poetry
+categories: prose
 thumbnail:  pencil-square-o
 tags:
   - dependence
