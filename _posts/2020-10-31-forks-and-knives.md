@@ -4,7 +4,7 @@ title:      forks and knives
 date:       2020-10-31 14:15:00
 author:     Aamir Azhar
 summary:    Devour me.
-categories: poetry
+categories: prose
 thumbnail:  pencil-square-o
 tags:
   - admiration
