@@ -4,7 +4,7 @@ title:      stutter [2.18 journal]
 date:       2021-02-18 20:17:00
 author:     Aamir Azhar
 summary:    Free-write journal entry.
-categories: poetry
+categories: prose
 thumbnail:  pencil-square-o
 tags:
   - death

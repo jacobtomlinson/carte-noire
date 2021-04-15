@@ -4,7 +4,7 @@ title:      sandpaper
 date:       2020-05-27 07:33:37
 author:     Aamir Azhar
 summary:    Sandpaper, trauma, tension.
-categories: poetry
+categories: prose
 thumbnail:  pencil-square-o
 tags:
   - bricks

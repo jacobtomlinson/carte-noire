@@ -4,7 +4,7 @@ title:      tethered [2.13 journal]
 date:       2021-02-13 13:00:00
 author:     Aamir Azhar
 summary:    Free-write journal entry.
-categories: poetry
+categories: prose
 thumbnail:  pencil-square-o
 tags:
   - dreams
