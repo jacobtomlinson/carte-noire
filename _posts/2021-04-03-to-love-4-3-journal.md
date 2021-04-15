@@ -4,7 +4,7 @@ title:      to love [4.3 journal]
 date:       2021-04-03 12:09:00
 author:     Aamir Azhar
 summary:    Free-write journal entry.
-categories: poetry
+categories: prose poetry
 thumbnail:  pencil-square-o
 tags:
   - clay
