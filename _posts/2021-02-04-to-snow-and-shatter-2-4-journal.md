@@ -14,9 +14,9 @@ tags:
 ---
 The snow is smooth at the top of the roofs. When it fell this morning, it was silent—yet with each hour that passed, unknown and undetected, its weight had grown stronger and its foundation became weaker.
 
-The head is clouded with a thousand and none thoughts. The pathways up and down the mind are frozen; like ice, if it is pressured, it will shatter. The brain desires its beginning, which is its end—to be bathed in warm water and new flesh that pulses with the texture of soil.
+The head is clouded with a thousand or none thoughts. The pathways up and down the mind are frozen; like ice, if pressured, it will shatter. The brain desires its beginning, which is its end—to be bathed in warm water and new flesh that pulses with the texture of soil.
 
-More snow. One inch. Two. The roof will cave in; the conscience will shatter. Then it will melt, fall wordlessly into the soil, and from there it can grow whole.
+More snow. One inch. Two. The roof will cave in; the conscience will shatter. Then it will melt, fall wordlessly into the earth, and from there it can grow whole.
 
 For now, it is frozen. It waits for its return.
 
