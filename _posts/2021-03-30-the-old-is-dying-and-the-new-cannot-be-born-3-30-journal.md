@@ -12,16 +12,14 @@ tags:
   - new
   - technology
 ---
-The buildings are occupied by green monsters and a stench of resignation. Our heads are down. The computers are faster than us. Their faces are brighter. We’ve completed it. Our hearts are aching. Our consciences are heavy.
+The buildings are occupied by green fungi and a stench of resignation. Our heads are down. The computers are faster than us. Their faces are brighter. We’ve completed it. Our hearts are aching. Our consciences are heavy.
 
-Screams from outside fill our ears with curses and mourning. Our heads remain down. Our hearts ache. Our spirits are twisted in knots.
+Screams from outside fill our ears with curses and mourning. Our heads remain down. Our hearts ache. Our spirits twist in knots.
 
-The old is dying. Its hull is colored with rust and its engine is stalling. Our roofs cave in on us but our desks will keep us sheltered.
+The old is dying. Its hull is colored with rust and the engine is stalling. The screens flicker. The roofs we built cave in on us, but our desks might keep us sheltered.
 
-The old is dying. The new cannot be born. The old is falling, the new is left unfound. Destruction, determined, continued, built on top of, then torn down again—is the new on the horizon? Or is it a mirage?
+The new cannot be born. But it watches us as we think of it. We need not see it but in our hearts. We’ll take back our land from the old. We’ll give our lives back to the new.
 
-The new will wait for us as their buildings collapse and tremble. It will wait when they give us back our lands and people. Our eyes are closed while we dream of the new. We need not see it if it’s hidden in our hearts.
-
-The old is dying, and the new cannot be born. But it trembles. It yells in its womb, its soul bursting out of its throat. The walls that imprison it melt from the inside and we will glimpse its eyes as it’s swallowed again. What will we do?
+The old is dying; the new cannot be born. But it trembles. It yells in its womb, its soul bursting out from its throat. The walls around it will melt from the inside and we’ll watch its eyes as it’s swallowed once again. What will we do?
 
 The old is dying. The new—it must be born. Now.
