@@ -4,7 +4,7 @@ title:      don't let the dust settle
 date:       2020-02-23 19:42:00
 author:     Aamir Azhar
 summary:    A free-written short "poem" on change using eight provided words at a writing group meetup.
-categories: poetry
+categories: prose
 thumbnail:  pencil-square-o
 tags:
   - change
