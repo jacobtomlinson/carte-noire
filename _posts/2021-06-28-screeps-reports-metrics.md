@@ -39,7 +39,7 @@ The library has a few main components: the main Dashboard, an assortment of Widg
 
 The Dashboard is a container for widgets. When invoked, it returns a render function that will render each widget in its defined location:
 
-```
+```typescript
 const dashboard = Dashboard({ 
     room: this.office.name, 
     widgets: [
@@ -82,7 +82,7 @@ These widgets generally take two arguments: a `data` function, invoked each tick
 
 The widget function actually returns another function, which the Dashboard calls to render the widget. You can save this defined widget and pass it to multiple dashboards:
 
-```
+```typescript
 const title = Rectangle(Label(() => 'Facilities Manager Report'))
 
 const dashboard = Dashboard({
@@ -109,7 +109,7 @@ The basic metric type is a Timeseries, which is essentially an array of tuples `
 
 A new value can be added to the timeseries with the `update` function. Because we have limited resources in Screeps, the `update` function has an optional `limit` parameter, keeping only the newest `limit` entries.
 
-```
+```typescript
 const metric = newTimeseries();
 
 // Can provide the value, implying time is current Game.time:
@@ -129,7 +129,7 @@ Although not optimized for serialization, a Timeseries is a "plain object," so i
 
 In addition to the basic timeseries, there is a DeltaTimeseries. Instead of recording the value itself, it records how much the value has changed. This is useful to track the rate at which the Controller is being upgraded, for example:
 
-```
+```typescript
 const metric = newTimeseries();
 
 updateDelta(metric, room.controller.progress, 100)
@@ -137,7 +137,7 @@ updateDelta(metric, room.controller.progress, 100)
 
 If you want to track the rate at which your Sources are being depleted, you'll see a huge spike each time they get refilled. To prevent this, you can use `updateNonNegativeDelta`, which (just as it sounds) will ignore negative changes:
 
-```
+```typescript
 const metric = newTimeseries();
 
 updateNonNegativeDelta(metric, -source.energy, 100)
@@ -147,7 +147,7 @@ updateNonNegativeDelta(metric, -source.energy, 100)
 
 Now we can plot these metrics simply with a LineChart.
 
-```
+```typescript
 const widget LineChart( 
     () => ({
         mineRate: granularity(metric, 5),
