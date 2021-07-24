@@ -1,0 +1,23 @@
+---
+layout:     post
+title:      a title
+date:       2020-06-18 23:35:25
+summary:    sub title
+categories: grafana
+thumbnail: imageit
+tags:
+ - grafana
+ - devops
+---
+
+
+After having the plugin installed for a couple of years, I finally used
+[Grafana][1]'s [ImageIt][2] plugin on a dashboard request.
+
+
+---
+
+
+[1]: https://grafana.com/
+[2]: https://grafana.com/grafana/plugins/pierosavi-imageit-panel
+[3]: https://help.github.com/en/enterprise/2.13/user/articles/configuring-a-publishing-source-for-github-pages
