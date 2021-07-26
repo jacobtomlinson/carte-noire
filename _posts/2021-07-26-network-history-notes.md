@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Dates are friction
+title:      Network History
 date:       2021-07-24 19:00:00
-summary:    Friction is pain
+summary:    History is fun.
 categories: radio
 tags:
  - education
