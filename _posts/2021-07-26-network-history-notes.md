@@ -11,16 +11,18 @@ tags:
  - networking
 ---
 
+
 This post is a placeholder to rubber duck my way into understanding the history of data networking better.
 
 `Last Updated: 26 July 2021`
-Timeline 
---- 
 
-1790: telegraphy
-1869: First use of "Mance Heliograph" at Karachi in British India 
-1890: US Army demonstrates 2000 mile Heliograph network[(1)][1]
-1899: Signal Corps History Article from 1899 lists 'flag, heliograph, electrica signalling by telegraphy or telephony, and war balooning'[(1)][1]
+##### Timeline 
+
+- `1790`:   telegraphy
+- `1869`:   First use of "Mance Heliograph" at Karachi in British India 
+- `1890`:   US Army demonstrates 2000 mile Heliograph network[(1)][1]
+- `1899`:   US Signal Corps History Article from 1899 lists 'flag, heliograph, electrica signalling by telegraphy or telephony, and war balooning'[(1)][1]
+
       - max one hop distance ~180 miles; between Mount Ellen + Mount Uncompahgre, Colorado
       - First 
 ---
