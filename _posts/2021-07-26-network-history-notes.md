@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Network History
-date:       2021-07-24 19:00:00
+date:       2021-07-26 02:00:00
 summary:    History is fun.
 categories: radio
 tags:
@@ -19,11 +19,11 @@ This post is a placeholder to rubber duck my way into understanding the history 
 ##### Timeline 
 
 - `2nd centruy BC`: phryctoriae are used to convey transmission of specific prearranged messages. 
-
-`Aeschylus in the tragedy Agamemnon describe how the message for the fall of Troy arrived at Mycenae with phryctoriae.`
+```
+Aeschylus in the tragedy Agamemnon describe how the message for the fall of Troy arrived at Mycenae with phryctoriae.
 Later complicated with the Polybius square to encode generic data.
 Water vessel based timer used to decode information encoded into visible flame duration 
-
+```
 - `9th Century`:  720 km (450 mi) | during the Arab–Byzantine wars, the Byzantine Empire used a semaphore system of beacons to transmit messages from the border with the Abbasid Caliphate across Asia Minor to the Byzantine capital, Constantinople.
 - `1790`:   First use of the word telegraphy?
 - `1792`:   Semaphore telegraph invented in France by Claue Chappe
@@ -38,10 +38,10 @@ Water vessel based timer used to decode information encoded into visible flame d
 - `1899`:   US Signal Corps History Article from 1899 lists 'flag, heliograph, electrica signalling by telegraphy or telephony, and war balooning'[(1)][1]
 
       - max one hop distance ~180 miles; between Mount Ellen + Mount Uncompahgre, Colorado
-      - First 
+
 - `1910`:   Steamships have 'Marconi Rooms'
 - `1920`:   Canadian Fores Protection Manual instructs on use of Heliograph...
-- 
+
 ---
 
 
