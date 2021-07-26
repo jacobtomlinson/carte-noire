@@ -24,7 +24,7 @@ Aeschylus in the tragedy Agamemnon describe how the message for the fall of Troy
 Later complicated with the Polybius square to encode generic data.
 Water vessel based timer used to decode information encoded into visible flame duration 
 ```
-- `9th Century`:  720 km (450 mi) | during the Arab–Byzantine wars, the Byzantine Empire used a semaphore system of beacons to transmit messages from the border with the Abbasid Caliphate across Asia Minor to the Byzantine capital, Constantinople.
+- `9th Century`:  720 km (450 mi)  during the Arab–Byzantine wars, the Byzantine Empire used a semaphore system of beacons to transmit messages from the border with the Abbasid Caliphate across Asia Minor to the Byzantine capital, Constantinople.
 - `1790`:   First use of the word telegraphy?
 - `1792`:   Semaphore telegraph invented in France by Claue Chappe
 - `1816`:   Francis Ronalds demonstrates first practical telegraph
