@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Pibernetes - via microk8s and via Rancher
-date:       2021-07-24 19:00:00
+date:       2021-07-27 23:00:00
 summary:    This is more a reminder to myself than anything
 categories: productivity
 tags:
