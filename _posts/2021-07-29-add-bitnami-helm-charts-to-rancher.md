@@ -18,8 +18,7 @@ tags:
 
 So far I like [rancher][1].
 
-It has a gui that gives warm and fuzzies to those like myself novice pilots of
-kubernetes.
+It has a real shiny gui that gives warm and fuzzies to novice kubernetes pilots  like myself.
 
 But when trying to install stackstorm-ha on my new pi-bernetes cluster; I found
 I was missing some `chart repositories` for a couple of dependancies:
