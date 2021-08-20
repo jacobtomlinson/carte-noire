@@ -31,13 +31,13 @@ The purpose of walls and ramparts is to protect your core facilities until your 
 
 I elected to take a shortcut and use the min-cut implementation by Saruss, Chobobobo, and Shibdib [in screepers-snippets](https://github.com/screepers/screeps-snippets/blob/master/src/misc/JavaScript/minCutWallRampartsPlacement.js). Here's an example of drawing a perimeter around our extensions field and headquarters:
 
-![A min-cut perimeter around headquarters and extensions](/images/screeps-patrolling-perimeter-1.png)
+![A min-cut perimeter around headquarters and extensions](/assets/screeps-patrolling-perimeter-1.png)
 
 That's a start, but there are some issues with this layout. Everything inside the perimeter is protected, but we rely on refiller minions to manage the energy levels in our extensions. If our room is under attack, the refillers need to get from the spawn (outside the perimeter) to the extensions (inside the perimeter), and they are vulnerable to hostiles.
 
 Also, the perimeter is too close to our structures: creeps with Ranged Attack can target structures behind the ramparts. We should push the ramparts out three squares from our existing structures. That looks better:
 
-![A better min-cut perimeter](/images/screeps-patrolling-perimeter-2.png)
+![A better min-cut perimeter](/assets/screeps-patrolling-perimeter-2.png)
 
 ### Active Towers
 
