@@ -100,7 +100,7 @@ We've split logistics minions into a shared pool, no longer dedicated to a singl
 
 # Results
 
-![assets/screeps-spawning-budget-1.png](Illustration of RCL milestones table)
+![/assets/screeps-spawning-budget-1.png](Illustration of RCL milestones table)
 
 Prior to Botarena, I was hitting RCL4 in under 20k ticks, but didn't have reservers or roads to remotes yet. After implementing budgets (and fixing several issues along the way) I had both reservers and roads to remotes and was back to hitting RCL4 in under 20k ticks. We're now hitting RCL5 in ~37k ticks instead of ~80k ticks, and reaching GCL2 aroud 56k ticks, so the new budgets are paying off in long-term efficiency as well.
 
