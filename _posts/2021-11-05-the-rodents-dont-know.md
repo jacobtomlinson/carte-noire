@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      entropy
+title:      The Rodents Don't Know
 date:       2021-10-08 11:13:00
 author:     Aamir Azhar
 summary:    An apocalypse. For them.
