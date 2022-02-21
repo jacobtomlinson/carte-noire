@@ -4,20 +4,16 @@ title:      "Microservices and Monoliths"
 date:       2022-02-21 00:00:00
 author:     Jon Winsley
 comments:   true
-summary:    "Microservices are the new wave of application architecture, but are they right for every project?"
+summary:    "Microservices are a popular application architecture, but are they right for every project?"
 ---
 
 The concept of microservice architecture has been around for several years, offering to relieve many of the pain points of massive monolithic applications. Yet companies still struggle to understand and implement microservices well. Are microservices a panacea, the default choice for every application? Are they just an over-hyped buzzword? Do they introduce more problems than they solve?
 
-[All right, let's outline...]
-
-1. Definition of Microservices vs. Monoliths
-2. Monolith Pain Points (What Microservices Do Well)
-3. Doing Microservices Badly
-
 ## Microservices and Monoliths
 
 Some of the confusion comes from uncertainty about what these words mean. What is a "microservice"? What differentiates it from a "monolith"?
+
+![Monoliths at Stonehenge Diego: Delso, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/a/a3/Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_02.JPG)
 
 ### Monoliths
 
