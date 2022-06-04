@@ -5,7 +5,7 @@ description: "Time series data nerd."
 title_description: "Grafana/InfluxDB Time series data nerd."
 baseurl: ""
 url: "http://lo0.ca/"
-title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+title_image: https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm
 google_analytics: "UA-15919943-2"
 # disqus_account: cartenoire
 github_repository: https://github.com/relishcolouredhat/lo0.ca
@@ -22,7 +22,7 @@ google_plus_link:
 stackoverflow_link:
 xing_link:
 facebook_link:
-https://www.facebook.com/kelsey.comstock
+https://www.facebook.com/kelsey.comstock/
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i> by Kelsey Comstock"
 footer_right: "Beep Boop"
