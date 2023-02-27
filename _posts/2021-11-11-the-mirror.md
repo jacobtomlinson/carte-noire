@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      The Mirror
-date:       2021-07-29 19:18:00
+date:       2021-11-11 19:18:00
 author:     Aamir Azhar
 summary:    Something from Lynn Xu's class on 3/17.
 categories: poetry
